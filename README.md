@@ -107,9 +107,10 @@ Each bar shows the % of predicted links per class pair:
 
 ## 📚 Acknowledgments
 
-- STRING Database for interaction data.
-- Biomni Toolkit for feature extraction and priority scoring.
-- Developed as part of a research project on vaccine candidate network inference.
+- [STRING DB](https://string-db.org/) – PPI data source  
+- [Biomni Toolkit](https://github.com/snap-stanford/biomni) – Feature generation & priority scoring  
+- Developed as part of the **CELL Lab** research initiative at NDSU.
+
 
 ---
 
