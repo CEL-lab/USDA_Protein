@@ -26,7 +26,7 @@ This project explores graph neural network (GNN) models for predicting novel pro
 
 Below is the STRING-based protein-protein interaction network built using the top 2000 protein sequences submitted to the STRING API:
 
-![STRING PPI Network](./Results/string_normal_image.png)
+![STRING PPI Network](string_normal_image.png)
 
 > **Note:** This image represents known interactions only. New links predicted using GNNs are analyzed separately.
 
