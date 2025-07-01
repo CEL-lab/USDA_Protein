@@ -5,7 +5,7 @@ This project explores graph neural network (GNN) models for predicting novel pro
 ---
 
 ## 📁 Repository Structure
-
+```
 │
 ├── Data/
 │   │── top_2000_sequences.faa # Input protein sequences
@@ -19,8 +19,7 @@ This project explores graph neural network (GNN) models for predicting novel pro
 │ ├── predicted_links_table.csv # Priority class pair table
 │ └── heatmap_predicted_links.png # Visualization of class-wise link patterns
 └── README.md       
-
-
+```
 ---
 
 ## 📊 Objective
