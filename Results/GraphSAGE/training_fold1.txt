@@ -1,0 +1,1 @@
+[GraphSAGE][Fold 1] Epoch 48/50, Hidden=64, LR=0.001, Loss=28867426.0000, Test AUC=0.5456
