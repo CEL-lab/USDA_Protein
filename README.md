@@ -22,7 +22,7 @@ Below is the STRING-based protein-protein interaction network built using the to
 │   ├── string_mapping.tsv # Mapping from STRING IDs to FASTA IDs
 │   └── complete_vaccine_analysis_all_3257_proteins.csv # Feature + priority annotations
 ├── Code/
-│   ├── link_prediction_experiment.ipynb # Main Jupyter notebook
+│   └── link_prediction_experiment.ipynb # Main Jupyter notebook
 │
 ├── Results/
 │ ├──GraphSAGE/
