@@ -4,6 +4,15 @@ This project explores graph neural network (GNN) models for predicting novel pro
 
 ---
 
+## 🧬 STRING Network Visualization
+
+Below is the STRING-based protein-protein interaction network built using the top 2000 protein sequences submitted to the STRING API:
+
+![STRING PPI Network](string_normal_image.png)
+
+> **Note:** This image represents known interactions only. New links predicted using GNNs are analyzed separately.
+
+---
 ## 📁 Repository Structure
 ```
 │
@@ -20,17 +29,6 @@ This project explores graph neural network (GNN) models for predicting novel pro
 │ └── heatmap_predicted_links.png # Visualization of class-wise link patterns
 └── README.md       
 ```
----
-
-## 🧬 STRING Network Visualization
-
-Below is the STRING-based protein-protein interaction network built using the top 2000 protein sequences submitted to the STRING API:
-
-![STRING PPI Network](string_normal_image.png)
-
-> **Note:** This image represents known interactions only. New links predicted using GNNs are analyzed separately.
-
----
 ## 📊 Objective
 
 To investigate the nature of **newly predicted links** between proteins, particularly:
