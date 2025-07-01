@@ -1,1 +1,0 @@
-[GAT][Fold 1] Epoch 43/50, Hidden=64, LR=0.001, Loss=60212800.0000, Test AUC=0.5276
