@@ -1,6 +1,6 @@
 # 🔗 GNN-based Link Prediction of Vaccine Candidate Proteins
 
-This project explores graph neural network (GNN) models for predicting novel protein-protein interactions (PPIs) using biological features derived from vaccine candidate analysis. Specifically, we evaluate whether newly predicted links occur between proteins of the same or different priority classes (e.g., High–High vs. High–Low).
+This project explores Graph Neural Networks (GNNs) for predicting novel protein-protein interactions (PPIs) using features from vaccine candidate analysis. We analyze whether these predicted links tend to connect proteins of similar or different priority classes (e.g., High–High vs. High–Low), especially among **isolated proteins** with no known STRING interactions.
 
 ---
 
@@ -25,8 +25,15 @@ Below is the STRING-based protein-protein interaction network built using the to
 │   ├── link_prediction_experiment.ipynb # Main Jupyter notebook
 │
 ├── Results/
-│ ├── predicted_links_table.csv # Priority class pair table
-│ └── heatmap_predicted_links.png # Visualization of class-wise link patterns
+│ ├──GraphSAGE/
+│ │ ├── embeddings_fold1.pt / best.pt # Saved embeddings per fold
+│ │ ├── priority_link_table_best.csv # Priority class pair table
+│ │ └── heatmap_best_SAGE.png # Heatmap (best fold)
+│ ├── GCN/
+│ │ └── ...
+│ ├── GAT/
+│ │ └── ...
+│ └── result.png # Combined bar chart comparison
 └── README.md       
 ```
 ## 📊 Objective
@@ -36,6 +43,7 @@ To investigate the nature of **newly predicted links** between proteins, particu
 - Do **isolated proteins** (those without known STRING edges) form connections?
 - Are the new links **homogeneous** (e.g., High–High) or **heterogeneous** (e.g., High–Low)?
 - What insights can be drawn from priority-class pairing patterns in predictions?
+- Reveal trends specific to different GNN architectures (GraphSAGE, GCN, GAT).
 
 ---
 
@@ -46,24 +54,41 @@ To investigate the nature of **newly predicted links** between proteins, particu
    - Build a NetworkX graph, then relabel nodes to FASTA IDs.
    - Add protein features and priority labels from Biomni vaccine analysis.
 
-2. **Graph Neural Network (GNN) Modeling**
-   - Use a 2-layer GraphSAGE encoder in PyTorch Geometric.
-   - Train a link prediction model using dot-product scoring.
-   - Evaluate with binary cross-entropy and ROC-AUC.
+2. **GNN Link Prediction Models**
+   - Implement and train: `GraphSAGE`, `GCN`, `GAT`.
+   - Use 3-fold cross-validation and grid search for hyperparameter tuning.
+   - Evaluate each fold using ROC-AUC and save best model checkpoint.
 
-3. **Prediction & Analysis**
-   - Predict new links involving **isolated proteins**.
-   - Filter high-confidence links (sigmoid ≥ 0.90, top 1000).
-   - Analyze the **distribution of priority class pairs** for these predicted edges.
-   - Visualize with a **heatmap**.
+3. **Predicted Link Scoring & Filtering**
+   - Score isolated-to-connected and isolated-to-isolated links.
+   - Select top 1000 high-confidence edges (sigmoid ≥ 0.90).
+
+4. **Class-Pair Analysis**
+   - Assign predicted links to pairs of priority classes.
+   - Build a symmetric table of class–class link counts.
+   - Visualize using **heatmaps** and **normalized bar charts** for comparison.
 
 ---
 
 ## 📈 Key Findings
 
-- The majority of high-confidence predicted links **span across different priority levels**.
-- **Very Low–High** and **Very Low–Medium** are the most frequent link types.
-- Homogeneous High–High links are rare, suggesting potential for uncovering novel cross-functional associations.
+- GNN models differ in predicted link **diversity**:
+  - **GCN**: Strongly biased toward `Very Low–Medium` and `Low–Medium`.
+  - **GraphSAGE**: Most balanced and diverse predictions.
+  - **GAT**: Moderate class-mixing, avoids High-priority links.
+  
+- High-priority proteins tend to be **under-linked** — possibly due to fewer examples or embedding sparsity.
+
+- **Combined normalized bar chart** helps compare GNN tendencies across all class-pair interactions.
+
+---
+
+## 📈 Visualization Sample
+
+**Combined Normalized Bar Chart (Best Fold – All Models)**  
+Each bar shows the % of predicted links per class pair:
+
+![Predicted Distribution](./Results/result.png)
 
 ---
 
