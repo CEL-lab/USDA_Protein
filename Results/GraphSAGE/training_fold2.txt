@@ -1,1 +1,1 @@
-[GraphSAGE][Fold 2] Epoch 50/50, Hidden=32, LR=0.01, Loss=2816287.2500, Test AUC=0.5585
+[GraphSAGE][Fold 2] Epoch 50/50, Hidden=32, LR=0.01, Loss=2986924.7500, Test AUC=0.5447
