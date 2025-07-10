@@ -1,0 +1,4 @@
+🔍 Clustering Quality Scores:
+• Silhouette Score       : 0.7425  (higher is better, max=1)
+• Calinski-Harabasz Score: 9307.77   (higher is better)
+• Davies-Bouldin Score   : 0.3897  (lower is better)
