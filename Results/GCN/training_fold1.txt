@@ -1,0 +1,1 @@
+[GCN][Fold 1] Epoch 43/50, Hidden=32, LR=0.01, Loss=0.6932, Test AUC=0.5861
