@@ -88,7 +88,7 @@ To investigate the nature of **newly predicted links** between proteins, particu
 **Combined Normalized Bar Chart (Best Fold – All Models)**  
 Each bar shows the % of predicted links per class pair:
 
-![Predicted Distribution](./Results/result.png)
+![Predicted Distribution](./Results/new_result.png)
 
 ---
 
