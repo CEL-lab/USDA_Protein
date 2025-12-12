@@ -1,97 +1,196 @@
-# 🔗 GNN-based Link Prediction of Vaccine Candidate Proteins
+# Multimodal GNN-based Link Prediction for Vaccine Candidate Discovery
+<p align="center">
+  <img src="https://raw.githubusercontent.com/placeholder-user/placeholder-repo/main/landing_graphic_gnn_vaccine.svg" width="95%" alt="Multimodal GNN Vaccine Discovery Pipeline">
+</p>
 
-This project explores Graph Neural Networks (GNNs) for predicting novel protein-protein interactions (PPIs) using features from vaccine candidate analysis. We analyze whether these predicted links tend to connect proteins of similar or different priority classes (e.g., High–High vs. High–Low), especially among **isolated proteins** with no known STRING interactions.
+<h2 align="center">🧬 Multimodal GNN Framework for Vaccine Candidate Discovery</h2>
+
+<p align="center">
+  <strong>Biomni Prioritization</strong> • 
+  <strong>ESM-2 Protein Language Models</strong> • 
+  <strong>Node2Vec Graph Embeddings</strong> • 
+  <strong>STRING PPI Networks</strong> • 
+  <strong>GNN-based Link Prediction</strong>
+</p>
+
+This repository implements a multimodal graph learning framework that integrates:
+
+Biomni vaccine-priority and immunological features
+
+ESM-2 protein language model embeddings
+
+Node2Vec structural graph embeddings
+
+STRING protein–protein interaction (PPI) networks
+
+to predict novel protein–protein interactions in Flavobacterium using Graph Neural Networks (GNNs).
+The workflow supports priority-aware link prediction, enabling the identification of underexplored high-priority vaccine candidates.
 
 ---
 
 ## 🧬 STRING Network Visualization
 
-Below is the STRING-based protein-protein interaction network built using the top 2000 protein sequences submitted to the STRING API:
+Below is the original STRING PPI network obtained from the organism proteome and mapped to FASTA identifiers:
 
 ![STRING PPI Network](string_normal_image.png)
 
-> **Note:** This image represents known interactions only. New links predicted using GNNs are analyzed separately.
+> **Note:** This network only captures known interactions.
+The GNN models infer new, high-confidence PPIs, especially for isolated and poorly understood proteins..
 
 ---
 ## 📁 Repository Structure
 ```
 │
 ├── Data/
-│   │── top_2000_sequences.faa # Input protein sequences
-│   ├── string_interactions.tsv # Known STRING PPI network
-│   ├── string_mapping.tsv # Mapping from STRING IDs to FASTA IDs
-│   └── complete_vaccine_analysis_all_3257_proteins.csv # Feature + priority annotations
+│   ├── flavobacterium_proteome.faa
+│   ├── string_interactions.tsv
+│   ├── string_mapping.tsv
+│   ├── complete_vaccine_analysis_all_3257_proteins.csv
+│   ├── esm2_embeddings.h5
+│   ├── node2vec_flavobacterium.npz
+│   └── ...
+│
 ├── Code/
-│   └── link_prediction_experiment.ipynb # Main Jupyter notebook
+│   ├── link_prediction_experiment.ipynb
+│   ├── esm_embedding_generation.ipynb
+│   ├── node2vec_training.ipynb
+│   └── utils/
 │
 ├── Results/
-│ ├──GraphSAGE/
-│ │ ├── embeddings_fold1.pt / best.pt # Saved embeddings per fold
-│ │ ├── priority_link_table_best.csv # Priority class pair table
-│ │ └── heatmap_best_SAGE.png # Heatmap (best fold)
-│ ├── GCN/
-│ │ └── ...
-│ ├── GAT/
-│ │ └── ...
-│ └── result.png # Combined bar chart comparison
-└── README.md       
+│   ├── Ablations/
+│   │   ├── esm_only_results.json
+│   │   ├── n2v_only_results.json
+│   │   └── biomni_n2v_results.json
+│   ├── GraphSAGE/
+│   │   ├── best_model.pt
+│   │   ├── embeddings.pt
+│   │   ├── priority_link_table.csv
+│   │   └── heatmap_testAUC.png
+│   ├── FinalFigures/
+│   │   ├── Figure_2_ROC_PR_Curves.png
+│   │   ├── Figure_3_Bar_Comparison.png
+│   │   ├── Figure_4_Priority_Link_Heatmap.png
+│   │   ├── Figure_6_Predicted_Network.png
+│   │   └── PCA_of_GNN_Embeddings.png
+│   └── ...
+│
+└── README.md
 ```
 ## 📊 Objective
 
-To investigate the nature of **newly predicted links** between proteins, particularly:
+This project investigates whether multimodal GNNs can recover missing PPIs and prioritize vaccine-relevant proteins by integrating:
 
-- Do **isolated proteins** (those without known STRING edges) form connections?
-- Are the new links **homogeneous** (e.g., High–High) or **heterogeneous** (e.g., High–Low)?
-- What insights can be drawn from priority-class pairing patterns in predictions?
-- Reveal trends specific to different GNN architectures (GraphSAGE, GCN, GAT).
+Biological evidence (Biomni)
+
+Evolutionary sequence context (ESM-2)
+
+Graph structure (Node2Vec)
+
+We specifically analyze:
+
+Interactions involving isolated proteins
+
+Whether predicted links are homogeneous (High–High) or heterogeneous (High–Low)
+
+How each GNN architecture behaves under multimodal input
+
+Priority-class mixing patterns in predicted edges
 
 ---
 
 ## ⚙️ Workflow Summary
 
-1. **Data Loading & Graph Construction**
-   - Load FASTA sequences and STRING PPI data.
-   - Build a NetworkX graph, then relabel nodes to FASTA IDs.
-   - Add protein features and priority labels from Biomni vaccine analysis.
+**Step 1 — Data Integration**
 
-2. **GNN Link Prediction Models**
-   - Implement and train: `GraphSAGE`, `GCN`, `GAT`.
-   - Use 3-fold cross-validation and grid search for hyperparameter tuning.
-   - Evaluate each fold using ROC-AUC and save best model checkpoint.
+i- STRING PPIs + FASTA mapping
 
-3. **Predicted Link Scoring & Filtering**
-   - Score isolated-to-connected and isolated-to-isolated links.
-   - Select top 1000 high-confidence edges (sigmoid ≥ 0.90).
+ii- Biomni features (antigenicity, localization, virulence)
 
-4. **Class-Pair Analysis**
-   - Assign predicted links to pairs of priority classes.
-   - Build a symmetric table of class–class link counts.
-   - Visualize using **heatmaps** and **normalized bar charts** for comparison.
+iii- ESM-2 embeddings (480-D)
 
+iv- Node2Vec embeddings (128-D)
+
+Multimodal feature matrix construction
+
+**Step 2 — GNN Models** 
+
+We train and evaluate:
+
+i- GCN
+
+ii- GAT
+
+iii- GraphSAGE (**best model**)
+
+
+**Under three regimes:**
+
+1- Biomni-only
+
+2- Biomni + ESM-2
+
+3- Biomni + ESM-2 + Node2Vec
+
+Plus ablation experiments to test independent feature performance.
+
+**Step 3 — Link Prediction**
+
+Score all candidate edges
+
+Filter high-confidence predictions (≥ 0.90)
+
+Focus on isolated–connected and isolated–isolated links
+
+**Step 4 — Priority-Aware Class Pairing**
+
+Build a 4×4 class-pair matrix
+
+Visualize using heatmaps & barplots
+
+Interpret class mixing and high-priority involvement
 ---
 
 ## 📈 Key Findings
 
-- GNN models differ in predicted link **diversity**:
-  - **GCN**: Strongly biased toward `Very Low–Medium` and `Low–Medium`.
-  - **GraphSAGE**: Most balanced and diverse predictions.
-  - **GAT**: Moderate class-mixing, avoids High-priority links.
-  
-- High-priority proteins tend to be **under-linked** — possibly due to fewer examples or embedding sparsity.
+GraphSAGE is the most effective GNN
 
-- **Combined normalized bar chart** helps compare GNN tendencies across all class-pair interactions.
+   * Achieved best test AUC = 0.750 (Biomni-only)
+
+   * Higher-dimensional features (ESM-2 + Node2Vec) did not improve generalization
+
+   * Biomni provides the most stable inductive signal in low-homophily graphs
+
+**Ablation results reveal high latent predictive capacity**
+
+   i- Node2Vec-only AUC: 0.963
+
+   ii- ESM-2-only AUC: 0.941
+
+These represent upper bounds on the informativeness of each modality.
+
+**Priority-aware insights**
+
+High–Medium and High–Low edges appear more frequently than High–High
+
+Many isolated proteins gain high-confidence predicted links
+
+## Predicted Network Visualization
+
+High-confidence predicted interactions (≥ 0.90) using GraphSAGE + Biomni:
+![Predicted Distribution](new_r.png)
 
 ---
+Node color legend:
 
-## 📈 Visualization Sample
+Red — High-priority proteins
 
-**Combined Normalized Bar Chart (Best Fold – All Models)**  
-Each bar shows the % of predicted links per class pair:
+Orange — Medium-priority proteins
 
-![Predicted Distribution](new_result.png)
+Blue — Low-priority proteins
 
----
+Grey — Very Low priority proteins
 
+This network illustrates cross-tier connectivity and the emergence of medium/high-priority hubs.
 ## 🛠 Dependencies
 
 - Python 3.8+
