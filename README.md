@@ -163,7 +163,7 @@ Many isolated proteins gain high-confidence predicted links
 ## Predicted Network Visualization
 
 High-confidence predicted interactions (≥ 0.90) using GraphSAGE + Biomni:
-![Predicted Distribution](new_r.png)
+![Predicted Distribution](Figure_6_Predicted_Network.png)
 
 ---
 Node color legend:
