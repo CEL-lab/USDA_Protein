@@ -11,6 +11,92 @@
   <strong>STRING PPI Networks</strong> • 
   <strong>GNN-based Link Prediction</strong>
 </p>
+<svg width="1250" height="420" viewBox="0 0 1250 420" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="1250" height="420" fill="#f8f9fb" rx="14" />
+
+  <!-- Title -->
+  <text x="625" y="50" font-size="32" text-anchor="middle" font-family="Arial" fill="#222">
+    Multimodal GNN Pipeline for Vaccine Target Discovery
+  </text>
+
+  <!-- Biomni Block -->
+  <rect x="60" y="120" width="240" height="90" rx="10" fill="#ffdfdf" stroke="#cc6666" stroke-width="2"/>
+  <text x="180" y="155" text-anchor="middle" font-size="18" font-family="Arial" fill="#8b0000">
+    Biomni Features
+  </text>
+  <text x="180" y="180" text-anchor="middle" font-size="14" font-family="Arial" fill="#8b0000">
+    Antigenicity • Virulence • Priority
+  </text>
+
+  <!-- ESM-2 Block -->
+  <rect x="60" y="240" width="240" height="90" rx="10" fill="#dff0ff" stroke="#5b8cbf" stroke-width="2"/>
+  <text x="180" y="275" text-anchor="middle" font-size="18" font-family="Arial" fill="#004a80">
+    ESM-2 Embeddings
+  </text>
+  <text x="180" y="300" text-anchor="middle" font-size="14" font-family="Arial" fill="#004a80">
+    Sequence Context (480-D)
+  </text>
+
+  <!-- Node2Vec Block -->
+  <rect x="60" y="360" width="240" height="90" rx="10" fill="#e6ffe6" stroke="#4a8a4a" stroke-width="2"/>
+  <text x="180" y="395" text-anchor="middle" font-size="18" font-family="Arial" fill="#1b5e20">
+    Node2Vec Embeddings
+  </text>
+  <text x="180" y="420" text-anchor="middle" font-size="14" font-family="Arial" fill="#1b5e20">
+    Graph Structure (128-D)
+  </text>
+
+  <!-- Arrows to Unified -->
+  <line x1="300" y1="165" x2="420" y2="165" stroke="#444" stroke-width="2" marker-end="url(#arrow)" />
+  <line x1="300" y1="285" x2="420" y2="225" stroke="#444" stroke-width="2" marker-end="url(#arrow)" />
+  <line x1="300" y1="405" x2="420" y2="265" stroke="#444" stroke-width="2" marker-end="url(#arrow)" />
+
+  <!-- Arrow Definition -->
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
+      <polygon points="0 0, 10 5, 0 10" fill="#444" />
+    </marker>
+  </defs>
+
+  <!-- Unified Feature Matrix -->
+  <rect x="420" y="180" width="260" height="100" rx="10" fill="#fff7d1" stroke="#c4a200" stroke-width="2"/>
+  <text x="550" y="215" text-anchor="middle" font-size="20" font-family="Arial" fill="#8a6d00">
+    Unified Feature Matrix
+  </text>
+  <text x="550" y="240" text-anchor="middle" font-size="14" font-family="Arial" fill="#8a6d00">
+    Biomni + ESM-2 + Node2Vec
+  </text>
+
+  <!-- Arrow to GNN -->
+  <line x1="680" y1="230" x2="780" y2="230" stroke="#444" stroke-width="2" marker-end="url(#arrow)" />
+
+  <!-- GNN Models Block -->
+  <rect x="780" y="160" width="260" height="140" rx="10" fill="#efe6ff" stroke="#7b5bc1" stroke-width="2"/>
+  <text x="910" y="200" text-anchor="middle" font-size="20" font-family="Arial" fill="#4b2b99">
+    GNN Models
+  </text>
+  <text x="910" y="230" text-anchor="middle" font-size="15" font-family="Arial" fill="#4b2b99">
+    GCN • GAT • GraphSAGE
+  </text>
+  <text x="910" y="255" text-anchor="middle" font-size="13" font-family="Arial" fill="#4b2b99">
+    Link Prediction (Inductive)
+  </text>
+
+  <!-- Arrow to Outputs -->
+  <line x1="1040" y1="230" x2="1140" y2="230" stroke="#444" stroke-width="2" marker-end="url(#arrow)" />
+
+  <!-- Output Block -->
+  <rect x="1140" y="180" width="260" height="100" rx="10" fill="#ffeaea" stroke="#c44" stroke-width="2"/>
+  <text x="1270" y="215" text-anchor="middle" font-size="20" font-family="Arial" fill="#880000">
+    Predicted PPIs
+  </text>
+  <text x="1270" y="240" text-anchor="middle" font-size="14" font-family="Arial" fill="#880000">
+    Priority-Aware Interaction Map
+  </text>
+
+</svg>
 
 This repository implements a multimodal graph learning framework that integrates:
 
