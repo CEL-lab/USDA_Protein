@@ -1,4 +1,3 @@
-# Multimodal GNN-based Link Prediction for Vaccine Candidate Discovery
 <p align="center">
   <img src="https://raw.githubusercontent.com/placeholder-user/placeholder-repo/main/landing_graphic_gnn_vaccine.svg" width="95%" alt="Multimodal GNN Vaccine Discovery Pipeline">
 </p>
