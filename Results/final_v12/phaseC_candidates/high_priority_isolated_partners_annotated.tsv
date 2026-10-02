@@ -1,0 +1,246 @@
+isolated_protein	isolated_reason	isolated_desc	n_identical	vaccine_score	partner_rank	partner	partner_tier	partner_desc	partner_degree	score	isolated_protein_pfam_architecture	isolated_protein_pfam_descriptions	isolated_protein_go_terms	partner_pfam_architecture	partner_pfam_descriptions	partner_go_terms
+fig|6666666.1036479.peg.2501	no STRING match		1	0.8	1	fig|6666666.1036479.peg.1519	High		35	0.9108293533325196						
+fig|6666666.1036479.peg.2501	no STRING match		1	0.8	2	fig|6666666.1036479.peg.222	High	Hypothetical protein.	3	0.9053606927394868						
+fig|6666666.1036479.peg.2501	no STRING match		1	0.8	3	fig|6666666.1036479.peg.798	High	Hypothetical protein.	3	0.901789927482605						
+fig|6666666.1036479.peg.2501	no STRING match		1	0.8	4	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.9017845034599304						
+fig|6666666.1036479.peg.2501	no STRING match		1	0.8	5	fig|6666666.1036479.peg.2548	High		0	0.9001029551029205						
+fig|6666666.1036479.peg.2502	no STRING match		1	0.85	1	fig|6666666.1036479.peg.1519	High		35	0.857615053653717						
+fig|6666666.1036479.peg.2502	no STRING match		1	0.85	2	fig|6666666.1036479.peg.2548	High		0	0.8450867235660553						
+fig|6666666.1036479.peg.2502	no STRING match		1	0.85	3	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.8367318153381348						
+fig|6666666.1036479.peg.2502	no STRING match		1	0.85	4	fig|6666666.1036479.peg.798	High	Hypothetical protein.	3	0.8366075336933136						
+fig|6666666.1036479.peg.2502	no STRING match		1	0.85	5	fig|6666666.1036479.peg.370	High		0	0.8347570359706878						
+fig|6666666.1036479.peg.2548	no STRING match		1	0.7	1	fig|6666666.1036479.peg.1519	High		35	0.9741258919239044						
+fig|6666666.1036479.peg.2548	no STRING match		1	0.7	2	fig|6666666.1036479.peg.856	Low		6	0.970567810535431						
+fig|6666666.1036479.peg.2548	no STRING match		1	0.7	3	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.9640045166015624						
+fig|6666666.1036479.peg.2548	no STRING match		1	0.7	4	fig|6666666.1036479.peg.798	High	Hypothetical protein.	3	0.963308823108673						
+fig|6666666.1036479.peg.2548	no STRING match		1	0.7	5	fig|6666666.1036479.peg.704	Low		46	0.963200670480728				DUF6095	Family of unknown function (DUF6095)	
+fig|6666666.1036479.peg.2556	no STRING match		2	0.85	1	fig|6666666.1036479.peg.856	Low		6	0.9053498566150664						
+fig|6666666.1036479.peg.2556	no STRING match		2	0.85	2	fig|6666666.1036479.peg.1519	High		35	0.8981164276599884						
+fig|6666666.1036479.peg.2556	no STRING match		2	0.85	3	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	4	0.8880593359470368				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.2556	no STRING match		2	0.85	4	fig|6666666.1036479.peg.2548	High		0	0.8834621489048005						
+fig|6666666.1036479.peg.2556	no STRING match		2	0.85	5	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	19	0.8806947290897369						
+fig|6666666.1036479.peg.2564	no STRING match		2	0.85	1	fig|6666666.1036479.peg.856	Low		6	0.9053498566150664						
+fig|6666666.1036479.peg.2564	no STRING match		2	0.85	2	fig|6666666.1036479.peg.1519	High		35	0.8981164276599884						
+fig|6666666.1036479.peg.2564	no STRING match		2	0.85	3	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	4	0.8880593359470368				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.2564	no STRING match		2	0.85	4	fig|6666666.1036479.peg.2548	High		0	0.8834621489048005						
+fig|6666666.1036479.peg.2564	no STRING match		2	0.85	5	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	19	0.8806947290897369						
+fig|6666666.1036479.peg.2654	no STRING match		1	0.7	1	fig|6666666.1036479.peg.1519	High		35	0.9120888531208038						
+fig|6666666.1036479.peg.2654	no STRING match		1	0.7	2	fig|6666666.1036479.peg.2548	High		0	0.8996724843978882						
+fig|6666666.1036479.peg.2654	no STRING match		1	0.7	3	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.8994299292564392						
+fig|6666666.1036479.peg.2654	no STRING match		1	0.7	4	fig|6666666.1036479.peg.798	High	Hypothetical protein.	3	0.8986619651317597						
+fig|6666666.1036479.peg.2654	no STRING match		1	0.7	5	fig|6666666.1036479.peg.253	Low	Hypothetical protein.	1	0.8951412200927734				YhhN	YhhN family	GO:0016020
+fig|6666666.1036479.peg.2948	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		6	0.9701142191886902						
+fig|6666666.1036479.peg.2948	no STRING match		1	0.75	2	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	4	0.9636932790279388				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.2948	no STRING match		1	0.75	3	fig|6666666.1036479.peg.1719	Medium		31	0.9583379745483398						
+fig|6666666.1036479.peg.2948	no STRING match		1	0.75	4	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	19	0.9574690997600556						
+fig|6666666.1036479.peg.2948	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1519	High		35	0.951000851392746						
+fig|6666666.1036479.peg.3011	no STRING match		1	0.75	1	fig|6666666.1036479.peg.1519	High		35	0.8969456791877747						
+fig|6666666.1036479.peg.3011	no STRING match		1	0.75	2	fig|6666666.1036479.peg.856	Low		6	0.8933802306652069						
+fig|6666666.1036479.peg.3011	no STRING match		1	0.75	3	fig|6666666.1036479.peg.2548	High		0	0.8850853919982911						
+fig|6666666.1036479.peg.3011	no STRING match		1	0.75	4	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.8821836173534393						
+fig|6666666.1036479.peg.3011	no STRING match		1	0.75	5	fig|6666666.1036479.peg.798	High	Hypothetical protein.	3	0.8794842660427094						
+fig|6666666.1036479.peg.3028	secondary STRING hit (STRING protein assigned to a better match)	Hypothetical protein; COG0697 Permeases of the drug/metabolite transporter (DMT) superfamily.	1	0.7	1	fig|6666666.1036479.peg.222	High	Hypothetical protein.	3	0.8827779471874238	EamA;EamA	EamA-like transporter family	GO:0016020			
+fig|6666666.1036479.peg.3028	secondary STRING hit (STRING protein assigned to a better match)	Hypothetical protein; COG0697 Permeases of the drug/metabolite transporter (DMT) superfamily.	1	0.7	2	fig|6666666.1036479.peg.253	Low	Hypothetical protein.	1	0.880572909116745	EamA;EamA	EamA-like transporter family	GO:0016020	YhhN	YhhN family	GO:0016020
+fig|6666666.1036479.peg.3028	secondary STRING hit (STRING protein assigned to a better match)	Hypothetical protein; COG0697 Permeases of the drug/metabolite transporter (DMT) superfamily.	1	0.7	3	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.8777872562408447	EamA;EamA	EamA-like transporter family	GO:0016020			
+fig|6666666.1036479.peg.3028	secondary STRING hit (STRING protein assigned to a better match)	Hypothetical protein; COG0697 Permeases of the drug/metabolite transporter (DMT) superfamily.	1	0.7	4	fig|6666666.1036479.peg.798	High	Hypothetical protein.	3	0.8759085536003113	EamA;EamA	EamA-like transporter family	GO:0016020			
+fig|6666666.1036479.peg.3028	secondary STRING hit (STRING protein assigned to a better match)	Hypothetical protein; COG0697 Permeases of the drug/metabolite transporter (DMT) superfamily.	1	0.7	5	fig|6666666.1036479.peg.2658	Low	Nitrous-oxide metabolic protein NosY.	12	0.8719892203807831	EamA;EamA	EamA-like transporter family	GO:0016020	ABC2_membrane_2	ABC-2 family transporter protein	GO:0055085;GO:0140359
+fig|6666666.1036479.peg.3221	no STRING match		2	0.75	1	fig|6666666.1036479.peg.2778	Very Low		106	0.9665893018245696				Ribosomal_L34	Ribosomal protein L34	GO:0003735;GO:0005840;GO:0006412
+fig|6666666.1036479.peg.3221	no STRING match		2	0.75	2	fig|6666666.1036479.peg.3167	Very Low		114	0.9561951756477356				Ribosomal_L35p	Ribosomal protein L35	GO:0003735;GO:0005840;GO:0006412
+fig|6666666.1036479.peg.3221	no STRING match		2	0.75	3	fig|6666666.1036479.peg.3166	Very Low		146	0.9401322722434996				Ribosomal_L20	Ribosomal protein L20	GO:0003735;GO:0005840;GO:0006412;GO:0019843
+fig|6666666.1036479.peg.3221	no STRING match		2	0.75	4	fig|6666666.1036479.peg.899	Very Low		109	0.937099677324295				Ribosomal_S20p	Ribosomal protein S20	GO:0003723;GO:0003735;GO:0005840;GO:0006412
+fig|6666666.1036479.peg.3221	no STRING match		2	0.75	5	fig|6666666.1036479.peg.1155	Very Low		147	0.9284225642681122				Ribosomal_L23	Ribosomal protein L23	GO:0003735;GO:0005840;GO:0006412
+fig|6666666.1036479.peg.3223	no STRING match		2	0.7	1	fig|6666666.1036479.peg.1519	High		35	0.9352487027645112						
+fig|6666666.1036479.peg.3223	no STRING match		2	0.7	2	fig|6666666.1036479.peg.856	Low		6	0.928626263141632						
+fig|6666666.1036479.peg.3223	no STRING match		2	0.7	3	fig|6666666.1036479.peg.2548	High		0	0.9215770304203034						
+fig|6666666.1036479.peg.3223	no STRING match		2	0.7	4	fig|6666666.1036479.peg.704	Low		46	0.9183599472045898				DUF6095	Family of unknown function (DUF6095)	
+fig|6666666.1036479.peg.3223	no STRING match		2	0.7	5	fig|6666666.1036479.peg.370	High		0	0.9143475472927094						
+fig|6666666.1036479.peg.3240	no STRING match		3	0.75	1	fig|6666666.1036479.peg.856	Low		6	0.8695176482200623						
+fig|6666666.1036479.peg.3240	no STRING match		3	0.75	2	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	4	0.8551505446434021				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.3240	no STRING match		3	0.75	3	fig|6666666.1036479.peg.1719	Medium		31	0.8451833009719849						
+fig|6666666.1036479.peg.3240	no STRING match		3	0.75	4	fig|6666666.1036479.peg.1519	High		35	0.8430249750614166						
+fig|6666666.1036479.peg.3240	no STRING match		3	0.75	5	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	19	0.8429321348667145						
+fig|6666666.1036479.peg.3254	no STRING match		3	0.85	1	fig|6666666.1036479.peg.856	Low		6	0.919416970014572						
+fig|6666666.1036479.peg.3254	no STRING match		3	0.85	2	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	4	0.907426142692566				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.3254	no STRING match		3	0.85	3	fig|6666666.1036479.peg.1719	Medium		31	0.9015447974205018						
+fig|6666666.1036479.peg.3254	no STRING match		3	0.85	4	fig|6666666.1036479.peg.1519	High		35	0.9015161752700804						
+fig|6666666.1036479.peg.3254	no STRING match		3	0.85	5	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	19	0.9004563868045807						
+fig|6666666.1036479.peg.8	no STRING match		3	0.75	1	fig|6666666.1036479.peg.856	Low		6	0.8695176482200623						
+fig|6666666.1036479.peg.8	no STRING match		3	0.75	2	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	4	0.8551505446434021				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.8	no STRING match		3	0.75	3	fig|6666666.1036479.peg.1719	Medium		31	0.8451833009719849						
+fig|6666666.1036479.peg.8	no STRING match		3	0.75	4	fig|6666666.1036479.peg.1519	High		35	0.8430249750614166						
+fig|6666666.1036479.peg.8	no STRING match		3	0.75	5	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	19	0.8429321348667145						
+fig|6666666.1036479.peg.22	no STRING match		3	0.85	1	fig|6666666.1036479.peg.856	Low		6	0.919416970014572						
+fig|6666666.1036479.peg.22	no STRING match		3	0.85	2	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	4	0.907426142692566				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.22	no STRING match		3	0.85	3	fig|6666666.1036479.peg.1719	Medium		31	0.9015447974205018						
+fig|6666666.1036479.peg.22	no STRING match		3	0.85	4	fig|6666666.1036479.peg.1519	High		35	0.9015161752700804						
+fig|6666666.1036479.peg.22	no STRING match		3	0.85	5	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	19	0.9004563868045807						
+fig|6666666.1036479.peg.33	no STRING match		2	0.75	1	fig|6666666.1036479.peg.2778	Very Low		106	0.8755643606185913				Ribosomal_L34	Ribosomal protein L34	GO:0003735;GO:0005840;GO:0006412
+fig|6666666.1036479.peg.33	no STRING match		2	0.75	2	fig|6666666.1036479.peg.3167	Very Low		114	0.8509247839450836				Ribosomal_L35p	Ribosomal protein L35	GO:0003735;GO:0005840;GO:0006412
+fig|6666666.1036479.peg.33	no STRING match		2	0.75	3	fig|6666666.1036479.peg.899	Very Low		109	0.8139732718467713				Ribosomal_S20p	Ribosomal protein S20	GO:0003723;GO:0003735;GO:0005840;GO:0006412
+fig|6666666.1036479.peg.33	no STRING match		2	0.75	4	fig|6666666.1036479.peg.3166	Very Low		146	0.8133214920759201				Ribosomal_L20	Ribosomal protein L20	GO:0003735;GO:0005840;GO:0006412;GO:0019843
+fig|6666666.1036479.peg.33	no STRING match		2	0.75	5	fig|6666666.1036479.peg.410	Very Low		0	0.8125472486019134						
+fig|6666666.1036479.peg.137	no STRING match		2	0.75	1	fig|6666666.1036479.peg.2778	Very Low		106	0.9665893018245696				Ribosomal_L34	Ribosomal protein L34	GO:0003735;GO:0005840;GO:0006412
+fig|6666666.1036479.peg.137	no STRING match		2	0.75	2	fig|6666666.1036479.peg.3167	Very Low		114	0.9561951756477356				Ribosomal_L35p	Ribosomal protein L35	GO:0003735;GO:0005840;GO:0006412
+fig|6666666.1036479.peg.137	no STRING match		2	0.75	3	fig|6666666.1036479.peg.3166	Very Low		146	0.9401322722434996				Ribosomal_L20	Ribosomal protein L20	GO:0003735;GO:0005840;GO:0006412;GO:0019843
+fig|6666666.1036479.peg.137	no STRING match		2	0.75	4	fig|6666666.1036479.peg.899	Very Low		109	0.937099677324295				Ribosomal_S20p	Ribosomal protein S20	GO:0003723;GO:0003735;GO:0005840;GO:0006412
+fig|6666666.1036479.peg.137	no STRING match		2	0.75	5	fig|6666666.1036479.peg.1155	Very Low		147	0.9284225642681122				Ribosomal_L23	Ribosomal protein L23	GO:0003735;GO:0005840;GO:0006412
+fig|6666666.1036479.peg.139	no STRING match		2	0.7	1	fig|6666666.1036479.peg.1519	High		35	0.9352487027645112						
+fig|6666666.1036479.peg.139	no STRING match		2	0.7	2	fig|6666666.1036479.peg.856	Low		6	0.928626263141632						
+fig|6666666.1036479.peg.139	no STRING match		2	0.7	3	fig|6666666.1036479.peg.2548	High		0	0.9215770304203034						
+fig|6666666.1036479.peg.139	no STRING match		2	0.7	4	fig|6666666.1036479.peg.704	Low		46	0.9183599472045898				DUF6095	Family of unknown function (DUF6095)	
+fig|6666666.1036479.peg.139	no STRING match		2	0.7	5	fig|6666666.1036479.peg.370	High		0	0.9143475472927094						
+fig|6666666.1036479.peg.156	no STRING match		3	0.75	1	fig|6666666.1036479.peg.856	Low		6	0.8695176482200623						
+fig|6666666.1036479.peg.156	no STRING match		3	0.75	2	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	4	0.8551505446434021				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.156	no STRING match		3	0.75	3	fig|6666666.1036479.peg.1719	Medium		31	0.8451833009719849						
+fig|6666666.1036479.peg.156	no STRING match		3	0.75	4	fig|6666666.1036479.peg.1519	High		35	0.8430249750614166						
+fig|6666666.1036479.peg.156	no STRING match		3	0.75	5	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	19	0.8429321348667145						
+fig|6666666.1036479.peg.170	no STRING match		3	0.85	1	fig|6666666.1036479.peg.856	Low		6	0.919416970014572						
+fig|6666666.1036479.peg.170	no STRING match		3	0.85	2	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	4	0.907426142692566				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.170	no STRING match		3	0.85	3	fig|6666666.1036479.peg.1719	Medium		31	0.9015447974205018						
+fig|6666666.1036479.peg.170	no STRING match		3	0.85	4	fig|6666666.1036479.peg.1519	High		35	0.9015161752700804						
+fig|6666666.1036479.peg.170	no STRING match		3	0.85	5	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	19	0.9004563868045807						
+fig|6666666.1036479.peg.181	no STRING match		2	0.75	1	fig|6666666.1036479.peg.2778	Very Low		106	0.8755643606185913				Ribosomal_L34	Ribosomal protein L34	GO:0003735;GO:0005840;GO:0006412
+fig|6666666.1036479.peg.181	no STRING match		2	0.75	2	fig|6666666.1036479.peg.3167	Very Low		114	0.8509247839450836				Ribosomal_L35p	Ribosomal protein L35	GO:0003735;GO:0005840;GO:0006412
+fig|6666666.1036479.peg.181	no STRING match		2	0.75	3	fig|6666666.1036479.peg.899	Very Low		109	0.8139732718467713				Ribosomal_S20p	Ribosomal protein S20	GO:0003723;GO:0003735;GO:0005840;GO:0006412
+fig|6666666.1036479.peg.181	no STRING match		2	0.75	4	fig|6666666.1036479.peg.3166	Very Low		146	0.8133214920759201				Ribosomal_L20	Ribosomal protein L20	GO:0003735;GO:0005840;GO:0006412;GO:0019843
+fig|6666666.1036479.peg.181	no STRING match		2	0.75	5	fig|6666666.1036479.peg.410	Very Low		0	0.8125472486019134						
+fig|6666666.1036479.peg.289	secondary STRING hit (STRING protein assigned to a better match)	Hypothetical protein.	1	0.75	1	fig|6666666.1036479.peg.856	Low		6	0.9325583636760711						
+fig|6666666.1036479.peg.289	secondary STRING hit (STRING protein assigned to a better match)	Hypothetical protein.	1	0.75	2	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	4	0.9212729811668396				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.289	secondary STRING hit (STRING protein assigned to a better match)	Hypothetical protein.	1	0.75	3	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	19	0.9147630631923676						
+fig|6666666.1036479.peg.289	secondary STRING hit (STRING protein assigned to a better match)	Hypothetical protein.	1	0.75	4	fig|6666666.1036479.peg.1719	Medium		31	0.913105458021164						
+fig|6666666.1036479.peg.289	secondary STRING hit (STRING protein assigned to a better match)	Hypothetical protein.	1	0.75	5	fig|6666666.1036479.peg.1519	High		35	0.9074377477169036						
+fig|6666666.1036479.peg.370	no STRING match		1	0.7	1	fig|6666666.1036479.peg.1519	High		35	0.9695804476737976						
+fig|6666666.1036479.peg.370	no STRING match		1	0.7	2	fig|6666666.1036479.peg.856	Low		6	0.9644878268241882						
+fig|6666666.1036479.peg.370	no STRING match		1	0.7	3	fig|6666666.1036479.peg.2548	High		0	0.9604782581329344						
+fig|6666666.1036479.peg.370	no STRING match		1	0.7	4	fig|6666666.1036479.peg.704	Low		46	0.9582976460456848				DUF6095	Family of unknown function (DUF6095)	
+fig|6666666.1036479.peg.370	no STRING match		1	0.7	5	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.9559109091758728						
+fig|6666666.1036479.peg.432	no STRING match		1	0.7	1	fig|6666666.1036479.peg.1519	High		35	0.7823286116123199	COX1	Cytochrome C and Quinol oxidase polypeptide I	GO:0004129;GO:0009060;GO:0016020;GO:0020037			
+fig|6666666.1036479.peg.432	no STRING match		1	0.7	2	fig|6666666.1036479.peg.222	High	Hypothetical protein.	3	0.767362505197525	COX1	Cytochrome C and Quinol oxidase polypeptide I	GO:0004129;GO:0009060;GO:0016020;GO:0020037			
+fig|6666666.1036479.peg.432	no STRING match		1	0.7	3	fig|6666666.1036479.peg.798	High	Hypothetical protein.	3	0.766725093126297	COX1	Cytochrome C and Quinol oxidase polypeptide I	GO:0004129;GO:0009060;GO:0016020;GO:0020037			
+fig|6666666.1036479.peg.432	no STRING match		1	0.7	4	fig|6666666.1036479.peg.370	High		0	0.7666021227836609	COX1	Cytochrome C and Quinol oxidase polypeptide I	GO:0004129;GO:0009060;GO:0016020;GO:0020037			
+fig|6666666.1036479.peg.432	no STRING match		1	0.7	5	fig|6666666.1036479.peg.369	High		2	0.7642411589622498	COX1	Cytochrome C and Quinol oxidase polypeptide I	GO:0004129;GO:0009060;GO:0016020;GO:0020037			
+fig|6666666.1036479.peg.599	no STRING match		1	0.85	1	fig|6666666.1036479.peg.1519	High		35	0.8708556413650512	PepS8_pro_Ba	Peptidase S8 propeptide domain, Bacteroidota				
+fig|6666666.1036479.peg.599	no STRING match		1	0.85	2	fig|6666666.1036479.peg.856	Low		6	0.8644406974315644	PepS8_pro_Ba	Peptidase S8 propeptide domain, Bacteroidota				
+fig|6666666.1036479.peg.599	no STRING match		1	0.85	3	fig|6666666.1036479.peg.2548	High		0	0.8541527986526489	PepS8_pro_Ba	Peptidase S8 propeptide domain, Bacteroidota				
+fig|6666666.1036479.peg.599	no STRING match		1	0.85	4	fig|6666666.1036479.peg.704	Low		46	0.8462011456489563	PepS8_pro_Ba	Peptidase S8 propeptide domain, Bacteroidota		DUF6095	Family of unknown function (DUF6095)	
+fig|6666666.1036479.peg.599	no STRING match		1	0.85	5	fig|6666666.1036479.peg.866	High		0	0.8456063449382782	PepS8_pro_Ba	Peptidase S8 propeptide domain, Bacteroidota				
+fig|6666666.1036479.peg.716	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		6	0.7847597301006317	DUF1266	Protein of unknown function (DUF1266)				
+fig|6666666.1036479.peg.716	no STRING match		1	0.75	2	fig|6666666.1036479.peg.1519	High		35	0.7787705838680268	DUF1266	Protein of unknown function (DUF1266)				
+fig|6666666.1036479.peg.716	no STRING match		1	0.75	3	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	4	0.7698308825492859	DUF1266	Protein of unknown function (DUF1266)		DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.716	no STRING match		1	0.75	4	fig|6666666.1036479.peg.2548	High		0	0.7635427713394165	DUF1266	Protein of unknown function (DUF1266)				
+fig|6666666.1036479.peg.716	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1719	Medium		31	0.7625729262828826	DUF1266	Protein of unknown function (DUF1266)				
+fig|6666666.1036479.peg.720	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		6	0.9323384165763856						
+fig|6666666.1036479.peg.720	no STRING match		1	0.75	2	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	4	0.922034865617752				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.720	no STRING match		1	0.75	3	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	19	0.916055691242218						
+fig|6666666.1036479.peg.720	no STRING match		1	0.75	4	fig|6666666.1036479.peg.1719	Medium		31	0.9159773707389832						
+fig|6666666.1036479.peg.720	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1519	High		35	0.9152167737483978						
+fig|6666666.1036479.peg.721	secondary STRING hit (STRING protein assigned to a better match)	Yd repeat protein; COG3209 Rhs family protein.	1	0.75	1	fig|6666666.1036479.peg.856	Low		6	0.9151088416576384	Peptidase_M91	Effector protein				
+fig|6666666.1036479.peg.721	secondary STRING hit (STRING protein assigned to a better match)	Yd repeat protein; COG3209 Rhs family protein.	1	0.75	2	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	4	0.9059826254844664	Peptidase_M91	Effector protein		DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.721	secondary STRING hit (STRING protein assigned to a better match)	Yd repeat protein; COG3209 Rhs family protein.	1	0.75	3	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	19	0.8986828446388244	Peptidase_M91	Effector protein				
+fig|6666666.1036479.peg.721	secondary STRING hit (STRING protein assigned to a better match)	Yd repeat protein; COG3209 Rhs family protein.	1	0.75	4	fig|6666666.1036479.peg.1719	Medium		31	0.8977769434452056	Peptidase_M91	Effector protein				
+fig|6666666.1036479.peg.721	secondary STRING hit (STRING protein assigned to a better match)	Yd repeat protein; COG3209 Rhs family protein.	1	0.75	5	fig|6666666.1036479.peg.2672	Medium		0	0.8849924862384796	Peptidase_M91	Effector protein				
+fig|6666666.1036479.peg.723	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		6	0.9345141351222992						
+fig|6666666.1036479.peg.723	no STRING match		1	0.75	2	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	4	0.9218507707118988				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.723	no STRING match		1	0.75	3	fig|6666666.1036479.peg.1719	Medium		31	0.9127495110034942						
+fig|6666666.1036479.peg.723	no STRING match		1	0.75	4	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	19	0.9111945688724518						
+fig|6666666.1036479.peg.723	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1519	High		35	0.9106724977493286						
+fig|6666666.1036479.peg.861	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		6	0.9763343453407288						
+fig|6666666.1036479.peg.861	no STRING match		1	0.75	2	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	4	0.9714742481708528				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.861	no STRING match		1	0.75	3	fig|6666666.1036479.peg.1719	Medium		31	0.9681829810142516						
+fig|6666666.1036479.peg.861	no STRING match		1	0.75	4	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	19	0.965616136789322						
+fig|6666666.1036479.peg.861	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1519	High		35	0.9647830545902252						
+fig|6666666.1036479.peg.866	no STRING match		1	0.7	1	fig|6666666.1036479.peg.1519	High		35	0.9690633058547974						
+fig|6666666.1036479.peg.866	no STRING match		1	0.7	2	fig|6666666.1036479.peg.856	Low		6	0.968184232711792						
+fig|6666666.1036479.peg.866	no STRING match		1	0.7	3	fig|6666666.1036479.peg.2548	High		0	0.958914601802826						
+fig|6666666.1036479.peg.866	no STRING match		1	0.7	4	fig|6666666.1036479.peg.704	Low		46	0.9579543113708496				DUF6095	Family of unknown function (DUF6095)	
+fig|6666666.1036479.peg.866	no STRING match		1	0.7	5	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	4	0.9578006088733672				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.868	no STRING match		1	0.7	1	fig|6666666.1036479.peg.1519	High		35	0.8774479031562805						
+fig|6666666.1036479.peg.868	no STRING match		1	0.7	2	fig|6666666.1036479.peg.2548	High		0	0.8573154985904694						
+fig|6666666.1036479.peg.868	no STRING match		1	0.7	3	fig|6666666.1036479.peg.370	High		0	0.8562784731388092						
+fig|6666666.1036479.peg.868	no STRING match		1	0.7	4	fig|6666666.1036479.peg.704	Low		46	0.8555720567703247				DUF6095	Family of unknown function (DUF6095)	
+fig|6666666.1036479.peg.868	no STRING match		1	0.7	5	fig|6666666.1036479.peg.866	High		0	0.8553544700145721						
+fig|6666666.1036479.peg.881	no STRING match		1	0.7	1	fig|6666666.1036479.peg.1519	High		35	0.9637338280677796						
+fig|6666666.1036479.peg.881	no STRING match		1	0.7	2	fig|6666666.1036479.peg.2548	High		0	0.9549891591072084						
+fig|6666666.1036479.peg.881	no STRING match		1	0.7	3	fig|6666666.1036479.peg.856	Low		6	0.9535318911075592						
+fig|6666666.1036479.peg.881	no STRING match		1	0.7	4	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.9527668535709382						
+fig|6666666.1036479.peg.881	no STRING match		1	0.7	5	fig|6666666.1036479.peg.798	High	Hypothetical protein.	3	0.952064484357834						
+fig|6666666.1036479.peg.1074	no STRING match		1	0.7	1	fig|6666666.1036479.peg.1519	High		35	0.9247395694255828						
+fig|6666666.1036479.peg.1074	no STRING match		1	0.7	2	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.9192172765731812						
+fig|6666666.1036479.peg.1074	no STRING match		1	0.7	3	fig|6666666.1036479.peg.798	High	Hypothetical protein.	3	0.9182167470455168						
+fig|6666666.1036479.peg.1074	no STRING match		1	0.7	4	fig|6666666.1036479.peg.2548	High		0	0.9161023914813996						
+fig|6666666.1036479.peg.1074	no STRING match		1	0.7	5	fig|6666666.1036479.peg.253	Low	Hypothetical protein.	1	0.914775937795639				YhhN	YhhN family	GO:0016020
+fig|6666666.1036479.peg.1080	no STRING match		1	0.7	1	fig|6666666.1036479.peg.1519	High		35	0.9434309542179108	EpsG	EpsG family				
+fig|6666666.1036479.peg.1080	no STRING match		1	0.7	2	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.9386331737041472	EpsG	EpsG family				
+fig|6666666.1036479.peg.1080	no STRING match		1	0.7	3	fig|6666666.1036479.peg.798	High	Hypothetical protein.	3	0.937080419063568	EpsG	EpsG family				
+fig|6666666.1036479.peg.1080	no STRING match		1	0.7	4	fig|6666666.1036479.peg.2548	High		0	0.935980713367462	EpsG	EpsG family				
+fig|6666666.1036479.peg.1080	no STRING match		1	0.7	5	fig|6666666.1036479.peg.253	Low	Hypothetical protein.	1	0.9341768741607666	EpsG	EpsG family		YhhN	YhhN family	GO:0016020
+fig|6666666.1036479.peg.1081	no STRING match		1	0.75	1	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.8375448882579803	Glycos_transf_2	Glycosyl transferase family 2				
+fig|6666666.1036479.peg.1081	no STRING match		1	0.75	2	fig|6666666.1036479.peg.798	High	Hypothetical protein.	3	0.8339878857135773	Glycos_transf_2	Glycosyl transferase family 2				
+fig|6666666.1036479.peg.1081	no STRING match		1	0.75	3	fig|6666666.1036479.peg.253	Low	Hypothetical protein.	1	0.8332526803016662	Glycos_transf_2	Glycosyl transferase family 2		YhhN	YhhN family	GO:0016020
+fig|6666666.1036479.peg.1081	no STRING match		1	0.75	4	fig|6666666.1036479.peg.1519	High		35	0.8328506112098694	Glycos_transf_2	Glycosyl transferase family 2				
+fig|6666666.1036479.peg.1081	no STRING match		1	0.75	5	fig|6666666.1036479.peg.222	High	Hypothetical protein.	3	0.8321421384811402	Glycos_transf_2	Glycosyl transferase family 2				
+fig|6666666.1036479.peg.1319	no STRING match		1	0.85	1	fig|6666666.1036479.peg.1519	High		35	0.883561635017395						
+fig|6666666.1036479.peg.1319	no STRING match		1	0.85	2	fig|6666666.1036479.peg.856	Low		6	0.8803141057491303						
+fig|6666666.1036479.peg.1319	no STRING match		1	0.85	3	fig|6666666.1036479.peg.2548	High		0	0.8714455366134644						
+fig|6666666.1036479.peg.1319	no STRING match		1	0.85	4	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.8619121074676513						
+fig|6666666.1036479.peg.1319	no STRING match		1	0.85	5	fig|6666666.1036479.peg.704	Low		46	0.8599567890167237				DUF6095	Family of unknown function (DUF6095)	
+fig|6666666.1036479.peg.1365	no STRING match		1	0.85	1	fig|6666666.1036479.peg.1519	High		35	0.8146329760551453						
+fig|6666666.1036479.peg.1365	no STRING match		1	0.85	2	fig|6666666.1036479.peg.856	Low		6	0.8113467693328857						
+fig|6666666.1036479.peg.1365	no STRING match		1	0.85	3	fig|6666666.1036479.peg.2548	High		0	0.7985852003097534						
+fig|6666666.1036479.peg.1365	no STRING match		1	0.85	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	4	0.7918243706226349				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.1365	no STRING match		1	0.85	5	fig|6666666.1036479.peg.704	Low		46	0.7916371881961822				DUF6095	Family of unknown function (DUF6095)	
+fig|6666666.1036479.peg.1390	no STRING match		1	0.7	1	fig|6666666.1036479.peg.1519	High		35	0.8428700745105744						
+fig|6666666.1036479.peg.1390	no STRING match		1	0.7	2	fig|6666666.1036479.peg.798	High	Hypothetical protein.	3	0.8260745644569397						
+fig|6666666.1036479.peg.1390	no STRING match		1	0.7	3	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.8252394616603851						
+fig|6666666.1036479.peg.1390	no STRING match		1	0.7	4	fig|6666666.1036479.peg.2548	High		0	0.823627907037735						
+fig|6666666.1036479.peg.1390	no STRING match		1	0.7	5	fig|6666666.1036479.peg.370	High		0	0.8217817127704621						
+fig|6666666.1036479.peg.1566	no STRING match		1	0.7	1	fig|6666666.1036479.peg.1519	High		35	0.9397102177143096						
+fig|6666666.1036479.peg.1566	no STRING match		1	0.7	2	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.9318291425704956						
+fig|6666666.1036479.peg.1566	no STRING match		1	0.7	3	fig|6666666.1036479.peg.2548	High		0	0.9313770234584808						
+fig|6666666.1036479.peg.1566	no STRING match		1	0.7	4	fig|6666666.1036479.peg.798	High	Hypothetical protein.	3	0.9308706402778626						
+fig|6666666.1036479.peg.1566	no STRING match		1	0.7	5	fig|6666666.1036479.peg.222	High	Hypothetical protein.	3	0.9281102597713472						
+fig|6666666.1036479.peg.1594	no STRING match		1	0.75	1	fig|6666666.1036479.peg.1519	High		35	0.8629108786582946						
+fig|6666666.1036479.peg.1594	no STRING match		1	0.75	2	fig|6666666.1036479.peg.2548	High		0	0.8470482289791107						
+fig|6666666.1036479.peg.1594	no STRING match		1	0.75	3	fig|6666666.1036479.peg.856	Low		6	0.8402475237846374						
+fig|6666666.1036479.peg.1594	no STRING match		1	0.75	4	fig|6666666.1036479.peg.370	High		0	0.8396185219287873						
+fig|6666666.1036479.peg.1594	no STRING match		1	0.75	5	fig|6666666.1036479.peg.798	High	Hypothetical protein.	3	0.8394696354866028						
+fig|6666666.1036479.peg.1937	no STRING match		1	0.8	1	fig|6666666.1036479.peg.1519	High		35	0.8429044783115387						
+fig|6666666.1036479.peg.1937	no STRING match		1	0.8	2	fig|6666666.1036479.peg.222	High	Hypothetical protein.	3	0.8377142310142517						
+fig|6666666.1036479.peg.1937	no STRING match		1	0.8	3	fig|6666666.1036479.peg.2548	High		0	0.8363836228847503						
+fig|6666666.1036479.peg.1937	no STRING match		1	0.8	4	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.8343307375907898						
+fig|6666666.1036479.peg.1937	no STRING match		1	0.8	5	fig|6666666.1036479.peg.798	High	Hypothetical protein.	3	0.8335709631443023						
+fig|6666666.1036479.peg.1951	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		6	0.9091119408607484						
+fig|6666666.1036479.peg.1951	no STRING match		1	0.75	2	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	4	0.8950094103813171				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.1951	no STRING match		1	0.75	3	fig|6666666.1036479.peg.1719	Medium		31	0.8862316250801087						
+fig|6666666.1036479.peg.1951	no STRING match		1	0.75	4	fig|6666666.1036479.peg.1519	High		35	0.8846453309059144						
+fig|6666666.1036479.peg.1951	no STRING match		1	0.75	5	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	19	0.8838403522968292						
+fig|6666666.1036479.peg.1955	no STRING match		1	0.85	1	fig|6666666.1036479.peg.1519	High		35	0.7771475672721863	DUF4280	Domain of unknown function (DUF4280)				
+fig|6666666.1036479.peg.1955	no STRING match		1	0.85	2	fig|6666666.1036479.peg.856	Low		6	0.7762389183044434	DUF4280	Domain of unknown function (DUF4280)				
+fig|6666666.1036479.peg.1955	no STRING match		1	0.85	3	fig|6666666.1036479.peg.2548	High		0	0.7630152463912964	DUF4280	Domain of unknown function (DUF4280)				
+fig|6666666.1036479.peg.1955	no STRING match		1	0.85	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	4	0.7561770379543304	DUF4280	Domain of unknown function (DUF4280)		DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.1955	no STRING match		1	0.85	5	fig|6666666.1036479.peg.704	Low		46	0.7535714447498322	DUF4280	Domain of unknown function (DUF4280)		DUF6095	Family of unknown function (DUF6095)	
+fig|6666666.1036479.peg.2104	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		6	0.9109776139259338						
+fig|6666666.1036479.peg.2104	no STRING match		1	0.75	2	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	4	0.894601172208786				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.2104	no STRING match		1	0.75	3	fig|6666666.1036479.peg.1519	High		35	0.8918354332447052						
+fig|6666666.1036479.peg.2104	no STRING match		1	0.75	4	fig|6666666.1036479.peg.1719	Medium		31	0.8865224540233612						
+fig|6666666.1036479.peg.2104	no STRING match		1	0.75	5	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	19	0.8811589419841767						
+fig|6666666.1036479.peg.2106	secondary STRING hit (STRING protein assigned to a better match)	Hypothetical protein.	1	0.75	1	fig|6666666.1036479.peg.856	Low		6	0.933893132209778						
+fig|6666666.1036479.peg.2106	secondary STRING hit (STRING protein assigned to a better match)	Hypothetical protein.	1	0.75	2	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	4	0.9246105849742888				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.2106	secondary STRING hit (STRING protein assigned to a better match)	Hypothetical protein.	1	0.75	3	fig|6666666.1036479.peg.1719	Medium		31	0.917369931936264						
+fig|6666666.1036479.peg.2106	secondary STRING hit (STRING protein assigned to a better match)	Hypothetical protein.	1	0.75	4	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	19	0.9172294735908508						
+fig|6666666.1036479.peg.2106	secondary STRING hit (STRING protein assigned to a better match)	Hypothetical protein.	1	0.75	5	fig|6666666.1036479.peg.1519	High		35	0.9085822224617004						
+fig|6666666.1036479.peg.2348	no STRING match		1	0.85	1	fig|6666666.1036479.peg.856	Low		6	0.9526954650878906	DUF6660	Family of unknown function (DUF6660)				
+fig|6666666.1036479.peg.2348	no STRING match		1	0.85	2	fig|6666666.1036479.peg.1519	High		35	0.9460391402244568	DUF6660	Family of unknown function (DUF6660)				
+fig|6666666.1036479.peg.2348	no STRING match		1	0.85	3	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	4	0.941221421957016	DUF6660	Family of unknown function (DUF6660)		DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.2348	no STRING match		1	0.85	4	fig|6666666.1036479.peg.1719	Medium		31	0.9375235736370088	DUF6660	Family of unknown function (DUF6660)				
+fig|6666666.1036479.peg.2348	no STRING match		1	0.85	5	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	19	0.936001831293106	DUF6660	Family of unknown function (DUF6660)				
+fig|6666666.1036479.peg.2434	no STRING match		1	0.75	1	fig|6666666.1036479.peg.1519	High		35	0.8168968856334686						
+fig|6666666.1036479.peg.2434	no STRING match		1	0.75	2	fig|6666666.1036479.peg.856	Low		6	0.8161136388778687						
+fig|6666666.1036479.peg.2434	no STRING match		1	0.75	3	fig|6666666.1036479.peg.2548	High		0	0.8083688139915466						
+fig|6666666.1036479.peg.2434	no STRING match		1	0.75	4	fig|6666666.1036479.peg.866	High		0	0.7960862994194031						
+fig|6666666.1036479.peg.2434	no STRING match		1	0.75	5	fig|6666666.1036479.peg.370	High		0	0.7953172624111176						
+fig|6666666.1036479.peg.2456	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		6	0.8121089458465576	Chlam_PMP;Chlam_PMP	Chlamydia polymorphic membrane protein (Chlamydia_PMP) repeat				
+fig|6666666.1036479.peg.2456	no STRING match		1	0.75	2	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	4	0.8020750403404235	Chlam_PMP;Chlam_PMP	Chlamydia polymorphic membrane protein (Chlamydia_PMP) repeat		DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.2456	no STRING match		1	0.75	3	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	19	0.8017423391342163	Chlam_PMP;Chlam_PMP	Chlamydia polymorphic membrane protein (Chlamydia_PMP) repeat				
+fig|6666666.1036479.peg.2456	no STRING match		1	0.75	4	fig|6666666.1036479.peg.1519	High		35	0.7951445341110229	Chlam_PMP;Chlam_PMP	Chlamydia polymorphic membrane protein (Chlamydia_PMP) repeat				
+fig|6666666.1036479.peg.2456	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1719	Medium		31	0.7943639993667603	Chlam_PMP;Chlam_PMP	Chlamydia polymorphic membrane protein (Chlamydia_PMP) repeat				

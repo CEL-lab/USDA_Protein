@@ -1,0 +1,356 @@
+nodes=3257 connected=1607 ESM dim=1280 (esm_embeddings_esm2_t33_650M_UR50D_all.npz)
+=== seed 0 | positives {'train': 10896, 'val': 2354, 'test_C2': 2531, 'test_C3': 127}
+  Biomni only                GCN             val=0.668 C2=0.655 C3=0.585
+  Biomni only                GAT             val=0.690 C2=0.655 C3=0.594
+  Biomni only                GraphSAGE       val=0.606 C2=0.601 C3=0.596
+  Biomni only                MLP (no graph)  val=0.628 C2=0.623 C3=0.679
+  ESM only                   GCN             val=0.684 C2=0.694 C3=0.689
+  ESM only                   GAT             val=0.690 C2=0.686 C3=0.663
+  ESM only                   GraphSAGE       val=0.703 C2=0.709 C3=0.664
+  ESM only                   MLP (no graph)  val=0.726 C2=0.736 C3=0.711
+  Node2Vec only              GCN             val=0.499 C2=0.524 C3=0.526
+  Node2Vec only              GAT             val=0.496 C2=0.507 C3=0.533
+  Node2Vec only              GraphSAGE       val=0.509 C2=0.494 C3=0.488
+  Node2Vec only              MLP (no graph)  val=0.510 C2=0.502 C3=0.481
+  Biomni + ESM               GCN             val=0.687 C2=0.697 C3=0.682
+  Biomni + ESM               GAT             val=0.696 C2=0.692 C3=0.639
+  Biomni + ESM               GraphSAGE       val=0.727 C2=0.722 C3=0.669
+  Biomni + ESM               MLP (no graph)  val=0.733 C2=0.740 C3=0.716
+  Biomni + Node2Vec          GCN             val=0.661 C2=0.649 C3=0.591
+  Biomni + Node2Vec          GAT             val=0.662 C2=0.642 C3=0.586
+  Biomni + Node2Vec          GraphSAGE       val=0.650 C2=0.637 C3=0.594
+  Biomni + Node2Vec          MLP (no graph)  val=0.671 C2=0.659 C3=0.637
+  ESM + Node2Vec             GCN             val=0.703 C2=0.703 C3=0.693
+  ESM + Node2Vec             GAT             val=0.721 C2=0.707 C3=0.699
+  ESM + Node2Vec             GraphSAGE       val=0.717 C2=0.710 C3=0.682
+  ESM + Node2Vec             MLP (no graph)  val=0.720 C2=0.697 C3=0.621
+  Biomni + ESM + Node2Vec    GCN             val=0.696 C2=0.707 C3=0.705
+  Biomni + ESM + Node2Vec    GAT             val=0.736 C2=0.723 C3=0.693
+  Biomni + ESM + Node2Vec    GraphSAGE       val=0.738 C2=0.711 C3=0.666
+  Biomni + ESM + Node2Vec    MLP (no graph)  val=0.721 C2=0.717 C3=0.667
+  baselines C2: Common neighbors=0.500, Adamic-Adar=0.500, Resource allocation=0.500, Preferential attachment=0.500, ESM cosine=0.630, Partner degree=0.529
+  seed 0 done in 41s
+=== seed 1 | positives {'train': 10822, 'val': 2621, 'test_C2': 2336, 'test_C3': 117}
+Exception ignored in: 'gensim.models.word2vec_inner.our_dot_float'
+  Biomni only                GCN             val=0.650 C2=0.631 C3=0.574
+  Biomni only                GAT             val=0.644 C2=0.641 C3=0.572
+  Biomni only                GraphSAGE       val=0.592 C2=0.589 C3=0.583
+  Biomni only                MLP (no graph)  val=0.594 C2=0.625 C3=0.637
+  ESM only                   GCN             val=0.689 C2=0.684 C3=0.649
+  ESM only                   GAT             val=0.702 C2=0.688 C3=0.656
+  ESM only                   GraphSAGE       val=0.711 C2=0.693 C3=0.612
+  ESM only                   MLP (no graph)  val=0.724 C2=0.726 C3=0.710
+  Node2Vec only              GCN             val=0.516 C2=0.499 C3=0.500
+  Node2Vec only              GAT             val=0.507 C2=0.495 C3=0.484
+  Node2Vec only              GraphSAGE       val=0.519 C2=0.502 C3=0.498
+  Node2Vec only              MLP (no graph)  val=0.516 C2=0.522 C3=0.476
+  Biomni + ESM               GCN             val=0.693 C2=0.683 C3=0.660
+  Biomni + ESM               GAT             val=0.684 C2=0.683 C3=0.658
+  Biomni + ESM               GraphSAGE       val=0.730 C2=0.732 C3=0.675
+  Biomni + ESM               MLP (no graph)  val=0.730 C2=0.739 C3=0.725
+  Biomni + Node2Vec          GCN             val=0.628 C2=0.644 C3=0.584
+  Biomni + Node2Vec          GAT             val=0.649 C2=0.632 C3=0.574
+  Biomni + Node2Vec          GraphSAGE       val=0.633 C2=0.613 C3=0.572
+  Biomni + Node2Vec          MLP (no graph)  val=0.625 C2=0.607 C3=0.541
+  ESM + Node2Vec             GCN             val=0.700 C2=0.687 C3=0.658
+  ESM + Node2Vec             GAT             val=0.725 C2=0.712 C3=0.671
+  ESM + Node2Vec             GraphSAGE       val=0.736 C2=0.734 C3=0.679
+  ESM + Node2Vec             MLP (no graph)  val=0.737 C2=0.726 C3=0.670
+  Biomni + ESM + Node2Vec    GCN             val=0.705 C2=0.699 C3=0.647
+  Biomni + ESM + Node2Vec    GAT             val=0.720 C2=0.721 C3=0.683
+  Biomni + ESM + Node2Vec    GraphSAGE       val=0.729 C2=0.726 C3=0.676
+  Biomni + ESM + Node2Vec    MLP (no graph)  val=0.738 C2=0.716 C3=0.654
+  baselines C2: Common neighbors=0.500, Adamic-Adar=0.500, Resource allocation=0.500, Preferential attachment=0.500, ESM cosine=0.642, Partner degree=0.516
+  seed 1 done in 42s
+=== seed 2 | positives {'train': 10990, 'val': 2514, 'test_C2': 2271, 'test_C3': 103}
+Exception ignored in: 'gensim.models.word2vec_inner.our_dot_float'
+  Biomni only                GCN             val=0.650 C2=0.640 C3=0.558
+  Biomni only                GAT             val=0.646 C2=0.640 C3=0.553
+  Biomni only                GraphSAGE       val=0.633 C2=0.611 C3=0.538
+  Biomni only                MLP (no graph)  val=0.638 C2=0.622 C3=0.567
+  ESM only                   GCN             val=0.692 C2=0.690 C3=0.663
+  ESM only                   GAT             val=0.693 C2=0.696 C3=0.677
+  ESM only                   GraphSAGE       val=0.689 C2=0.697 C3=0.685
+  ESM only                   MLP (no graph)  val=0.699 C2=0.718 C3=0.678
+  Node2Vec only              GCN             val=0.508 C2=0.509 C3=0.550
+  Node2Vec only              GAT             val=0.507 C2=0.517 C3=0.568
+  Node2Vec only              GraphSAGE       val=0.498 C2=0.494 C3=0.532
+  Node2Vec only              MLP (no graph)  val=0.522 C2=0.516 C3=0.468
+  Biomni + ESM               GCN             val=0.680 C2=0.689 C3=0.616
+  Biomni + ESM               GAT             val=0.679 C2=0.693 C3=0.628
+  Biomni + ESM               GraphSAGE       val=0.673 C2=0.683 C3=0.642
+  Biomni + ESM               MLP (no graph)  val=0.699 C2=0.737 C3=0.713
+  Biomni + Node2Vec          GCN             val=0.655 C2=0.640 C3=0.554
+  Biomni + Node2Vec          GAT             val=0.654 C2=0.634 C3=0.554
+  Biomni + Node2Vec          GraphSAGE       val=0.629 C2=0.632 C3=0.532
+  Biomni + Node2Vec          MLP (no graph)  val=0.647 C2=0.633 C3=0.572
+  ESM + Node2Vec             GCN             val=0.691 C2=0.699 C3=0.669
+  ESM + Node2Vec             GAT             val=0.687 C2=0.701 C3=0.657
+  ESM + Node2Vec             GraphSAGE       val=0.674 C2=0.688 C3=0.680
+  ESM + Node2Vec             MLP (no graph)  val=0.723 C2=0.732 C3=0.677
+  Biomni + ESM + Node2Vec    GCN             val=0.684 C2=0.687 C3=0.619
+  Biomni + ESM + Node2Vec    GAT             val=0.704 C2=0.699 C3=0.647
+  Biomni + ESM + Node2Vec    GraphSAGE       val=0.678 C2=0.652 C3=0.671
+  Biomni + ESM + Node2Vec    MLP (no graph)  val=0.708 C2=0.721 C3=0.705
+  baselines C2: Common neighbors=0.500, Adamic-Adar=0.500, Resource allocation=0.500, Preferential attachment=0.500, ESM cosine=0.632, Partner degree=0.518
+  seed 2 done in 38s
+=== seed 3 | positives {'train': 10273, 'val': 2765, 'test_C2': 2570, 'test_C3': 150}
+Exception ignored in: 'gensim.models.word2vec_inner.our_dot_float'
+  Biomni only                GCN             val=0.628 C2=0.650 C3=0.570
+  Biomni only                GAT             val=0.637 C2=0.662 C3=0.575
+  Biomni only                GraphSAGE       val=0.593 C2=0.592 C3=0.526
+  Biomni only                MLP (no graph)  val=0.620 C2=0.611 C3=0.559
+  ESM only                   GCN             val=0.704 C2=0.705 C3=0.735
+  ESM only                   GAT             val=0.718 C2=0.727 C3=0.763
+  ESM only                   GraphSAGE       val=0.713 C2=0.723 C3=0.751
+  ESM only                   MLP (no graph)  val=0.729 C2=0.739 C3=0.773
+  Node2Vec only              GCN             val=0.515 C2=0.509 C3=0.469
+  Node2Vec only              GAT             val=0.502 C2=0.510 C3=0.487
+  Node2Vec only              GraphSAGE       val=0.518 C2=0.509 C3=0.461
+  Node2Vec only              MLP (no graph)  val=0.515 C2=0.525 C3=0.517
+  Biomni + ESM               GCN             val=0.685 C2=0.687 C3=0.692
+  Biomni + ESM               GAT             val=0.692 C2=0.678 C3=0.655
+  Biomni + ESM               GraphSAGE       val=0.718 C2=0.739 C3=0.721
+  Biomni + ESM               MLP (no graph)  val=0.748 C2=0.750 C3=0.777
+  Biomni + Node2Vec          GCN             val=0.590 C2=0.638 C3=0.558
+  Biomni + Node2Vec          GAT             val=0.599 C2=0.646 C3=0.563
+  Biomni + Node2Vec          GraphSAGE       val=0.617 C2=0.607 C3=0.543
+  Biomni + Node2Vec          MLP (no graph)  val=0.617 C2=0.636 C3=0.512
+  ESM + Node2Vec             GCN             val=0.744 C2=0.742 C3=0.738
+  ESM + Node2Vec             GAT             val=0.750 C2=0.764 C3=0.764
+  ESM + Node2Vec             GraphSAGE       val=0.755 C2=0.764 C3=0.757
+  ESM + Node2Vec             MLP (no graph)  val=0.727 C2=0.731 C3=0.718
+  Biomni + ESM + Node2Vec    GCN             val=0.711 C2=0.722 C3=0.696
+  Biomni + ESM + Node2Vec    GAT             val=0.706 C2=0.732 C3=0.711
+  Biomni + ESM + Node2Vec    GraphSAGE       val=0.723 C2=0.755 C3=0.712
+  Biomni + ESM + Node2Vec    MLP (no graph)  val=0.720 C2=0.744 C3=0.733
+  baselines C2: Common neighbors=0.500, Adamic-Adar=0.500, Resource allocation=0.500, Preferential attachment=0.500, ESM cosine=0.639, Partner degree=0.536
+  seed 3 done in 43s
+=== seed 4 | positives {'train': 10059, 'val': 3002, 'test_C2': 2458, 'test_C3': 169}
+Exception ignored in: 'gensim.models.word2vec_inner.our_dot_float'
+  Biomni only                GCN             val=0.684 C2=0.658 C3=0.589
+  Biomni only                GAT             val=0.680 C2=0.662 C3=0.585
+  Biomni only                GraphSAGE       val=0.592 C2=0.595 C3=0.569
+  Biomni only                MLP (no graph)  val=0.616 C2=0.627 C3=0.607
+  ESM only                   GCN             val=0.708 C2=0.740 C3=0.756
+  ESM only                   GAT             val=0.714 C2=0.733 C3=0.741
+  ESM only                   GraphSAGE       val=0.753 C2=0.759 C3=0.728
+  ESM only                   MLP (no graph)  val=0.746 C2=0.757 C3=0.792
+  Node2Vec only              GCN             val=0.508 C2=0.502 C3=0.491
+  Node2Vec only              GAT             val=0.486 C2=0.504 C3=0.512
+  Node2Vec only              GraphSAGE       val=0.509 C2=0.508 C3=0.515
+  Node2Vec only              MLP (no graph)  val=0.518 C2=0.510 C3=0.498
+  Biomni + ESM               GCN             val=0.702 C2=0.723 C3=0.689
+  Biomni + ESM               GAT             val=0.703 C2=0.728 C3=0.704
+  Biomni + ESM               GraphSAGE       val=0.760 C2=0.762 C3=0.766
+  Biomni + ESM               MLP (no graph)  val=0.748 C2=0.754 C3=0.791
+  Biomni + Node2Vec          GCN             val=0.662 C2=0.632 C3=0.562
+  Biomni + Node2Vec          GAT             val=0.676 C2=0.658 C3=0.577
+  Biomni + Node2Vec          GraphSAGE       val=0.620 C2=0.592 C3=0.566
+  Biomni + Node2Vec          MLP (no graph)  val=0.653 C2=0.640 C3=0.566
+  ESM + Node2Vec             GCN             val=0.715 C2=0.743 C3=0.762
+  ESM + Node2Vec             GAT             val=0.732 C2=0.760 C3=0.741
+  ESM + Node2Vec             GraphSAGE       val=0.763 C2=0.769 C3=0.773
+  ESM + Node2Vec             MLP (no graph)  val=0.767 C2=0.773 C3=0.758
+  Biomni + ESM + Node2Vec    GCN             val=0.705 C2=0.714 C3=0.680
+  Biomni + ESM + Node2Vec    GAT             val=0.747 C2=0.746 C3=0.671
+  Biomni + ESM + Node2Vec    GraphSAGE       val=0.758 C2=0.767 C3=0.736
+  Biomni + ESM + Node2Vec    MLP (no graph)  val=0.739 C2=0.741 C3=0.737
+  baselines C2: Common neighbors=0.500, Adamic-Adar=0.500, Resource allocation=0.500, Preferential attachment=0.500, ESM cosine=0.647, Partner degree=0.516
+  seed 4 done in 41s
+=== seed 5 | positives {'train': 10774, 'val': 2391, 'test_C2': 2586, 'test_C3': 143}
+Exception ignored in: 'gensim.models.word2vec_inner.our_dot_float'
+Exception ignored in: 'gensim.models.word2vec_inner.our_dot_float'
+Exception ignored in: 'gensim.models.word2vec_inner.our_dot_float'
+  Biomni only                GCN             val=0.638 C2=0.632 C3=0.484
+  Biomni only                GAT             val=0.655 C2=0.643 C3=0.493
+  Biomni only                GraphSAGE       val=0.595 C2=0.583 C3=0.473
+  Biomni only                MLP (no graph)  val=0.608 C2=0.613 C3=0.533
+  ESM only                   GCN             val=0.674 C2=0.675 C3=0.607
+  ESM only                   GAT             val=0.675 C2=0.678 C3=0.631
+  ESM only                   GraphSAGE       val=0.710 C2=0.701 C3=0.651
+  ESM only                   MLP (no graph)  val=0.702 C2=0.716 C3=0.692
+  Node2Vec only              GCN             val=0.518 C2=0.532 C3=0.565
+  Node2Vec only              GAT             val=0.496 C2=0.541 C3=0.508
+  Node2Vec only              GraphSAGE       val=0.493 C2=0.505 C3=0.526
+  Node2Vec only              MLP (no graph)  val=0.521 C2=0.513 C3=0.496
+  Biomni + ESM               GCN             val=0.670 C2=0.655 C3=0.578
+  Biomni + ESM               GAT             val=0.673 C2=0.668 C3=0.584
+  Biomni + ESM               GraphSAGE       val=0.693 C2=0.696 C3=0.601
+  Biomni + ESM               MLP (no graph)  val=0.732 C2=0.740 C3=0.708
+  Biomni + Node2Vec          GCN             val=0.634 C2=0.617 C3=0.492
+  Biomni + Node2Vec          GAT             val=0.636 C2=0.619 C3=0.502
+  Biomni + Node2Vec          GraphSAGE       val=0.619 C2=0.603 C3=0.495
+  Biomni + Node2Vec          MLP (no graph)  val=0.613 C2=0.616 C3=0.474
+  ESM + Node2Vec             GCN             val=0.680 C2=0.689 C3=0.615
+  ESM + Node2Vec             GAT             val=0.692 C2=0.699 C3=0.638
+  ESM + Node2Vec             GraphSAGE       val=0.720 C2=0.722 C3=0.655
+  ESM + Node2Vec             MLP (no graph)  val=0.706 C2=0.722 C3=0.694
+  Biomni + ESM + Node2Vec    GCN             val=0.697 C2=0.689 C3=0.579
+  Biomni + ESM + Node2Vec    GAT             val=0.709 C2=0.717 C3=0.633
+  Biomni + ESM + Node2Vec    GraphSAGE       val=0.687 C2=0.669 C3=0.623
+  Biomni + ESM + Node2Vec    MLP (no graph)  val=0.689 C2=0.690 C3=0.642
+  baselines C2: Common neighbors=0.500, Adamic-Adar=0.500, Resource allocation=0.500, Preferential attachment=0.500, ESM cosine=0.626, Partner degree=0.523
+  seed 5 done in 41s
+=== seed 6 | positives {'train': 10041, 'val': 2761, 'test_C2': 2723, 'test_C3': 194}
+  Biomni only                GCN             val=0.673 C2=0.680 C3=0.615
+  Biomni only                GAT             val=0.657 C2=0.682 C3=0.612
+  Biomni only                GraphSAGE       val=0.604 C2=0.623 C3=0.601
+  Biomni only                MLP (no graph)  val=0.636 C2=0.636 C3=0.645
+  ESM only                   GCN             val=0.714 C2=0.727 C3=0.741
+  ESM only                   GAT             val=0.708 C2=0.730 C3=0.710
+  ESM only                   GraphSAGE       val=0.745 C2=0.742 C3=0.678
+  ESM only                   MLP (no graph)  val=0.744 C2=0.742 C3=0.702
+  Node2Vec only              GCN             val=0.496 C2=0.509 C3=0.518
+  Node2Vec only              GAT             val=0.482 C2=0.513 C3=0.484
+  Node2Vec only              GraphSAGE       val=0.518 C2=0.509 C3=0.526
+  Node2Vec only              MLP (no graph)  val=0.511 C2=0.507 C3=0.508
+  Biomni + ESM               GCN             val=0.718 C2=0.709 C3=0.669
+  Biomni + ESM               GAT             val=0.716 C2=0.714 C3=0.647
+  Biomni + ESM               GraphSAGE       val=0.757 C2=0.745 C3=0.664
+  Biomni + ESM               MLP (no graph)  val=0.758 C2=0.758 C3=0.733
+  Biomni + Node2Vec          GCN             val=0.667 C2=0.656 C3=0.576
+  Biomni + Node2Vec          GAT             val=0.667 C2=0.651 C3=0.583
+  Biomni + Node2Vec          GraphSAGE       val=0.659 C2=0.655 C3=0.595
+  Biomni + Node2Vec          MLP (no graph)  val=0.641 C2=0.671 C3=0.614
+  ESM + Node2Vec             GCN             val=0.736 C2=0.756 C3=0.744
+  ESM + Node2Vec             GAT             val=0.739 C2=0.758 C3=0.721
+  ESM + Node2Vec             GraphSAGE       val=0.769 C2=0.743 C3=0.711
+  ESM + Node2Vec             MLP (no graph)  val=0.765 C2=0.746 C3=0.660
+  Biomni + ESM + Node2Vec    GCN             val=0.721 C2=0.721 C3=0.678
+  Biomni + ESM + Node2Vec    GAT             val=0.735 C2=0.731 C3=0.665
+  Biomni + ESM + Node2Vec    GraphSAGE       val=0.756 C2=0.758 C3=0.663
+  Biomni + ESM + Node2Vec    MLP (no graph)  val=0.764 C2=0.754 C3=0.718
+  baselines C2: Common neighbors=0.500, Adamic-Adar=0.500, Resource allocation=0.500, Preferential attachment=0.500, ESM cosine=0.634, Partner degree=0.524
+  seed 6 done in 41s
+=== seed 7 | positives {'train': 10631, 'val': 2335, 'test_C2': 2758, 'test_C3': 171}
+Exception ignored in: 'gensim.models.word2vec_inner.our_dot_float'
+  Biomni only                GCN             val=0.673 C2=0.633 C3=0.557
+  Biomni only                GAT             val=0.681 C2=0.625 C3=0.561
+  Biomni only                GraphSAGE       val=0.595 C2=0.586 C3=0.572
+  Biomni only                MLP (no graph)  val=0.625 C2=0.602 C3=0.569
+  ESM only                   GCN             val=0.689 C2=0.658 C3=0.624
+  ESM only                   GAT             val=0.701 C2=0.675 C3=0.648
+  ESM only                   GraphSAGE       val=0.716 C2=0.671 C3=0.684
+  ESM only                   MLP (no graph)  val=0.726 C2=0.689 C3=0.679
+  Node2Vec only              GCN             val=0.508 C2=0.514 C3=0.448
+  Node2Vec only              GAT             val=0.505 C2=0.519 C3=0.452
+  Node2Vec only              GraphSAGE       val=0.493 C2=0.503 C3=0.510
+  Node2Vec only              MLP (no graph)  val=0.511 C2=0.505 C3=0.515
+  Biomni + ESM               GCN             val=0.692 C2=0.627 C3=0.579
+  Biomni + ESM               GAT             val=0.697 C2=0.648 C3=0.595
+  Biomni + ESM               GraphSAGE       val=0.714 C2=0.658 C3=0.626
+  Biomni + ESM               MLP (no graph)  val=0.737 C2=0.699 C3=0.674
+  Biomni + Node2Vec          GCN             val=0.662 C2=0.620 C3=0.575
+  Biomni + Node2Vec          GAT             val=0.671 C2=0.627 C3=0.564
+  Biomni + Node2Vec          GraphSAGE       val=0.635 C2=0.606 C3=0.555
+  Biomni + Node2Vec          MLP (no graph)  val=0.663 C2=0.640 C3=0.578
+  ESM + Node2Vec             GCN             val=0.696 C2=0.673 C3=0.647
+  ESM + Node2Vec             GAT             val=0.697 C2=0.667 C3=0.629
+  ESM + Node2Vec             GraphSAGE       val=0.732 C2=0.697 C3=0.638
+  ESM + Node2Vec             MLP (no graph)  val=0.726 C2=0.690 C3=0.680
+  Biomni + ESM + Node2Vec    GCN             val=0.733 C2=0.662 C3=0.609
+  Biomni + ESM + Node2Vec    GAT             val=0.730 C2=0.664 C3=0.597
+  Biomni + ESM + Node2Vec    GraphSAGE       val=0.683 C2=0.648 C3=0.631
+  Biomni + ESM + Node2Vec    MLP (no graph)  val=0.741 C2=0.695 C3=0.666
+  baselines C2: Common neighbors=0.500, Adamic-Adar=0.500, Resource allocation=0.500, Preferential attachment=0.500, ESM cosine=0.628, Partner degree=0.523
+  seed 7 done in 38s
+=== seed 8 | positives {'train': 10706, 'val': 2453, 'test_C2': 2567, 'test_C3': 141}
+Exception ignored in: 'gensim.models.word2vec_inner.our_dot_float'
+Exception ignored in: 'gensim.models.word2vec_inner.our_dot_float'
+  Biomni only                GCN             val=0.681 C2=0.664 C3=0.597
+  Biomni only                GAT             val=0.682 C2=0.658 C3=0.600
+  Biomni only                GraphSAGE       val=0.646 C2=0.633 C3=0.594
+  Biomni only                MLP (no graph)  val=0.621 C2=0.620 C3=0.632
+  ESM only                   GCN             val=0.722 C2=0.715 C3=0.676
+  ESM only                   GAT             val=0.720 C2=0.723 C3=0.696
+  ESM only                   GraphSAGE       val=0.724 C2=0.716 C3=0.702
+  ESM only                   MLP (no graph)  val=0.702 C2=0.686 C3=0.687
+  Node2Vec only              GCN             val=0.517 C2=0.527 C3=0.498
+  Node2Vec only              GAT             val=0.497 C2=0.512 C3=0.492
+  Node2Vec only              GraphSAGE       val=0.519 C2=0.508 C3=0.542
+  Node2Vec only              MLP (no graph)  val=0.516 C2=0.516 C3=0.505
+  Biomni + ESM               GCN             val=0.716 C2=0.707 C3=0.681
+  Biomni + ESM               GAT             val=0.716 C2=0.697 C3=0.668
+  Biomni + ESM               GraphSAGE       val=0.719 C2=0.714 C3=0.667
+  Biomni + ESM               MLP (no graph)  val=0.763 C2=0.752 C3=0.736
+  Biomni + Node2Vec          GCN             val=0.676 C2=0.647 C3=0.604
+  Biomni + Node2Vec          GAT             val=0.655 C2=0.650 C3=0.592
+  Biomni + Node2Vec          GraphSAGE       val=0.632 C2=0.603 C3=0.614
+  Biomni + Node2Vec          MLP (no graph)  val=0.643 C2=0.627 C3=0.583
+  ESM + Node2Vec             GCN             val=0.735 C2=0.742 C3=0.715
+  ESM + Node2Vec             GAT             val=0.738 C2=0.748 C3=0.710
+  ESM + Node2Vec             GraphSAGE       val=0.757 C2=0.751 C3=0.688
+  ESM + Node2Vec             MLP (no graph)  val=0.740 C2=0.736 C3=0.696
+  Biomni + ESM + Node2Vec    GCN             val=0.731 C2=0.729 C3=0.689
+  Biomni + ESM + Node2Vec    GAT             val=0.728 C2=0.717 C3=0.669
+  Biomni + ESM + Node2Vec    GraphSAGE       val=0.721 C2=0.728 C3=0.683
+  Biomni + ESM + Node2Vec    MLP (no graph)  val=0.735 C2=0.737 C3=0.704
+  baselines C2: Common neighbors=0.500, Adamic-Adar=0.500, Resource allocation=0.500, Preferential attachment=0.500, ESM cosine=0.638, Partner degree=0.520
+  seed 8 done in 42s
+=== seed 9 | positives {'train': 10203, 'val': 2951, 'test_C2': 2432, 'test_C3': 157}
+  Biomni only                GCN             val=0.692 C2=0.645 C3=0.652
+  Biomni only                GAT             val=0.678 C2=0.648 C3=0.646
+  Biomni only                GraphSAGE       val=0.564 C2=0.579 C3=0.651
+  Biomni only                MLP (no graph)  val=0.637 C2=0.618 C3=0.663
+  ESM only                   GCN             val=0.731 C2=0.702 C3=0.709
+  ESM only                   GAT             val=0.732 C2=0.702 C3=0.709
+  ESM only                   GraphSAGE       val=0.755 C2=0.747 C3=0.730
+  ESM only                   MLP (no graph)  val=0.752 C2=0.735 C3=0.719
+  Node2Vec only              GCN             val=0.507 C2=0.524 C3=0.495
+  Node2Vec only              GAT             val=0.522 C2=0.513 C3=0.494
+  Node2Vec only              GraphSAGE       val=0.522 C2=0.522 C3=0.469
+  Node2Vec only              MLP (no graph)  val=0.531 C2=0.527 C3=0.490
+  Biomni + ESM               GCN             val=0.710 C2=0.699 C3=0.703
+  Biomni + ESM               GAT             val=0.721 C2=0.712 C3=0.713
+  Biomni + ESM               GraphSAGE       val=0.742 C2=0.733 C3=0.675
+  Biomni + ESM               MLP (no graph)  val=0.763 C2=0.747 C3=0.719
+  Biomni + Node2Vec          GCN             val=0.660 C2=0.656 C3=0.665
+  Biomni + Node2Vec          GAT             val=0.642 C2=0.637 C3=0.664
+  Biomni + Node2Vec          GraphSAGE       val=0.658 C2=0.635 C3=0.626
+  Biomni + Node2Vec          MLP (no graph)  val=0.660 C2=0.652 C3=0.627
+  ESM + Node2Vec             GCN             val=0.762 C2=0.727 C3=0.709
+  ESM + Node2Vec             GAT             val=0.760 C2=0.721 C3=0.696
+  ESM + Node2Vec             GraphSAGE       val=0.756 C2=0.727 C3=0.698
+  ESM + Node2Vec             MLP (no graph)  val=0.757 C2=0.734 C3=0.697
+  Biomni + ESM + Node2Vec    GCN             val=0.731 C2=0.715 C3=0.700
+  Biomni + ESM + Node2Vec    GAT             val=0.742 C2=0.715 C3=0.708
+  Biomni + ESM + Node2Vec    GraphSAGE       val=0.746 C2=0.730 C3=0.710
+  Biomni + ESM + Node2Vec    MLP (no graph)  val=0.739 C2=0.732 C3=0.703
+  baselines C2: Common neighbors=0.500, Adamic-Adar=0.500, Resource allocation=0.500, Preferential attachment=0.500, ESM cosine=0.632, Partner degree=0.521
+  seed 9 done in 43s
+                feature_set                    model  C2_auc_mean  C2_auc_std  C3_auc_mean
+0              Biomni + ESM           MLP (no graph)     0.741619    0.016502     0.729255
+1            ESM + Node2Vec                GraphSAGE     0.730369    0.027049     0.696005
+2            ESM + Node2Vec           MLP (no graph)     0.728628    0.023277     0.687197
+3   Biomni + ESM + Node2Vec           MLP (no graph)     0.724728    0.020885     0.692983
+4                  ESM only           MLP (no graph)     0.724458    0.022696     0.714215
+5            ESM + Node2Vec                      GAT     0.723695    0.032439     0.692716
+6              Biomni + ESM                GraphSAGE     0.718448    0.031441     0.670616
+7   Biomni + ESM + Node2Vec                      GAT     0.716432    0.022292     0.667839
+8            ESM + Node2Vec                      GCN     0.716132    0.029290     0.694959
+9                  ESM only                GraphSAGE     0.715656    0.027286     0.688426
+10  Biomni + ESM + Node2Vec                GraphSAGE     0.714371    0.043901     0.677107
+11  Biomni + ESM + Node2Vec                      GCN     0.704394    0.020389     0.660123
+12                 ESM only                      GAT     0.703622    0.022446     0.689348
+13                 ESM only                      GCN     0.699082    0.024527     0.684818
+14             Biomni + ESM                      GAT     0.691379    0.023487     0.649142
+15             Biomni + ESM                      GCN     0.687610    0.027898     0.654933
+16              Biomni only                      GAT     0.651430    0.015798     0.579334
+17              Biomni only                      GCN     0.648717    0.015969     0.577918
+18        Biomni + Node2Vec                      GCN     0.640004    0.013384     0.575995
+19        Biomni + Node2Vec                      GAT     0.639440    0.011943     0.575886
+20        Biomni + Node2Vec           MLP (no graph)     0.638149    0.019080     0.570390
+21   Baseline (no training)               ESM cosine     0.634774    0.006419     0.640322
+22              Biomni only           MLP (no graph)     0.619775    0.009487     0.609153
+23        Biomni + Node2Vec                GraphSAGE     0.618384    0.020197     0.569295
+24              Biomni only                GraphSAGE     0.599014    0.018021     0.570310
+25   Baseline (no training)           Partner degree     0.522726    0.006104     0.500000
+26            Node2Vec only                      GCN     0.514826    0.011085     0.505908
+27            Node2Vec only           MLP (no graph)     0.514327    0.008469     0.495480
+28            Node2Vec only                      GAT     0.513017    0.011960     0.501372
+29            Node2Vec only                GraphSAGE     0.505382    0.008058     0.506820
+30   Baseline (no training)         Common neighbors     0.500000    0.000000     0.500000
+31   Baseline (no training)      Resource allocation     0.500000    0.000000     0.500000
+32   Baseline (no training)  Preferential attachment     0.500000    0.000000     0.500000
+33   Baseline (no training)              Adamic-Adar     0.500000    0.000000     0.500000

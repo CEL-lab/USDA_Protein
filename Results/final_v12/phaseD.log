@@ -1,0 +1,50 @@
+                     family_set  n_proteins  frac_Very Low  frac_Low  frac_Medium  frac_High  odds_ratio_high_vs_rest  fisher_p_bh  spearman_rho_tier  spearman_p_bh
+0              T9SS cargo (CTD)          43         0.0059    0.0219       0.0347     0.0043                   0.3104       0.8508             0.0667         0.0002
+1        Outer membrane protein          44         0.0076    0.0090       0.0471     0.0174                   1.3217       0.9604             0.0733         0.0001
+2           TonB / SusCD uptake          31         0.0049    0.0194       0.0174     0.0000                   0.0000       0.8508             0.0419         0.0234
+3      T9SS / gliding machinery          21         0.0022    0.0065       0.0273     0.0043                   0.6566       1.0000             0.0679         0.0002
+4      Adhesin / surface repeat          14         0.0016    0.0090       0.0074     0.0043                   1.0124       1.0000             0.0404         0.0246
+5      T6SS (type VI secretion)          13         0.0059    0.0026       0.0000     0.0000                   0.0000       1.0000            -0.0378         0.0311
+6  Any surface/secretion family         154         0.0265    0.0619       0.1241     0.0304                   0.6150       0.8508             0.1119         0.0000
+                               pair_set  n_pairs  n_both_pfam  share_pfam_family  share_pfam_clan  n_both_go  share_go_term  both_surface_family  any_surface_family
+0  Top 2000 isolated-connected (capped)     2000          319             0.0313           0.0752         71         0.1690               0.0090              0.1265
+1       Random isolated-connected pairs    50000        15450             0.0020           0.0191       3578         0.0559               0.0010              0.0800
+2   Top 2000 isolated-isolated (capped)     1977          515             0.2214           0.2641        137         0.5766               0.0046              0.0435
+3        Random isolated-isolated pairs    50000         6532             0.0179           0.0447       1140         0.2482               0.0005              0.0469
+4  Real STRING edges (positive control)    31926        26957             0.0246           0.0669      12993         0.1978               0.0106              0.0780
+                                       comparison              metric     top  random  odds_ratio  fisher_p  fisher_p_bh
+0  Top 2000 isolated-connected (capped) vs random   share_pfam_family  0.0313  0.0020     16.0967    0.0000       0.0000
+1  Top 2000 isolated-connected (capped) vs random     share_pfam_clan  0.0752  0.0191      4.1795    0.0000       0.0000
+2  Top 2000 isolated-connected (capped) vs random       share_go_term  0.1690  0.0559      3.4353    0.0007       0.0008
+3  Top 2000 isolated-connected (capped) vs random  any_surface_family  0.1265  0.0800      1.6645    0.0000       0.0000
+4   Top 2000 isolated-isolated (capped) vs random   share_pfam_family  0.2214  0.0179     15.5873    0.0000       0.0000
+5   Top 2000 isolated-isolated (capped) vs random     share_pfam_clan  0.2641  0.0447      7.6683    0.0000       0.0000
+6   Top 2000 isolated-isolated (capped) vs random       share_go_term  0.5766  0.2482      4.1247    0.0000       0.0000
+7   Top 2000 isolated-isolated (capped) vs random  any_surface_family  0.0435  0.0469      0.9238    0.5148       0.5148
+
+Isolated proteins in top lists: 791 of 993
+                     family_set  in_top_with_family  in_top_total  rest_with_family  rest_total  odds_ratio  fisher_p  fisher_p_bh
+0              T9SS cargo (CTD)                   7           791                 0         202         inf    0.3557       0.8531
+1        Outer membrane protein                   5           791                 0         202         inf    0.5895       1.0000
+2           TonB / SusCD uptake                   3           791                 0         202         inf    1.0000       1.0000
+3      T9SS / gliding machinery                   1           791                 1         202      0.2544    0.3656       0.8531
+4      Adhesin / surface repeat                   1           791                 0         202         inf    1.0000       1.0000
+5      T6SS (type VI secretion)                   3           791                 3         202      0.2525    0.1025       0.7176
+6  Any surface/secretion family                  19           791                 4         202      1.2183    1.0000       1.0000
+
+GO enrichment: 105 foreground / 147 background isolated proteins with GO
+       go_term                                    go_name  fg_count  fg_size  bg_count  bg_size  fold       p    p_bh
+15  GO:0016020                                   membrane         9      105         9      147   1.4  0.0437  0.7229
+22  GO:0055085                    transmembrane transport         5      105         5      147   1.4  0.1808  0.7229
+21  GO:0004519                      endonuclease activity         5      105         5      147   1.4  0.1808  0.7229
+10  GO:0005524                                ATP binding         5      105         5      147   1.4  0.1808  0.7229
+9   GO:0003824                         catalytic activity         5      105         5      147   1.4  0.1808  0.7229
+12  GO:0009307        DNA restriction-modification system         4      105         4      147   1.4  0.2560  0.7229
+23  GO:0022857         transmembrane transporter activity         4      105         4      147   1.4  0.2560  0.7229
+18  GO:0016491                    oxidoreductase activity         4      105         4      147   1.4  0.2560  0.7229
+25  GO:0030170                pyridoxal phosphate binding         4      105         4      147   1.4  0.2560  0.7229
+13  GO:0008170               N-methyltransferase activity         3      105         3      147   1.4  0.3614  0.7229
+14  GO:0006355  regulation of DNA-templated transcription         3      105         3      147   1.4  0.3614  0.7229
+19  GO:0009058                       biosynthetic process         3      105         3      147   1.4  0.3614  0.7229
+
+Surface-family isolated proteins: 23; top-1 partner also in a surface family: 4% (base rate among all proteins 5%)

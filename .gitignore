@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.aux
+*.fls
+*.fdb_latexmk
+*.out
+*.synctex.gz
+Flova_Reverse_Vac_Biomni/resubmission/*.log
+Results/chains.log
+Results/final_v12/chains.log

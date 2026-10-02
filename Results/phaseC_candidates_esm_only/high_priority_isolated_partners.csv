@@ -1,0 +1,571 @@
+isolated_protein,isolated_reason,isolated_desc,n_identical,vaccine_score,partner_rank,partner,partner_tier,partner_desc,partner_degree,score
+fig|6666666.1036479.peg.2501,no STRING match,,1,0.8,1,fig|6666666.1036479.peg.856,Low,,0,0.8201963007450104
+fig|6666666.1036479.peg.2501,no STRING match,,1,0.8,2,fig|6666666.1036479.peg.2548,High,,0,0.8156644165515899
+fig|6666666.1036479.peg.2501,no STRING match,,1,0.8,3,fig|6666666.1036479.peg.1035,Very Low,COG0463 Glycosyltransferases involved in cell wall biogenesis.,29,0.8116609990596771
+fig|6666666.1036479.peg.2501,no STRING match,,1,0.8,4,fig|6666666.1036479.peg.619,Low,Hypothetical protein.,9,0.8110632300376892
+fig|6666666.1036479.peg.2501,no STRING match,,1,0.8,5,fig|6666666.1036479.peg.1049,Very Low,Hypothetical protein; COG0463 Glycosyltransferases involved in cell wall biogenesis.,18,0.8101408541202545
+fig|6666666.1036479.peg.2502,no STRING match,,1,0.85,1,fig|6666666.1036479.peg.856,Low,,0,0.8081068634986878
+fig|6666666.1036479.peg.2502,no STRING match,,1,0.85,2,fig|6666666.1036479.peg.2548,High,,0,0.7908453643321991
+fig|6666666.1036479.peg.2502,no STRING match,,1,0.85,3,fig|6666666.1036479.peg.1035,Very Low,COG0463 Glycosyltransferases involved in cell wall biogenesis.,29,0.7823265850543976
+fig|6666666.1036479.peg.2502,no STRING match,,1,0.85,4,fig|6666666.1036479.peg.2516,Very Low,,0,0.7817294061183929
+fig|6666666.1036479.peg.2502,no STRING match,,1,0.85,5,fig|6666666.1036479.peg.1049,Very Low,Hypothetical protein; COG0463 Glycosyltransferases involved in cell wall biogenesis.,18,0.7815041244029999
+fig|6666666.1036479.peg.2548,no STRING match,,1,0.7,1,fig|6666666.1036479.peg.856,Low,,0,0.9223968625068665
+fig|6666666.1036479.peg.2548,no STRING match,,1,0.7,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8996245086193084
+fig|6666666.1036479.peg.2548,no STRING match,,1,0.7,3,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8964690744876862
+fig|6666666.1036479.peg.2548,no STRING match,,1,0.7,4,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.896025562286377
+fig|6666666.1036479.peg.2548,no STRING match,,1,0.7,5,fig|6666666.1036479.peg.1719,Medium,,0,0.8930019557476043
+fig|6666666.1036479.peg.2556,no STRING match,,2,0.85,1,fig|6666666.1036479.peg.856,Low,,0,0.8871907889842987
+fig|6666666.1036479.peg.2556,no STRING match,,2,0.85,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8573905467987061
+fig|6666666.1036479.peg.2556,no STRING match,,2,0.85,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.8523746609687806
+fig|6666666.1036479.peg.2556,no STRING match,,2,0.85,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8519302427768707
+fig|6666666.1036479.peg.2556,no STRING match,,2,0.85,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.850292295217514
+fig|6666666.1036479.peg.2564,no STRING match,,2,0.85,1,fig|6666666.1036479.peg.856,Low,,0,0.8871907889842987
+fig|6666666.1036479.peg.2564,no STRING match,,2,0.85,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8573905467987061
+fig|6666666.1036479.peg.2564,no STRING match,,2,0.85,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.8523746609687806
+fig|6666666.1036479.peg.2564,no STRING match,,2,0.85,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8519302427768707
+fig|6666666.1036479.peg.2564,no STRING match,,2,0.85,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.850292295217514
+fig|6666666.1036479.peg.2626,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.9119522869586945
+fig|6666666.1036479.peg.2626,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8896441042423249
+fig|6666666.1036479.peg.2626,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.8858271181583405
+fig|6666666.1036479.peg.2626,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8821942389011384
+fig|6666666.1036479.peg.2626,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8804915428161622
+fig|6666666.1036479.peg.2638,no STRING match,,1,0.8,1,fig|6666666.1036479.peg.856,Low,,0,0.8394641220569611
+fig|6666666.1036479.peg.2638,no STRING match,,1,0.8,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8078616797924042
+fig|6666666.1036479.peg.2638,no STRING match,,1,0.8,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.8068139553070068
+fig|6666666.1036479.peg.2638,no STRING match,,1,0.8,4,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8021918654441833
+fig|6666666.1036479.peg.2638,no STRING match,,1,0.8,5,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8011567771434784
+fig|6666666.1036479.peg.2643,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.8553595960140228
+fig|6666666.1036479.peg.2643,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.8364445328712463
+fig|6666666.1036479.peg.2643,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8317836642265319
+fig|6666666.1036479.peg.2643,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8185562193393707
+fig|6666666.1036479.peg.2643,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8171645641326905
+fig|6666666.1036479.peg.2654,no STRING match,,1,0.7,1,fig|6666666.1036479.peg.856,Low,,0,0.8492746889591217
+fig|6666666.1036479.peg.2654,no STRING match,,1,0.7,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8141177713871002
+fig|6666666.1036479.peg.2654,no STRING match,,1,0.7,3,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8134860098361969
+fig|6666666.1036479.peg.2654,no STRING match,,1,0.7,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8113089442253113
+fig|6666666.1036479.peg.2654,no STRING match,,1,0.7,5,fig|6666666.1036479.peg.1739,Very Low,,0,0.8105181157588959
+fig|6666666.1036479.peg.2659,no STRING match,,1,0.7,1,fig|6666666.1036479.peg.856,Low,,0,0.7748675882816315
+fig|6666666.1036479.peg.2659,no STRING match,,1,0.7,2,fig|6666666.1036479.peg.619,Low,Hypothetical protein.,9,0.7737020432949067
+fig|6666666.1036479.peg.2659,no STRING match,,1,0.7,3,fig|6666666.1036479.peg.1035,Very Low,COG0463 Glycosyltransferases involved in cell wall biogenesis.,29,0.7718216061592102
+fig|6666666.1036479.peg.2659,no STRING match,,1,0.7,4,fig|6666666.1036479.peg.2548,High,,0,0.7698928713798523
+fig|6666666.1036479.peg.2659,no STRING match,,1,0.7,5,fig|6666666.1036479.peg.1049,Very Low,Hypothetical protein; COG0463 Glycosyltransferases involved in cell wall biogenesis.,18,0.7690517246723175
+fig|6666666.1036479.peg.2661,no STRING match,,1,0.85,1,fig|6666666.1036479.peg.856,Low,,0,0.935201907157898
+fig|6666666.1036479.peg.2661,no STRING match,,1,0.85,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.9231980621814728
+fig|6666666.1036479.peg.2661,no STRING match,,1,0.85,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.9204573273658753
+fig|6666666.1036479.peg.2661,no STRING match,,1,0.85,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.9164939403533936
+fig|6666666.1036479.peg.2661,no STRING match,,1,0.85,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.9158930718898773
+fig|6666666.1036479.peg.2666,no STRING match,,1,0.85,1,fig|6666666.1036479.peg.856,Low,,0,0.9208377957344055
+fig|6666666.1036479.peg.2666,no STRING match,,1,0.85,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.9042008459568024
+fig|6666666.1036479.peg.2666,no STRING match,,1,0.85,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.9015944957733154
+fig|6666666.1036479.peg.2666,no STRING match,,1,0.85,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8958373427391052
+fig|6666666.1036479.peg.2666,no STRING match,,1,0.85,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8949045479297638
+fig|6666666.1036479.peg.2741,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.9209591448307037
+fig|6666666.1036479.peg.2741,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.9035602509975433
+fig|6666666.1036479.peg.2741,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.9021013021469116
+fig|6666666.1036479.peg.2741,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8956088244915008
+fig|6666666.1036479.peg.2741,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8955921709537507
+fig|6666666.1036479.peg.2750,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.1138,Very Low,,0,0.8964431464672089
+fig|6666666.1036479.peg.2750,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.2400,Very Low,,0,0.8927587270736694
+fig|6666666.1036479.peg.2750,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.1133,Very Low,"30S ribosomal protein S4; One of the primary rRNA binding proteins, it binds directly to 16S rRNA where it nucleates assembly of the body of the 30S subunit.",99,0.8888104319572449
+fig|6666666.1036479.peg.2750,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.518,Very Low,Hypothetical protein.,12,0.8858192443847657
+fig|6666666.1036479.peg.2750,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.219,Very Low,,0,0.8851746737957
+fig|6666666.1036479.peg.2775,no STRING match,,1,0.7,1,fig|6666666.1036479.peg.1056,High,Acyltransferase; COG1835 Predicted acyltransferases.,2,0.6373173594474792
+fig|6666666.1036479.peg.2775,no STRING match,,1,0.7,2,fig|6666666.1036479.peg.619,Low,Hypothetical protein.,9,0.6356491327285767
+fig|6666666.1036479.peg.2775,no STRING match,,1,0.7,3,fig|6666666.1036479.peg.120,Low,COG1835 Predicted acyltransferases.,3,0.6335719704627991
+fig|6666666.1036479.peg.2775,no STRING match,,1,0.7,4,fig|6666666.1036479.peg.781,Medium,,0,0.6314518094062805
+fig|6666666.1036479.peg.2775,no STRING match,,1,0.7,5,fig|6666666.1036479.peg.874,Medium,,0,0.629029905796051
+fig|6666666.1036479.peg.2777,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.8031487405300141
+fig|6666666.1036479.peg.2777,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.7806944668292999
+fig|6666666.1036479.peg.2777,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.7777113318443298
+fig|6666666.1036479.peg.2777,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.7658843040466309
+fig|6666666.1036479.peg.2777,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.7649721622467041
+fig|6666666.1036479.peg.2792,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.9342324197292328
+fig|6666666.1036479.peg.2792,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.9199634730815888
+fig|6666666.1036479.peg.2792,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.9188426554203033
+fig|6666666.1036479.peg.2792,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.914663028717041
+fig|6666666.1036479.peg.2792,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.9143082678318024
+fig|6666666.1036479.peg.2801,no STRING match,,1,0.7,1,fig|6666666.1036479.peg.856,Low,,0,0.7933643758296967
+fig|6666666.1036479.peg.2801,no STRING match,,1,0.7,2,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.7625807762145996
+fig|6666666.1036479.peg.2801,no STRING match,,1,0.7,3,fig|6666666.1036479.peg.1719,Medium,,0,0.7593956768512726
+fig|6666666.1036479.peg.2801,no STRING match,,1,0.7,4,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.7582402646541595
+fig|6666666.1036479.peg.2801,no STRING match,,1,0.7,5,fig|6666666.1036479.peg.1739,Very Low,,0,0.758094072341919
+fig|6666666.1036479.peg.2878,no STRING match,,1,0.7,1,fig|6666666.1036479.peg.619,Low,Hypothetical protein.,9,0.7148528218269348
+fig|6666666.1036479.peg.2878,no STRING match,,1,0.7,2,fig|6666666.1036479.peg.1056,High,Acyltransferase; COG1835 Predicted acyltransferases.,2,0.7049389779567719
+fig|6666666.1036479.peg.2878,no STRING match,,1,0.7,3,fig|6666666.1036479.peg.1049,Very Low,Hypothetical protein; COG0463 Glycosyltransferases involved in cell wall biogenesis.,18,0.703114515542984
+fig|6666666.1036479.peg.2878,no STRING match,,1,0.7,4,fig|6666666.1036479.peg.1035,Very Low,COG0463 Glycosyltransferases involved in cell wall biogenesis.,29,0.7000757694244385
+fig|6666666.1036479.peg.2878,no STRING match,,1,0.7,5,fig|6666666.1036479.peg.120,Low,COG1835 Predicted acyltransferases.,3,0.6979028761386872
+fig|6666666.1036479.peg.2912,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.8900219440460205
+fig|6666666.1036479.peg.2912,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.872485339641571
+fig|6666666.1036479.peg.2912,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8704016745090485
+fig|6666666.1036479.peg.2912,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8583385169506073
+fig|6666666.1036479.peg.2912,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8582557737827301
+fig|6666666.1036479.peg.2941,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.8240163862705231
+fig|6666666.1036479.peg.2941,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.7998652517795563
+fig|6666666.1036479.peg.2941,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.7976581752300262
+fig|6666666.1036479.peg.2941,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.7883140563964843
+fig|6666666.1036479.peg.2941,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.7856726586818695
+fig|6666666.1036479.peg.2948,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.9374262988567352
+fig|6666666.1036479.peg.2948,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.9221468031406402
+fig|6666666.1036479.peg.2948,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.920127934217453
+fig|6666666.1036479.peg.2948,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.9169553220272064
+fig|6666666.1036479.peg.2948,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.9163556933403015
+fig|6666666.1036479.peg.3011,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.8526490032672882
+fig|6666666.1036479.peg.3011,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8195622205734253
+fig|6666666.1036479.peg.3011,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.8156109690666199
+fig|6666666.1036479.peg.3011,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8152649104595184
+fig|6666666.1036479.peg.3011,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8146268606185914
+fig|6666666.1036479.peg.3028,secondary STRING hit (STRING protein assigned to a better match),Hypothetical protein; COG0697 Permeases of the drug/metabolite transporter (DMT) superfamily.,1,0.7,1,fig|6666666.1036479.peg.619,Low,Hypothetical protein.,9,0.7900568425655365
+fig|6666666.1036479.peg.3028,secondary STRING hit (STRING protein assigned to a better match),Hypothetical protein; COG0697 Permeases of the drug/metabolite transporter (DMT) superfamily.,1,0.7,2,fig|6666666.1036479.peg.1056,High,Acyltransferase; COG1835 Predicted acyltransferases.,2,0.7834012627601623
+fig|6666666.1036479.peg.3028,secondary STRING hit (STRING protein assigned to a better match),Hypothetical protein; COG0697 Permeases of the drug/metabolite transporter (DMT) superfamily.,1,0.7,3,fig|6666666.1036479.peg.120,Low,COG1835 Predicted acyltransferases.,3,0.7748574256896973
+fig|6666666.1036479.peg.3028,secondary STRING hit (STRING protein assigned to a better match),Hypothetical protein; COG0697 Permeases of the drug/metabolite transporter (DMT) superfamily.,1,0.7,4,fig|6666666.1036479.peg.1049,Very Low,Hypothetical protein; COG0463 Glycosyltransferases involved in cell wall biogenesis.,18,0.7748251974582672
+fig|6666666.1036479.peg.3028,secondary STRING hit (STRING protein assigned to a better match),Hypothetical protein; COG0697 Permeases of the drug/metabolite transporter (DMT) superfamily.,1,0.7,5,fig|6666666.1036479.peg.1035,Very Low,COG0463 Glycosyltransferases involved in cell wall biogenesis.,29,0.7720395088195801
+fig|6666666.1036479.peg.3076,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.9230485320091247
+fig|6666666.1036479.peg.3076,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.9083828926086426
+fig|6666666.1036479.peg.3076,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.9080831408500671
+fig|6666666.1036479.peg.3076,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8987540304660797
+fig|6666666.1036479.peg.3076,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8977317214012146
+fig|6666666.1036479.peg.3082,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.804171907901764
+fig|6666666.1036479.peg.3082,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.7872140526771545
+fig|6666666.1036479.peg.3082,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.7800703823566437
+fig|6666666.1036479.peg.3082,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.7684509336948395
+fig|6666666.1036479.peg.3082,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.7670132279396057
+fig|6666666.1036479.peg.3083,no STRING match,,1,0.85,1,fig|6666666.1036479.peg.856,Low,,0,0.9265838205814362
+fig|6666666.1036479.peg.3083,no STRING match,,1,0.85,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.9102555990219117
+fig|6666666.1036479.peg.3083,no STRING match,,1,0.85,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.9077453792095185
+fig|6666666.1036479.peg.3083,no STRING match,,1,0.85,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.9024968922138215
+fig|6666666.1036479.peg.3083,no STRING match,,1,0.85,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.9020035862922668
+fig|6666666.1036479.peg.3089,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.9318174362182617
+fig|6666666.1036479.peg.3089,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.9161265254020691
+fig|6666666.1036479.peg.3089,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.9148036360740661
+fig|6666666.1036479.peg.3089,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.9093829810619354
+fig|6666666.1036479.peg.3089,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.9084946930408477
+fig|6666666.1036479.peg.3154,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.1886,Very Low,,0,0.6394869744777679
+fig|6666666.1036479.peg.3154,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.1451,Very Low,Trigger factor; COG0544 FKBP-type peptidyl-prolyl cis-trans isomerase (trigger factor).,78,0.639480447769165
+fig|6666666.1036479.peg.3154,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.1461,Medium,,0,0.6272563397884369
+fig|6666666.1036479.peg.3154,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.1418,Low,Hypothetical protein; COG0760 Parvulin-like peptidyl-prolyl isomerase.,16,0.6271177411079407
+fig|6666666.1036479.peg.3154,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.1151,Very Low,"30S ribosomal protein S3; Binds the lower part of the 30S subunit head. Binds mRNA in the 70S ribosome, positioning it for translation; Belongs to the universal ribosomal protein uS3 family.",91,0.6237623155117035
+fig|6666666.1036479.peg.3221,no STRING match,,2,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.7022244453430175
+fig|6666666.1036479.peg.3221,no STRING match,,2,0.75,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.6854368567466735
+fig|6666666.1036479.peg.3221,no STRING match,,2,0.75,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.6837606608867646
+fig|6666666.1036479.peg.3221,no STRING match,,2,0.75,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.6703500151634216
+fig|6666666.1036479.peg.3221,no STRING match,,2,0.75,5,fig|6666666.1036479.peg.1671,High,,0,0.6654070317745209
+fig|6666666.1036479.peg.3223,no STRING match,,2,0.7,1,fig|6666666.1036479.peg.856,Low,,0,0.8704029083251953
+fig|6666666.1036479.peg.3223,no STRING match,,2,0.7,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8380255699157715
+fig|6666666.1036479.peg.3223,no STRING match,,2,0.7,3,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8337121307849884
+fig|6666666.1036479.peg.3223,no STRING match,,2,0.7,4,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8334195017814636
+fig|6666666.1036479.peg.3223,no STRING match,,2,0.7,5,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.8329660594463348
+fig|6666666.1036479.peg.3240,no STRING match,,3,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.8223682701587677
+fig|6666666.1036479.peg.3240,no STRING match,,3,0.75,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.7920837521553039
+fig|6666666.1036479.peg.3240,no STRING match,,3,0.75,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.789816164970398
+fig|6666666.1036479.peg.3240,no STRING match,,3,0.75,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.7822643518447876
+fig|6666666.1036479.peg.3240,no STRING match,,3,0.75,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.7789330601692199
+fig|6666666.1036479.peg.3254,no STRING match,,3,0.85,1,fig|6666666.1036479.peg.856,Low,,0,0.9168282389640808
+fig|6666666.1036479.peg.3254,no STRING match,,3,0.85,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8999665439128876
+fig|6666666.1036479.peg.3254,no STRING match,,3,0.85,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.8998943209648133
+fig|6666666.1036479.peg.3254,no STRING match,,3,0.85,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8893814802169799
+fig|6666666.1036479.peg.3254,no STRING match,,3,0.85,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8874945104122162
+fig|6666666.1036479.peg.8,no STRING match,,3,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.8223682701587677
+fig|6666666.1036479.peg.8,no STRING match,,3,0.75,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.7920837521553039
+fig|6666666.1036479.peg.8,no STRING match,,3,0.75,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.789816164970398
+fig|6666666.1036479.peg.8,no STRING match,,3,0.75,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.7822643518447876
+fig|6666666.1036479.peg.8,no STRING match,,3,0.75,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.7789330601692199
+fig|6666666.1036479.peg.22,no STRING match,,3,0.85,1,fig|6666666.1036479.peg.856,Low,,0,0.9168282389640808
+fig|6666666.1036479.peg.22,no STRING match,,3,0.85,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8999665439128876
+fig|6666666.1036479.peg.22,no STRING match,,3,0.85,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.8998943209648133
+fig|6666666.1036479.peg.22,no STRING match,,3,0.85,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8893814802169799
+fig|6666666.1036479.peg.22,no STRING match,,3,0.85,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8874945104122162
+fig|6666666.1036479.peg.33,no STRING match,,2,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.6851596891880035
+fig|6666666.1036479.peg.33,no STRING match,,2,0.75,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.6582845270633697
+fig|6666666.1036479.peg.33,no STRING match,,2,0.75,3,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.6551787197589874
+fig|6666666.1036479.peg.33,no STRING match,,2,0.75,4,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.6549608826637268
+fig|6666666.1036479.peg.33,no STRING match,,2,0.75,5,fig|6666666.1036479.peg.2548,High,,0,0.6519707083702088
+fig|6666666.1036479.peg.53,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.7708804965019226
+fig|6666666.1036479.peg.53,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.7384581327438354
+fig|6666666.1036479.peg.53,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.7382619202136993
+fig|6666666.1036479.peg.53,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.7373979747295379
+fig|6666666.1036479.peg.53,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.1719,Medium,,0,0.7353795826435089
+fig|6666666.1036479.peg.82,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.2548,High,,0,0.614807915687561
+fig|6666666.1036479.peg.82,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.619,Low,Hypothetical protein.,9,0.6140237748622894
+fig|6666666.1036479.peg.82,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.856,Low,,0,0.6134425699710846
+fig|6666666.1036479.peg.82,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.1035,Very Low,COG0463 Glycosyltransferases involved in cell wall biogenesis.,29,0.6130499958992004
+fig|6666666.1036479.peg.82,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.1049,Very Low,Hypothetical protein; COG0463 Glycosyltransferases involved in cell wall biogenesis.,18,0.6129728853702545
+fig|6666666.1036479.peg.99,no STRING match,,1,0.85,1,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.5928360641002655
+fig|6666666.1036479.peg.99,no STRING match,,1,0.85,2,fig|6666666.1036479.peg.856,Low,,0,0.5878310680389405
+fig|6666666.1036479.peg.99,no STRING match,,1,0.85,3,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.5805074959993363
+fig|6666666.1036479.peg.99,no STRING match,,1,0.85,4,fig|6666666.1036479.peg.3131,Low,,0,0.5787685632705688
+fig|6666666.1036479.peg.99,no STRING match,,1,0.85,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.5762442708015442
+fig|6666666.1036479.peg.137,no STRING match,,2,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.7022244453430175
+fig|6666666.1036479.peg.137,no STRING match,,2,0.75,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.6854368567466735
+fig|6666666.1036479.peg.137,no STRING match,,2,0.75,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.6837606608867646
+fig|6666666.1036479.peg.137,no STRING match,,2,0.75,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.6703500151634216
+fig|6666666.1036479.peg.137,no STRING match,,2,0.75,5,fig|6666666.1036479.peg.1671,High,,0,0.6654070317745209
+fig|6666666.1036479.peg.139,no STRING match,,2,0.7,1,fig|6666666.1036479.peg.856,Low,,0,0.8704029083251953
+fig|6666666.1036479.peg.139,no STRING match,,2,0.7,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8380255699157715
+fig|6666666.1036479.peg.139,no STRING match,,2,0.7,3,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8337121307849884
+fig|6666666.1036479.peg.139,no STRING match,,2,0.7,4,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8334195017814636
+fig|6666666.1036479.peg.139,no STRING match,,2,0.7,5,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.8329660594463348
+fig|6666666.1036479.peg.156,no STRING match,,3,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.8223682701587677
+fig|6666666.1036479.peg.156,no STRING match,,3,0.75,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.7920837521553039
+fig|6666666.1036479.peg.156,no STRING match,,3,0.75,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.789816164970398
+fig|6666666.1036479.peg.156,no STRING match,,3,0.75,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.7822643518447876
+fig|6666666.1036479.peg.156,no STRING match,,3,0.75,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.7789330601692199
+fig|6666666.1036479.peg.170,no STRING match,,3,0.85,1,fig|6666666.1036479.peg.856,Low,,0,0.9168282389640808
+fig|6666666.1036479.peg.170,no STRING match,,3,0.85,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8999665439128876
+fig|6666666.1036479.peg.170,no STRING match,,3,0.85,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.8998943209648133
+fig|6666666.1036479.peg.170,no STRING match,,3,0.85,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8893814802169799
+fig|6666666.1036479.peg.170,no STRING match,,3,0.85,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8874945104122162
+fig|6666666.1036479.peg.181,no STRING match,,2,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.6851596891880035
+fig|6666666.1036479.peg.181,no STRING match,,2,0.75,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.6582845270633697
+fig|6666666.1036479.peg.181,no STRING match,,2,0.75,3,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.6551787197589874
+fig|6666666.1036479.peg.181,no STRING match,,2,0.75,4,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.6549608826637268
+fig|6666666.1036479.peg.181,no STRING match,,2,0.75,5,fig|6666666.1036479.peg.2548,High,,0,0.6519707083702088
+fig|6666666.1036479.peg.200,no STRING match,,1,0.7,1,fig|6666666.1036479.peg.856,Low,,0,0.8544322669506073
+fig|6666666.1036479.peg.200,no STRING match,,1,0.7,2,fig|6666666.1036479.peg.2548,High,,0,0.8258676111698151
+fig|6666666.1036479.peg.200,no STRING match,,1,0.7,3,fig|6666666.1036479.peg.1035,Very Low,COG0463 Glycosyltransferases involved in cell wall biogenesis.,29,0.8243621766567231
+fig|6666666.1036479.peg.200,no STRING match,,1,0.7,4,fig|6666666.1036479.peg.1739,Very Low,,0,0.8233880698680878
+fig|6666666.1036479.peg.200,no STRING match,,1,0.7,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8211248457431793
+fig|6666666.1036479.peg.201,no STRING match,,1,0.7,1,fig|6666666.1036479.peg.619,Low,Hypothetical protein.,9,0.7778226137161255
+fig|6666666.1036479.peg.201,no STRING match,,1,0.7,2,fig|6666666.1036479.peg.856,Low,,0,0.7773591458797455
+fig|6666666.1036479.peg.201,no STRING match,,1,0.7,3,fig|6666666.1036479.peg.1035,Very Low,COG0463 Glycosyltransferases involved in cell wall biogenesis.,29,0.7772013664245605
+fig|6666666.1036479.peg.201,no STRING match,,1,0.7,4,fig|6666666.1036479.peg.2548,High,,0,0.775087422132492
+fig|6666666.1036479.peg.201,no STRING match,,1,0.7,5,fig|6666666.1036479.peg.1049,Very Low,Hypothetical protein; COG0463 Glycosyltransferases involved in cell wall biogenesis.,18,0.7731543123722077
+fig|6666666.1036479.peg.241,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.8334814369678497
+fig|6666666.1036479.peg.241,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.2548,High,,0,0.8092826962471008
+fig|6666666.1036479.peg.241,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.1739,Very Low,,0,0.8036504685878754
+fig|6666666.1036479.peg.241,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.1035,Very Low,COG0463 Glycosyltransferases involved in cell wall biogenesis.,29,0.8031804382801055
+fig|6666666.1036479.peg.241,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.411,Low,Hypothetical protein.,0,0.800113296508789
+fig|6666666.1036479.peg.254,no STRING match,,1,0.85,1,fig|6666666.1036479.peg.856,Low,,0,0.8412202417850494
+fig|6666666.1036479.peg.254,no STRING match,,1,0.85,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8052251458168029
+fig|6666666.1036479.peg.254,no STRING match,,1,0.85,3,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8034515738487243
+fig|6666666.1036479.peg.254,no STRING match,,1,0.85,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8025925636291504
+fig|6666666.1036479.peg.254,no STRING match,,1,0.85,5,fig|6666666.1036479.peg.1739,Very Low,,0,0.8025371074676514
+fig|6666666.1036479.peg.289,secondary STRING hit (STRING protein assigned to a better match),Hypothetical protein.,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.8820134818553924
+fig|6666666.1036479.peg.289,secondary STRING hit (STRING protein assigned to a better match),Hypothetical protein.,1,0.75,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8558597505092621
+fig|6666666.1036479.peg.289,secondary STRING hit (STRING protein assigned to a better match),Hypothetical protein.,1,0.75,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.8539356112480163
+fig|6666666.1036479.peg.289,secondary STRING hit (STRING protein assigned to a better match),Hypothetical protein.,1,0.75,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8458401501178742
+fig|6666666.1036479.peg.289,secondary STRING hit (STRING protein assigned to a better match),Hypothetical protein.,1,0.75,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8436436474323272
+fig|6666666.1036479.peg.369,no STRING match,,1,0.7,1,fig|6666666.1036479.peg.856,Low,,0,0.8804999649524688
+fig|6666666.1036479.peg.369,no STRING match,,1,0.7,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8503164112567901
+fig|6666666.1036479.peg.369,no STRING match,,1,0.7,3,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8476125299930573
+fig|6666666.1036479.peg.369,no STRING match,,1,0.7,4,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.8466330647468567
+fig|6666666.1036479.peg.369,no STRING match,,1,0.7,5,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8465003311634064
+fig|6666666.1036479.peg.370,no STRING match,,1,0.7,1,fig|6666666.1036479.peg.856,Low,,0,0.8927822947502136
+fig|6666666.1036479.peg.370,no STRING match,,1,0.7,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8637549579143524
+fig|6666666.1036479.peg.370,no STRING match,,1,0.7,3,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.861148190498352
+fig|6666666.1036479.peg.370,no STRING match,,1,0.7,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8601949036121368
+fig|6666666.1036479.peg.370,no STRING match,,1,0.7,5,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.8583579778671264
+fig|6666666.1036479.peg.432,no STRING match,,1,0.7,1,fig|6666666.1036479.peg.2548,High,,0,0.5794233471155167
+fig|6666666.1036479.peg.432,no STRING match,,1,0.7,2,fig|6666666.1036479.peg.856,Low,,0,0.5782620042562485
+fig|6666666.1036479.peg.432,no STRING match,,1,0.7,3,fig|6666666.1036479.peg.1080,High,,0,0.5780343800783158
+fig|6666666.1036479.peg.432,no STRING match,,1,0.7,4,fig|6666666.1036479.peg.253,Low,Hypothetical protein.,0,0.5763981640338898
+fig|6666666.1036479.peg.432,no STRING match,,1,0.7,5,fig|6666666.1036479.peg.1739,Very Low,,0,0.5759857058525085
+fig|6666666.1036479.peg.440,no STRING match,,1,0.7,1,fig|6666666.1036479.peg.619,Low,Hypothetical protein.,9,0.7280026435852051
+fig|6666666.1036479.peg.440,no STRING match,,1,0.7,2,fig|6666666.1036479.peg.1056,High,Acyltransferase; COG1835 Predicted acyltransferases.,2,0.7202762126922607
+fig|6666666.1036479.peg.440,no STRING match,,1,0.7,3,fig|6666666.1036479.peg.120,Low,COG1835 Predicted acyltransferases.,3,0.7132030487060547
+fig|6666666.1036479.peg.440,no STRING match,,1,0.7,4,fig|6666666.1036479.peg.1049,Very Low,Hypothetical protein; COG0463 Glycosyltransferases involved in cell wall biogenesis.,18,0.7127211809158325
+fig|6666666.1036479.peg.440,no STRING match,,1,0.7,5,fig|6666666.1036479.peg.781,Medium,,0,0.7119761526584625
+fig|6666666.1036479.peg.452,secondary STRING hit (STRING protein assigned to a better match),Hypothetical protein.,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.8713645458221435
+fig|6666666.1036479.peg.452,secondary STRING hit (STRING protein assigned to a better match),Hypothetical protein.,1,0.75,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8405572533607483
+fig|6666666.1036479.peg.452,secondary STRING hit (STRING protein assigned to a better match),Hypothetical protein.,1,0.75,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.8353881061077117
+fig|6666666.1036479.peg.452,secondary STRING hit (STRING protein assigned to a better match),Hypothetical protein.,1,0.75,4,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8347226619720459
+fig|6666666.1036479.peg.452,secondary STRING hit (STRING protein assigned to a better match),Hypothetical protein.,1,0.75,5,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8339528203010559
+fig|6666666.1036479.peg.561,no STRING match,,1,0.7,1,fig|6666666.1036479.peg.619,Low,Hypothetical protein.,9,0.6493379294872283
+fig|6666666.1036479.peg.561,no STRING match,,1,0.7,2,fig|6666666.1036479.peg.2548,High,,0,0.6439900279045105
+fig|6666666.1036479.peg.561,no STRING match,,1,0.7,3,fig|6666666.1036479.peg.1035,Very Low,COG0463 Glycosyltransferases involved in cell wall biogenesis.,29,0.6428305625915527
+fig|6666666.1036479.peg.561,no STRING match,,1,0.7,4,fig|6666666.1036479.peg.1056,High,Acyltransferase; COG1835 Predicted acyltransferases.,2,0.6424646437168121
+fig|6666666.1036479.peg.561,no STRING match,,1,0.7,5,fig|6666666.1036479.peg.1049,Very Low,Hypothetical protein; COG0463 Glycosyltransferases involved in cell wall biogenesis.,18,0.6422969341278076
+fig|6666666.1036479.peg.594,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.619,Low,Hypothetical protein.,9,0.6794741094112396
+fig|6666666.1036479.peg.594,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.1056,High,Acyltransferase; COG1835 Predicted acyltransferases.,2,0.6780415415763855
+fig|6666666.1036479.peg.594,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.1035,Very Low,COG0463 Glycosyltransferases involved in cell wall biogenesis.,29,0.6754195272922516
+fig|6666666.1036479.peg.594,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.1049,Very Low,Hypothetical protein; COG0463 Glycosyltransferases involved in cell wall biogenesis.,18,0.6740442514419556
+fig|6666666.1036479.peg.594,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.120,Low,COG1835 Predicted acyltransferases.,3,0.672503387928009
+fig|6666666.1036479.peg.599,no STRING match,,1,0.85,1,fig|6666666.1036479.peg.856,Low,,0,0.8141935110092163
+fig|6666666.1036479.peg.599,no STRING match,,1,0.85,2,fig|6666666.1036479.peg.2548,High,,0,0.7816052496433258
+fig|6666666.1036479.peg.599,no STRING match,,1,0.85,3,fig|6666666.1036479.peg.1739,Very Low,,0,0.7765519142150878
+fig|6666666.1036479.peg.599,no STRING match,,1,0.85,4,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.7759353220462799
+fig|6666666.1036479.peg.599,no STRING match,,1,0.85,5,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.7735814988613129
+fig|6666666.1036479.peg.644,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.7562655448913574
+fig|6666666.1036479.peg.644,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.7336009979248047
+fig|6666666.1036479.peg.644,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.7324985384941101
+fig|6666666.1036479.peg.644,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.7209206283092499
+fig|6666666.1036479.peg.644,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.7196850597858429
+fig|6666666.1036479.peg.684,no STRING match,,1,0.7,1,fig|6666666.1036479.peg.856,Low,,0,0.8666644096374512
+fig|6666666.1036479.peg.684,no STRING match,,1,0.7,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8347347557544709
+fig|6666666.1036479.peg.684,no STRING match,,1,0.7,3,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8313383281230926
+fig|6666666.1036479.peg.684,no STRING match,,1,0.7,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8310276567935944
+fig|6666666.1036479.peg.684,no STRING match,,1,0.7,5,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.8290610790252686
+fig|6666666.1036479.peg.689,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.8995687007904053
+fig|6666666.1036479.peg.689,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.879298311471939
+fig|6666666.1036479.peg.689,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.8782443046569824
+fig|6666666.1036479.peg.689,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8740820527076721
+fig|6666666.1036479.peg.689,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8718823790550232
+fig|6666666.1036479.peg.716,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.7130093336105346
+fig|6666666.1036479.peg.716,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.6836268901824951
+fig|6666666.1036479.peg.716,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.6796617567539215
+fig|6666666.1036479.peg.716,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.6796061933040619
+fig|6666666.1036479.peg.716,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.6789547204971313
+fig|6666666.1036479.peg.720,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.8983173608779907
+fig|6666666.1036479.peg.720,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.874936842918396
+fig|6666666.1036479.peg.720,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.8723540902137756
+fig|6666666.1036479.peg.720,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8664837002754211
+fig|6666666.1036479.peg.720,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8662613034248352
+fig|6666666.1036479.peg.721,secondary STRING hit (STRING protein assigned to a better match),Yd repeat protein; COG3209 Rhs family protein.,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.9101321339607239
+fig|6666666.1036479.peg.721,secondary STRING hit (STRING protein assigned to a better match),Yd repeat protein; COG3209 Rhs family protein.,1,0.75,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8921772003173828
+fig|6666666.1036479.peg.721,secondary STRING hit (STRING protein assigned to a better match),Yd repeat protein; COG3209 Rhs family protein.,1,0.75,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.8918417870998383
+fig|6666666.1036479.peg.721,secondary STRING hit (STRING protein assigned to a better match),Yd repeat protein; COG3209 Rhs family protein.,1,0.75,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8816825926303864
+fig|6666666.1036479.peg.721,secondary STRING hit (STRING protein assigned to a better match),Yd repeat protein; COG3209 Rhs family protein.,1,0.75,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8793226718902588
+fig|6666666.1036479.peg.723,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.9119526505470276
+fig|6666666.1036479.peg.723,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8869272530078888
+fig|6666666.1036479.peg.723,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.8813429176807404
+fig|6666666.1036479.peg.723,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8811770975589752
+fig|6666666.1036479.peg.723,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8793620705604553
+fig|6666666.1036479.peg.861,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.939961725473404
+fig|6666666.1036479.peg.861,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.9275095105171204
+fig|6666666.1036479.peg.861,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.924259877204895
+fig|6666666.1036479.peg.861,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.92187979221344
+fig|6666666.1036479.peg.861,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.9212485432624817
+fig|6666666.1036479.peg.866,no STRING match,,1,0.7,1,fig|6666666.1036479.peg.856,Low,,0,0.9112348854541779
+fig|6666666.1036479.peg.866,no STRING match,,1,0.7,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8892414212226868
+fig|6666666.1036479.peg.866,no STRING match,,1,0.7,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.8849600195884705
+fig|6666666.1036479.peg.866,no STRING match,,1,0.7,4,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.883772200345993
+fig|6666666.1036479.peg.866,no STRING match,,1,0.7,5,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8837098717689514
+fig|6666666.1036479.peg.868,no STRING match,,1,0.7,1,fig|6666666.1036479.peg.856,Low,,0,0.7885293364524841
+fig|6666666.1036479.peg.868,no STRING match,,1,0.7,2,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.7542874395847321
+fig|6666666.1036479.peg.868,no STRING match,,1,0.7,3,fig|6666666.1036479.peg.1739,Very Low,,0,0.7537604808807373
+fig|6666666.1036479.peg.868,no STRING match,,1,0.7,4,fig|6666666.1036479.peg.2548,High,,0,0.7526322185993195
+fig|6666666.1036479.peg.868,no STRING match,,1,0.7,5,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.7515369713306427
+fig|6666666.1036479.peg.881,no STRING match,,1,0.7,1,fig|6666666.1036479.peg.856,Low,,0,0.8268992364406585
+fig|6666666.1036479.peg.881,no STRING match,,1,0.7,2,fig|6666666.1036479.peg.2548,High,,0,0.8172856509685517
+fig|6666666.1036479.peg.881,no STRING match,,1,0.7,3,fig|6666666.1036479.peg.1035,Very Low,COG0463 Glycosyltransferases involved in cell wall biogenesis.,29,0.8129348456859589
+fig|6666666.1036479.peg.881,no STRING match,,1,0.7,4,fig|6666666.1036479.peg.619,Low,Hypothetical protein.,9,0.8113040566444397
+fig|6666666.1036479.peg.881,no STRING match,,1,0.7,5,fig|6666666.1036479.peg.1049,Very Low,Hypothetical protein; COG0463 Glycosyltransferases involved in cell wall biogenesis.,18,0.8101055264472962
+fig|6666666.1036479.peg.907,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.619,Low,Hypothetical protein.,9,0.769682252407074
+fig|6666666.1036479.peg.907,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.1056,High,Acyltransferase; COG1835 Predicted acyltransferases.,2,0.763725197315216
+fig|6666666.1036479.peg.907,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.1049,Very Low,Hypothetical protein; COG0463 Glycosyltransferases involved in cell wall biogenesis.,18,0.756063598394394
+fig|6666666.1036479.peg.907,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.120,Low,COG1835 Predicted acyltransferases.,3,0.7546449661254883
+fig|6666666.1036479.peg.907,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.1035,Very Low,COG0463 Glycosyltransferases involved in cell wall biogenesis.,29,0.754040139913559
+fig|6666666.1036479.peg.923,no STRING match,,1,0.8,1,fig|6666666.1036479.peg.856,Low,,0,0.9276715397834778
+fig|6666666.1036479.peg.923,no STRING match,,1,0.8,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.9142247438430786
+fig|6666666.1036479.peg.923,no STRING match,,1,0.8,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.9127772152423859
+fig|6666666.1036479.peg.923,no STRING match,,1,0.8,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.9060615301132202
+fig|6666666.1036479.peg.923,no STRING match,,1,0.8,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.9035626351833344
+fig|6666666.1036479.peg.1074,no STRING match,,1,0.7,1,fig|6666666.1036479.peg.856,Low,,0,0.9082842588424682
+fig|6666666.1036479.peg.1074,no STRING match,,1,0.7,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.88221954703331
+fig|6666666.1036479.peg.1074,no STRING match,,1,0.7,3,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8792584300041199
+fig|6666666.1036479.peg.1074,no STRING match,,1,0.7,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8790840148925781
+fig|6666666.1036479.peg.1074,no STRING match,,1,0.7,5,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.8774853110313415
+fig|6666666.1036479.peg.1080,no STRING match,,1,0.7,1,fig|6666666.1036479.peg.856,Low,,0,0.906836849451065
+fig|6666666.1036479.peg.1080,no STRING match,,1,0.7,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8796994864940644
+fig|6666666.1036479.peg.1080,no STRING match,,1,0.7,3,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8777942717075348
+fig|6666666.1036479.peg.1080,no STRING match,,1,0.7,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8777225911617279
+fig|6666666.1036479.peg.1080,no STRING match,,1,0.7,5,fig|6666666.1036479.peg.1719,Medium,,0,0.8748998284339905
+fig|6666666.1036479.peg.1081,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.1035,Very Low,COG0463 Glycosyltransferases involved in cell wall biogenesis.,29,0.8101658463478089
+fig|6666666.1036479.peg.1081,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.619,Low,Hypothetical protein.,9,0.8098259568214417
+fig|6666666.1036479.peg.1081,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.1049,Very Low,Hypothetical protein; COG0463 Glycosyltransferases involved in cell wall biogenesis.,18,0.8083007872104645
+fig|6666666.1036479.peg.1081,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.2548,High,,0,0.8050815165042877
+fig|6666666.1036479.peg.1081,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.3046,Low,Hypothetical protein.,9,0.8007731914520264
+fig|6666666.1036479.peg.1091,no STRING match,,1,0.85,1,fig|6666666.1036479.peg.856,Low,,0,0.823088389635086
+fig|6666666.1036479.peg.1091,no STRING match,,1,0.85,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.7954189002513885
+fig|6666666.1036479.peg.1091,no STRING match,,1,0.85,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.795259815454483
+fig|6666666.1036479.peg.1091,no STRING match,,1,0.85,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.7844344317913056
+fig|6666666.1036479.peg.1091,no STRING match,,1,0.85,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.7798258364200592
+fig|6666666.1036479.peg.1095,secondary STRING hit (STRING protein assigned to a better match),Multiple antibiotic resistance (MarC)-like protein; COG2095 Multiple antibiotic transporter.,1,0.7,1,fig|6666666.1036479.peg.2743,High,Hypothetical protein; COG0730 Predicted permeases.,2,0.5745057702064514
+fig|6666666.1036479.peg.1095,secondary STRING hit (STRING protein assigned to a better match),Multiple antibiotic resistance (MarC)-like protein; COG2095 Multiple antibiotic transporter.,1,0.7,2,fig|6666666.1036479.peg.3028,High,Hypothetical protein; COG0697 Permeases of the drug/metabolite transporter (DMT) superfamily.,0,0.5738193273544312
+fig|6666666.1036479.peg.1095,secondary STRING hit (STRING protein assigned to a better match),Multiple antibiotic resistance (MarC)-like protein; COG2095 Multiple antibiotic transporter.,1,0.7,3,fig|6666666.1036479.peg.777,High,COG2962 Predicted permeases.,3,0.5724833130836486
+fig|6666666.1036479.peg.1095,secondary STRING hit (STRING protein assigned to a better match),Multiple antibiotic resistance (MarC)-like protein; COG2095 Multiple antibiotic transporter.,1,0.7,4,fig|6666666.1036479.peg.266,High,Hypothetical protein.,4,0.5707971215248108
+fig|6666666.1036479.peg.1095,secondary STRING hit (STRING protein assigned to a better match),Multiple antibiotic resistance (MarC)-like protein; COG2095 Multiple antibiotic transporter.,1,0.7,5,fig|6666666.1036479.peg.2799,High,"Iron ABC transporter permease; COG0609 ABC-type Fe3+-siderophore transport system, permease component; Belongs to the binding-protein-dependent transport system permease family. FecCD subfamily.",7,0.5705702006816864
+fig|6666666.1036479.peg.1218,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.8791855871677399
+fig|6666666.1036479.peg.1218,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8527796745300293
+fig|6666666.1036479.peg.1218,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.8505737900733947
+fig|6666666.1036479.peg.1218,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8463817775249481
+fig|6666666.1036479.peg.1218,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8450480997562408
+fig|6666666.1036479.peg.1270,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.7435416519641876
+fig|6666666.1036479.peg.1270,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.856,Low,,0,0.7394615292549134
+fig|6666666.1036479.peg.1270,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.7297721803188324
+fig|6666666.1036479.peg.1270,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.3131,Low,,0,0.723279881477356
+fig|6666666.1036479.peg.1270,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.1460,Very Low,COG2825 Outer membrane protein.,33,0.7159236609935761
+fig|6666666.1036479.peg.1284,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.8581112325191498
+fig|6666666.1036479.peg.1284,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.8409729301929474
+fig|6666666.1036479.peg.1284,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8347536087036133
+fig|6666666.1036479.peg.1284,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8218112647533417
+fig|6666666.1036479.peg.1284,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8211802780628205
+fig|6666666.1036479.peg.1319,no STRING match,,1,0.85,1,fig|6666666.1036479.peg.856,Low,,0,0.7949079930782318
+fig|6666666.1036479.peg.1319,no STRING match,,1,0.85,2,fig|6666666.1036479.peg.2548,High,,0,0.7612082421779632
+fig|6666666.1036479.peg.1319,no STRING match,,1,0.85,3,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.7572283864021301
+fig|6666666.1036479.peg.1319,no STRING match,,1,0.85,4,fig|6666666.1036479.peg.1739,Very Low,,0,0.7568688094615936
+fig|6666666.1036479.peg.1319,no STRING match,,1,0.85,5,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.7555243492126464
+fig|6666666.1036479.peg.1365,no STRING match,,1,0.85,1,fig|6666666.1036479.peg.856,Low,,0,0.8115624845027923
+fig|6666666.1036479.peg.1365,no STRING match,,1,0.85,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.7761483907699585
+fig|6666666.1036479.peg.1365,no STRING match,,1,0.85,3,fig|6666666.1036479.peg.1739,Very Low,,0,0.7735293805599213
+fig|6666666.1036479.peg.1365,no STRING match,,1,0.85,4,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.7735274314880372
+fig|6666666.1036479.peg.1365,no STRING match,,1,0.85,5,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.7732577323913574
+fig|6666666.1036479.peg.1390,no STRING match,,1,0.7,1,fig|6666666.1036479.peg.856,Low,,0,0.8244775295257568
+fig|6666666.1036479.peg.1390,no STRING match,,1,0.7,2,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.7926232993602753
+fig|6666666.1036479.peg.1390,no STRING match,,1,0.7,3,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.7915115773677825
+fig|6666666.1036479.peg.1390,no STRING match,,1,0.7,4,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.7911693096160889
+fig|6666666.1036479.peg.1390,no STRING match,,1,0.7,5,fig|6666666.1036479.peg.1719,Medium,,0,0.7880408704280853
+fig|6666666.1036479.peg.1402,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.8726286053657532
+fig|6666666.1036479.peg.1402,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.8514117538928986
+fig|6666666.1036479.peg.1402,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8491012871265411
+fig|6666666.1036479.peg.1402,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8372338294982911
+fig|6666666.1036479.peg.1402,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8372105777263641
+fig|6666666.1036479.peg.1403,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.68663569688797
+fig|6666666.1036479.peg.1403,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.6859976589679718
+fig|6666666.1036479.peg.1403,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.6755036234855651
+fig|6666666.1036479.peg.1403,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.3131,Low,,0,0.6684120237827301
+fig|6666666.1036479.peg.1403,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.1671,High,,0,0.6595435500144958
+fig|6666666.1036479.peg.1419,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.9169513404369354
+fig|6666666.1036479.peg.1419,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.9024389505386352
+fig|6666666.1036479.peg.1419,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.9019636034965515
+fig|6666666.1036479.peg.1419,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8927070379257203
+fig|6666666.1036479.peg.1419,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8921254515647888
+fig|6666666.1036479.peg.1452,no STRING match,,1,0.7,1,fig|6666666.1036479.peg.856,Low,,0,0.6812186956405639
+fig|6666666.1036479.peg.1452,no STRING match,,1,0.7,2,fig|6666666.1036479.peg.1029,Low,Hypothetical protein.,40,0.6656818509101867
+fig|6666666.1036479.peg.1452,no STRING match,,1,0.7,3,fig|6666666.1036479.peg.1080,High,,0,0.663207745552063
+fig|6666666.1036479.peg.1452,no STRING match,,1,0.7,4,fig|6666666.1036479.peg.1739,Very Low,,0,0.6631739854812622
+fig|6666666.1036479.peg.1452,no STRING match,,1,0.7,5,fig|6666666.1036479.peg.2548,High,,0,0.6628309190273285
+fig|6666666.1036479.peg.1490,no STRING match,,1,0.7,1,fig|6666666.1036479.peg.619,Low,Hypothetical protein.,9,0.7024514019489289
+fig|6666666.1036479.peg.1490,no STRING match,,1,0.7,2,fig|6666666.1036479.peg.1056,High,Acyltransferase; COG1835 Predicted acyltransferases.,2,0.6955786228179932
+fig|6666666.1036479.peg.1490,no STRING match,,1,0.7,3,fig|6666666.1036479.peg.1049,Very Low,Hypothetical protein; COG0463 Glycosyltransferases involved in cell wall biogenesis.,18,0.6910296618938446
+fig|6666666.1036479.peg.1490,no STRING match,,1,0.7,4,fig|6666666.1036479.peg.1035,Very Low,COG0463 Glycosyltransferases involved in cell wall biogenesis.,29,0.6904245972633362
+fig|6666666.1036479.peg.1490,no STRING match,,1,0.7,5,fig|6666666.1036479.peg.120,Low,COG1835 Predicted acyltransferases.,3,0.6903354227542877
+fig|6666666.1036479.peg.1519,no STRING match,,1,0.7,1,fig|6666666.1036479.peg.856,Low,,0,0.9106219053268433
+fig|6666666.1036479.peg.1519,no STRING match,,1,0.7,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8883209109306336
+fig|6666666.1036479.peg.1519,no STRING match,,1,0.7,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.8861134767532348
+fig|6666666.1036479.peg.1519,no STRING match,,1,0.7,4,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8835236966609955
+fig|6666666.1036479.peg.1519,no STRING match,,1,0.7,5,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8824840009212493
+fig|6666666.1036479.peg.1547,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.9137101173400879
+fig|6666666.1036479.peg.1547,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8907032251358032
+fig|6666666.1036479.peg.1547,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.8869269549846649
+fig|6666666.1036479.peg.1547,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8850088119506836
+fig|6666666.1036479.peg.1547,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8841145932674408
+fig|6666666.1036479.peg.1566,no STRING match,,1,0.7,1,fig|6666666.1036479.peg.619,Low,Hypothetical protein.,9,0.7988302826881408
+fig|6666666.1036479.peg.1566,no STRING match,,1,0.7,2,fig|6666666.1036479.peg.2548,High,,0,0.7928816854953766
+fig|6666666.1036479.peg.1566,no STRING match,,1,0.7,3,fig|6666666.1036479.peg.1035,Very Low,COG0463 Glycosyltransferases involved in cell wall biogenesis.,29,0.7909634470939636
+fig|6666666.1036479.peg.1566,no STRING match,,1,0.7,4,fig|6666666.1036479.peg.1049,Very Low,Hypothetical protein; COG0463 Glycosyltransferases involved in cell wall biogenesis.,18,0.7906758189201355
+fig|6666666.1036479.peg.1566,no STRING match,,1,0.7,5,fig|6666666.1036479.peg.1056,High,Acyltransferase; COG1835 Predicted acyltransferases.,2,0.7871115446090698
+fig|6666666.1036479.peg.1594,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.7809812545776367
+fig|6666666.1036479.peg.1594,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.2548,High,,0,0.7552419900894165
+fig|6666666.1036479.peg.1594,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.1739,Very Low,,0,0.74980229139328
+fig|6666666.1036479.peg.1594,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.411,Low,Hypothetical protein.,0,0.7467636108398438
+fig|6666666.1036479.peg.1594,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.1035,Very Low,COG0463 Glycosyltransferases involved in cell wall biogenesis.,29,0.7465677499771118
+fig|6666666.1036479.peg.1665,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.86411092877388
+fig|6666666.1036479.peg.1665,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8344746947288513
+fig|6666666.1036479.peg.1665,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.832813310623169
+fig|6666666.1036479.peg.1665,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8262507081031799
+fig|6666666.1036479.peg.1665,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8242630302906037
+fig|6666666.1036479.peg.1671,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.9453588962554932
+fig|6666666.1036479.peg.1671,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.9353881537914276
+fig|6666666.1036479.peg.1671,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.933277690410614
+fig|6666666.1036479.peg.1671,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.9299195587635041
+fig|6666666.1036479.peg.1671,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.9284707188606263
+fig|6666666.1036479.peg.1677,no STRING match,,1,0.7,1,fig|6666666.1036479.peg.619,Low,Hypothetical protein.,9,0.8264407217502594
+fig|6666666.1036479.peg.1677,no STRING match,,1,0.7,2,fig|6666666.1036479.peg.1035,Very Low,COG0463 Glycosyltransferases involved in cell wall biogenesis.,29,0.8227010786533355
+fig|6666666.1036479.peg.1677,no STRING match,,1,0.7,3,fig|6666666.1036479.peg.1049,Very Low,Hypothetical protein; COG0463 Glycosyltransferases involved in cell wall biogenesis.,18,0.820846962928772
+fig|6666666.1036479.peg.1677,no STRING match,,1,0.7,4,fig|6666666.1036479.peg.2548,High,,0,0.8193663716316223
+fig|6666666.1036479.peg.1677,no STRING match,,1,0.7,5,fig|6666666.1036479.peg.856,Low,,0,0.8163261651992798
+fig|6666666.1036479.peg.1732,no STRING match,,1,0.7,1,fig|6666666.1036479.peg.856,Low,,0,0.7968288958072662
+fig|6666666.1036479.peg.1732,no STRING match,,1,0.7,2,fig|6666666.1036479.peg.1035,Very Low,COG0463 Glycosyltransferases involved in cell wall biogenesis.,29,0.7828157722949982
+fig|6666666.1036479.peg.1732,no STRING match,,1,0.7,3,fig|6666666.1036479.peg.2548,High,,0,0.7807781457901001
+fig|6666666.1036479.peg.1732,no STRING match,,1,0.7,4,fig|6666666.1036479.peg.619,Low,Hypothetical protein.,9,0.779798275232315
+fig|6666666.1036479.peg.1732,no STRING match,,1,0.7,5,fig|6666666.1036479.peg.1029,Low,Hypothetical protein.,40,0.7792233288288116
+fig|6666666.1036479.peg.1839,no STRING match,,1,0.7,1,fig|6666666.1036479.peg.619,Low,Hypothetical protein.,9,0.67023264169693
+fig|6666666.1036479.peg.1839,no STRING match,,1,0.7,2,fig|6666666.1036479.peg.1056,High,Acyltransferase; COG1835 Predicted acyltransferases.,2,0.6692093551158905
+fig|6666666.1036479.peg.1839,no STRING match,,1,0.7,3,fig|6666666.1036479.peg.120,Low,COG1835 Predicted acyltransferases.,3,0.6629174828529358
+fig|6666666.1036479.peg.1839,no STRING match,,1,0.7,4,fig|6666666.1036479.peg.781,Medium,,0,0.6611264884471894
+fig|6666666.1036479.peg.1839,no STRING match,,1,0.7,5,fig|6666666.1036479.peg.874,Medium,,0,0.6599890470504761
+fig|6666666.1036479.peg.1883,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.8426304757595062
+fig|6666666.1036479.peg.1883,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.8188430190086364
+fig|6666666.1036479.peg.1883,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8174887239933014
+fig|6666666.1036479.peg.1883,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8035587966442108
+fig|6666666.1036479.peg.1883,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.7995024561882019
+fig|6666666.1036479.peg.1885,no STRING match,,1,0.7,1,fig|6666666.1036479.peg.856,Low,,0,0.7867958307266235
+fig|6666666.1036479.peg.1885,no STRING match,,1,0.7,2,fig|6666666.1036479.peg.1035,Very Low,COG0463 Glycosyltransferases involved in cell wall biogenesis.,29,0.7673431217670441
+fig|6666666.1036479.peg.1885,no STRING match,,1,0.7,3,fig|6666666.1036479.peg.2548,High,,0,0.7666670560836792
+fig|6666666.1036479.peg.1885,no STRING match,,1,0.7,4,fig|6666666.1036479.peg.1029,Low,Hypothetical protein.,40,0.7654683113098144
+fig|6666666.1036479.peg.1885,no STRING match,,1,0.7,5,fig|6666666.1036479.peg.1739,Very Low,,0,0.764020961523056
+fig|6666666.1036479.peg.1910,no STRING match,,1,0.7,1,fig|6666666.1036479.peg.1056,High,Acyltransferase; COG1835 Predicted acyltransferases.,2,0.7157360315322876
+fig|6666666.1036479.peg.1910,no STRING match,,1,0.7,2,fig|6666666.1036479.peg.619,Low,Hypothetical protein.,9,0.7130670845508575
+fig|6666666.1036479.peg.1910,no STRING match,,1,0.7,3,fig|6666666.1036479.peg.874,Medium,,0,0.7046001732349396
+fig|6666666.1036479.peg.1910,no STRING match,,1,0.7,4,fig|6666666.1036479.peg.120,Low,COG1835 Predicted acyltransferases.,3,0.7043106138706208
+fig|6666666.1036479.peg.1910,no STRING match,,1,0.7,5,fig|6666666.1036479.peg.781,Medium,,0,0.701000714302063
+fig|6666666.1036479.peg.1933,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.1886,Very Low,,0,0.6935520887374877
+fig|6666666.1036479.peg.1933,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.2234,Medium,BatC protein; COG0457 FOG: TPR repeat.,20,0.6821318566799164
+fig|6666666.1036479.peg.1933,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.1451,Very Low,Trigger factor; COG0544 FKBP-type peptidyl-prolyl cis-trans isomerase (trigger factor).,78,0.6797491848468781
+fig|6666666.1036479.peg.1933,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.2423,Low,,0,0.6773184955120086
+fig|6666666.1036479.peg.1933,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.1460,Very Low,COG2825 Outer membrane protein.,33,0.6771182060241699
+fig|6666666.1036479.peg.1937,no STRING match,,1,0.8,1,fig|6666666.1036479.peg.2548,High,,0,0.8344324111938477
+fig|6666666.1036479.peg.1937,no STRING match,,1,0.8,2,fig|6666666.1036479.peg.1035,Very Low,COG0463 Glycosyltransferases involved in cell wall biogenesis.,29,0.8327496707439422
+fig|6666666.1036479.peg.1937,no STRING match,,1,0.8,3,fig|6666666.1036479.peg.619,Low,Hypothetical protein.,9,0.8327292144298554
+fig|6666666.1036479.peg.1937,no STRING match,,1,0.8,4,fig|6666666.1036479.peg.1049,Very Low,Hypothetical protein; COG0463 Glycosyltransferases involved in cell wall biogenesis.,18,0.8310577809810639
+fig|6666666.1036479.peg.1937,no STRING match,,1,0.8,5,fig|6666666.1036479.peg.856,Low,,0,0.8301812291145325
+fig|6666666.1036479.peg.1951,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.9033885419368743
+fig|6666666.1036479.peg.1951,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.878780061006546
+fig|6666666.1036479.peg.1951,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.8755775272846222
+fig|6666666.1036479.peg.1951,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.87110675573349
+fig|6666666.1036479.peg.1951,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8695615112781525
+fig|6666666.1036479.peg.1955,no STRING match,,1,0.85,1,fig|6666666.1036479.peg.856,Low,,0,0.7618766903877259
+fig|6666666.1036479.peg.1955,no STRING match,,1,0.85,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.7287002921104431
+fig|6666666.1036479.peg.1955,no STRING match,,1,0.85,3,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.7223465204238891
+fig|6666666.1036479.peg.1955,no STRING match,,1,0.85,4,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.7202038586139679
+fig|6666666.1036479.peg.1955,no STRING match,,1,0.85,5,fig|6666666.1036479.peg.2548,High,,0,0.7198872745037079
+fig|6666666.1036479.peg.2042,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.9165553867816925
+fig|6666666.1036479.peg.2042,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.9009797096252441
+fig|6666666.1036479.peg.2042,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8996926784515381
+fig|6666666.1036479.peg.2042,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8910355031490326
+fig|6666666.1036479.peg.2042,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8905648529529572
+fig|6666666.1036479.peg.2055,no STRING match,,1,0.7,1,fig|6666666.1036479.peg.1138,Very Low,,0,0.8070050299167633
+fig|6666666.1036479.peg.2055,no STRING match,,1,0.7,2,fig|6666666.1036479.peg.2400,Very Low,,0,0.7946080386638641
+fig|6666666.1036479.peg.2055,no STRING match,,1,0.7,3,fig|6666666.1036479.peg.1133,Very Low,"30S ribosomal protein S4; One of the primary rRNA binding proteins, it binds directly to 16S rRNA where it nucleates assembly of the body of the 30S subunit.",99,0.793050754070282
+fig|6666666.1036479.peg.2055,no STRING match,,1,0.7,4,fig|6666666.1036479.peg.1157,Low,"50S ribosomal protein L3; One of the primary rRNA binding proteins, it binds directly near the 3'-end of the 23S rRNA, where it nucleates assembly of the 50S subunit; Belongs to the universal ribosomal protein uL3 family.",115,0.7923849642276763
+fig|6666666.1036479.peg.2055,no STRING match,,1,0.7,5,fig|6666666.1036479.peg.1154,Very Low,"50S ribosomal protein L2; One of the primary rRNA binding proteins. Required for association of the 30S and 50S subunits to form the 70S ribosome, for tRNA binding and peptide bond formation. It has been suggested to have peptidyltransferase activity; this is somewhat controversial. Makes several contacts with the 16S rRNA in the 70S ribosome. Belongs to the universal ribosomal protein uL2 family.",113,0.7899361789226532
+fig|6666666.1036479.peg.2104,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.8873069882392883
+fig|6666666.1036479.peg.2104,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8578666925430298
+fig|6666666.1036479.peg.2104,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.8520122230052948
+fig|6666666.1036479.peg.2104,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8513057172298432
+fig|6666666.1036479.peg.2104,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8502765893936157
+fig|6666666.1036479.peg.2118,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.8491554439067841
+fig|6666666.1036479.peg.2118,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.818100106716156
+fig|6666666.1036479.peg.2118,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.8135462522506713
+fig|6666666.1036479.peg.2118,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8093413293361664
+fig|6666666.1036479.peg.2118,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8079782903194428
+fig|6666666.1036479.peg.2188,no STRING match,,1,0.7,1,fig|6666666.1036479.peg.856,Low,,0,0.8937526941299438
+fig|6666666.1036479.peg.2188,no STRING match,,1,0.7,2,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.8734082341194153
+fig|6666666.1036479.peg.2188,no STRING match,,1,0.7,3,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8707752406597138
+fig|6666666.1036479.peg.2188,no STRING match,,1,0.7,4,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8645319044589996
+fig|6666666.1036479.peg.2188,no STRING match,,1,0.7,5,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8627095937728881
+fig|6666666.1036479.peg.2319,no STRING match,,1,0.7,1,fig|6666666.1036479.peg.2400,Very Low,,0,0.6908713519573212
+fig|6666666.1036479.peg.2319,no STRING match,,1,0.7,2,fig|6666666.1036479.peg.1133,Very Low,"30S ribosomal protein S4; One of the primary rRNA binding proteins, it binds directly to 16S rRNA where it nucleates assembly of the body of the 30S subunit.",99,0.6877628326416015
+fig|6666666.1036479.peg.2319,no STRING match,,1,0.7,3,fig|6666666.1036479.peg.219,Very Low,,0,0.6851579964160919
+fig|6666666.1036479.peg.2319,no STRING match,,1,0.7,4,fig|6666666.1036479.peg.1151,Very Low,"30S ribosomal protein S3; Binds the lower part of the 30S subunit head. Binds mRNA in the 70S ribosome, positioning it for translation; Belongs to the universal ribosomal protein uS3 family.",91,0.6846024692058563
+fig|6666666.1036479.peg.2319,no STRING match,,1,0.7,5,fig|6666666.1036479.peg.1138,Very Low,,0,0.6807781815528869
+fig|6666666.1036479.peg.2332,no STRING match,,1,0.7,1,fig|6666666.1036479.peg.2775,High,,0,0.5463348746299743
+fig|6666666.1036479.peg.2332,no STRING match,,1,0.7,2,fig|6666666.1036479.peg.1082,Medium,,0,0.5447934985160827
+fig|6666666.1036479.peg.2332,no STRING match,,1,0.7,3,fig|6666666.1036479.peg.266,High,Hypothetical protein.,4,0.5443978279829025
+fig|6666666.1036479.peg.2332,no STRING match,,1,0.7,4,fig|6666666.1036479.peg.345,Low,Sugar O-acetyltransferase; COG1696 Predicted membrane protein involved in D-alanine export; Belongs to the membrane-bound acyltransferase family.,3,0.5442667424678802
+fig|6666666.1036479.peg.2332,no STRING match,,1,0.7,5,fig|6666666.1036479.peg.88,Low,COG0477 Permeases of the major facilitator superfamily.,1,0.5442112773656845
+fig|6666666.1036479.peg.2348,no STRING match,,1,0.85,1,fig|6666666.1036479.peg.856,Low,,0,0.9375517964363098
+fig|6666666.1036479.peg.2348,no STRING match,,1,0.85,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.9247653961181641
+fig|6666666.1036479.peg.2348,no STRING match,,1,0.85,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.9206744790077209
+fig|6666666.1036479.peg.2348,no STRING match,,1,0.85,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.9189250648021698
+fig|6666666.1036479.peg.2348,no STRING match,,1,0.85,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.9180457592010498
+fig|6666666.1036479.peg.2434,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.2548,High,,0,0.8030340492725372
+fig|6666666.1036479.peg.2434,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.619,Low,Hypothetical protein.,9,0.8013778269290924
+fig|6666666.1036479.peg.2434,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.1035,Very Low,COG0463 Glycosyltransferases involved in cell wall biogenesis.,29,0.7996656894683838
+fig|6666666.1036479.peg.2434,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.856,Low,,0,0.7991652965545655
+fig|6666666.1036479.peg.2434,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.1049,Very Low,Hypothetical protein; COG0463 Glycosyltransferases involved in cell wall biogenesis.,18,0.7990671992301941
+fig|6666666.1036479.peg.2437,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.8768339812755584
+fig|6666666.1036479.peg.2437,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.8552010178565979
+fig|6666666.1036479.peg.2437,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8539287447929382
+fig|6666666.1036479.peg.2437,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8420316338539123
+fig|6666666.1036479.peg.2437,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.8409772098064423
+fig|6666666.1036479.peg.2439,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.7432364702224732
+fig|6666666.1036479.peg.2439,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.856,Low,,0,0.7374470710754395
+fig|6666666.1036479.peg.2439,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.7275965631008148
+fig|6666666.1036479.peg.2439,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.3131,Low,,0,0.7241894900798798
+fig|6666666.1036479.peg.2439,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.1460,Very Low,COG2825 Outer membrane protein.,33,0.7106845498085022
+fig|6666666.1036479.peg.2456,no STRING match,,1,0.75,1,fig|6666666.1036479.peg.856,Low,,0,0.8767496168613433
+fig|6666666.1036479.peg.2456,no STRING match,,1,0.75,2,fig|6666666.1036479.peg.779,Medium,Hypothetical protein.,12,0.8492038965225219
+fig|6666666.1036479.peg.2456,no STRING match,,1,0.75,3,fig|6666666.1036479.peg.897,Low,prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.,11,0.8462888538837433
+fig|6666666.1036479.peg.2456,no STRING match,,1,0.75,4,fig|6666666.1036479.peg.794,Very Low,Hypothetical protein.,24,0.840740704536438
+fig|6666666.1036479.peg.2456,no STRING match,,1,0.75,5,fig|6666666.1036479.peg.1741,Medium,Hypothetical protein.,2,0.8407166242599488

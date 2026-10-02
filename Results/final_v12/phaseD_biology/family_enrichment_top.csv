@@ -1,0 +1,8 @@
+family_set,in_top_with_family,in_top_total,rest_with_family,rest_total,odds_ratio,fisher_p,fisher_p_bh
+T9SS cargo (CTD),7,791,0,202,inf,0.3556927407562904,0.8531366067851301
+Outer membrane protein,5,791,0,202,inf,0.5894537326281983,1.0
+TonB / SusCD uptake,3,791,0,202,inf,1.0,1.0
+T9SS / gliding machinery,1,791,1,202,0.25443037974683547,0.36562997433648436,0.8531366067851301
+Adhesin / surface repeat,1,791,0,202,inf,1.0,1.0
+T6SS (type VI secretion),3,791,3,202,0.25253807106598986,0.1025087002086211,0.7175609014603477
+Any surface/secretion family,19,791,4,202,1.2182642487046633,1.0,1.0

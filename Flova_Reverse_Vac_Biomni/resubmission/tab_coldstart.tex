@@ -1,0 +1,17 @@
+\begin{tabular}{lcccc}
+\toprule
+Feature set & GCN & GAT & GraphSAGE & MLP \\
+\midrule
+Biomni & 0.663\,$\pm$\,0.024 & \textbf{0.672\,$\pm$\,0.026} & 0.631\,$\pm$\,0.023 & 0.633\,$\pm$\,0.013 \\
+ESM-2 & 0.721\,$\pm$\,0.020 & 0.729\,$\pm$\,0.017 & 0.756\,$\pm$\,0.032 & \textbf{0.767\,$\pm$\,0.020} \\
+Node2Vec & 0.514\,$\pm$\,0.014 & 0.505\,$\pm$\,0.023 & 0.512\,$\pm$\,0.019 & \textbf{0.524\,$\pm$\,0.014} \\
+Biomni+ESM-2 & 0.721\,$\pm$\,0.029 & 0.729\,$\pm$\,0.031 & 0.753\,$\pm$\,0.030 & \textbf{0.770\,$\pm$\,0.020} \\
+Biomni+Node2Vec & 0.662\,$\pm$\,0.030 & \textbf{0.662\,$\pm$\,0.028} & 0.645\,$\pm$\,0.022 & 0.657\,$\pm$\,0.027 \\
+ESM-2+Node2Vec & 0.746\,$\pm$\,0.025 & 0.747\,$\pm$\,0.028 & 0.738\,$\pm$\,0.037 & \textbf{0.771\,$\pm$\,0.018} \\
+Biomni+ESM-2+Node2Vec & 0.748\,$\pm$\,0.028 & 0.733\,$\pm$\,0.026 & 0.751\,$\pm$\,0.027 & \textbf{0.777\,$\pm$\,0.025} \\
+\midrule
+Best topology heuristic & \multicolumn{4}{c}{0.500\,$\pm$\,0.000} \\
+Partner degree & \multicolumn{4}{c}{0.538\,$\pm$\,0.007} \\
+ESM-2 cosine similarity & \multicolumn{4}{c}{0.617\,$\pm$\,0.007} \\
+\bottomrule
+\end{tabular}

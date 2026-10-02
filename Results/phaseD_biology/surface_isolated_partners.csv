@@ -1,0 +1,201 @@
+isolated_protein,isolated_tier,isolated_families,isolated_pfam,partner_rank,partner,partner_tier,partner_connected,partner_families,partner_pfam,partner_pfam_desc,score,within_protein_percentile
+fig|6666666.1036479.peg.2706,Very Low,T9SS cargo (CTD),CHU_C,1,fig|6666666.1036479.peg.897,Low,True,,,,0.80608183,1.0
+fig|6666666.1036479.peg.2706,Very Low,T9SS cargo (CTD),CHU_C,2,fig|6666666.1036479.peg.856,Low,False,,,,0.7986524,0.9996927803379416
+fig|6666666.1036479.peg.2706,Very Low,T9SS cargo (CTD),CHU_C,3,fig|6666666.1036479.peg.779,Medium,True,,,,0.79603535,0.9993855606758832
+fig|6666666.1036479.peg.2706,Very Low,T9SS cargo (CTD),CHU_C,4,fig|6666666.1036479.peg.1719,Medium,False,,,,0.7750693,0.9990783410138249
+fig|6666666.1036479.peg.2706,Very Low,T9SS cargo (CTD),CHU_C,5,fig|6666666.1036479.peg.794,Very Low,True,,DUF6048,Domain of unknown function (DUF6048),0.774117,0.9987711213517665
+fig|6666666.1036479.peg.2708,Very Low,Outer membrane protein,SpaA;CarboxypepD_reg;OmpA,1,fig|6666666.1036479.peg.897,Low,True,,,,0.87623227,1.0
+fig|6666666.1036479.peg.2708,Very Low,Outer membrane protein,SpaA;CarboxypepD_reg;OmpA,2,fig|6666666.1036479.peg.3131,Low,False,,DUF4834,Domain of unknown function (DUF4834),0.85166633,0.9996927803379416
+fig|6666666.1036479.peg.2708,Very Low,Outer membrane protein,SpaA;CarboxypepD_reg;OmpA,3,fig|6666666.1036479.peg.856,Low,False,,,,0.84624547,0.9993855606758832
+fig|6666666.1036479.peg.2708,Very Low,Outer membrane protein,SpaA;CarboxypepD_reg;OmpA,4,fig|6666666.1036479.peg.779,Medium,True,,,,0.83948267,0.9990783410138249
+fig|6666666.1036479.peg.2708,Very Low,Outer membrane protein,SpaA;CarboxypepD_reg;OmpA,5,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.82423604,0.9987711213517665
+fig|6666666.1036479.peg.2741,High,Outer membrane protein,OMP_b-brl;OMP_b-brl_2,1,fig|6666666.1036479.peg.856,Low,False,,,,0.9440425,1.0
+fig|6666666.1036479.peg.2741,High,Outer membrane protein,OMP_b-brl;OMP_b-brl_2,2,fig|6666666.1036479.peg.779,Medium,True,,,,0.932004,0.9996927803379416
+fig|6666666.1036479.peg.2741,High,Outer membrane protein,OMP_b-brl;OMP_b-brl_2,3,fig|6666666.1036479.peg.897,Low,True,,,,0.93150705,0.9993855606758832
+fig|6666666.1036479.peg.2741,High,Outer membrane protein,OMP_b-brl;OMP_b-brl_2,4,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.9208369,0.9990783410138249
+fig|6666666.1036479.peg.2741,High,Outer membrane protein,OMP_b-brl;OMP_b-brl_2,5,fig|6666666.1036479.peg.1719,Medium,False,,,,0.91981804,0.9987711213517665
+fig|6666666.1036479.peg.2761,Low,TonB / SusCD uptake,CarbopepD_reg_2;Plug,1,fig|6666666.1036479.peg.897,Low,True,,,,0.94202167,1.0
+fig|6666666.1036479.peg.2761,Low,TonB / SusCD uptake,CarbopepD_reg_2;Plug,2,fig|6666666.1036479.peg.856,Low,False,,,,0.9409542,0.9996927803379416
+fig|6666666.1036479.peg.2761,Low,TonB / SusCD uptake,CarbopepD_reg_2;Plug,3,fig|6666666.1036479.peg.779,Medium,True,,,,0.9311454,0.9993855606758832
+fig|6666666.1036479.peg.2761,Low,TonB / SusCD uptake,CarbopepD_reg_2;Plug,4,fig|6666666.1036479.peg.3131,Low,False,,DUF4834,Domain of unknown function (DUF4834),0.9269943,0.9990783410138249
+fig|6666666.1036479.peg.2761,Low,TonB / SusCD uptake,CarbopepD_reg_2;Plug,5,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.92049605,0.9987711213517665
+fig|6666666.1036479.peg.2808,Low,TonB / SusCD uptake,Plug,1,fig|6666666.1036479.peg.856,Low,False,,,,0.898224,1.0
+fig|6666666.1036479.peg.2808,Low,TonB / SusCD uptake,Plug,2,fig|6666666.1036479.peg.897,Low,True,,,,0.897012,0.9996927803379416
+fig|6666666.1036479.peg.2808,Low,TonB / SusCD uptake,Plug,3,fig|6666666.1036479.peg.779,Medium,True,,,,0.8847518,0.9993855606758832
+fig|6666666.1036479.peg.2808,Low,TonB / SusCD uptake,Plug,4,fig|6666666.1036479.peg.3131,Low,False,,DUF4834,Domain of unknown function (DUF4834),0.87544876,0.9990783410138249
+fig|6666666.1036479.peg.2808,Low,TonB / SusCD uptake,Plug,5,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.8717226,0.9987711213517665
+fig|6666666.1036479.peg.2843,Very Low,Outer membrane protein,OMP_b-brl_3,1,fig|6666666.1036479.peg.897,Low,True,,,,0.9714953,1.0
+fig|6666666.1036479.peg.2843,Very Low,Outer membrane protein,OMP_b-brl_3,2,fig|6666666.1036479.peg.856,Low,False,,,,0.97003436,0.9996927803379416
+fig|6666666.1036479.peg.2843,Very Low,Outer membrane protein,OMP_b-brl_3,3,fig|6666666.1036479.peg.3131,Low,False,,DUF4834,Domain of unknown function (DUF4834),0.9635928,0.9993855606758832
+fig|6666666.1036479.peg.2843,Very Low,Outer membrane protein,OMP_b-brl_3,4,fig|6666666.1036479.peg.779,Medium,True,,,,0.96324337,0.9990783410138249
+fig|6666666.1036479.peg.2843,Very Low,Outer membrane protein,OMP_b-brl_3,5,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.9572138,0.9987711213517665
+fig|6666666.1036479.peg.3100,Medium,T9SS cargo (CTD),DUF7619;Por_Secre_tail,1,fig|6666666.1036479.peg.856,Low,False,,,,0.9241538,1.0
+fig|6666666.1036479.peg.3100,Medium,T9SS cargo (CTD),DUF7619;Por_Secre_tail,2,fig|6666666.1036479.peg.897,Low,True,,,,0.9216179,0.9996927803379416
+fig|6666666.1036479.peg.3100,Medium,T9SS cargo (CTD),DUF7619;Por_Secre_tail,3,fig|6666666.1036479.peg.779,Medium,True,,,,0.9135069,0.9993855606758832
+fig|6666666.1036479.peg.3100,Medium,T9SS cargo (CTD),DUF7619;Por_Secre_tail,4,fig|6666666.1036479.peg.3131,Low,False,,DUF4834,Domain of unknown function (DUF4834),0.9020215,0.9990783410138249
+fig|6666666.1036479.peg.3100,Medium,T9SS cargo (CTD),DUF7619;Por_Secre_tail,5,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.89885145,0.9987711213517665
+fig|6666666.1036479.peg.3179,Very Low,T6SS (type VI secretion),TssD,1,fig|6666666.1036479.peg.897,Low,True,,,,0.8393964,1.0
+fig|6666666.1036479.peg.3179,Very Low,T6SS (type VI secretion),TssD,2,fig|6666666.1036479.peg.856,Low,False,,,,0.8179116,0.9996927803379416
+fig|6666666.1036479.peg.3179,Very Low,T6SS (type VI secretion),TssD,3,fig|6666666.1036479.peg.3131,Low,False,,DUF4834,Domain of unknown function (DUF4834),0.814453,0.9993855606758832
+fig|6666666.1036479.peg.3179,Very Low,T6SS (type VI secretion),TssD,4,fig|6666666.1036479.peg.779,Medium,True,,,,0.8113311,0.9990783410138249
+fig|6666666.1036479.peg.3179,Very Low,T6SS (type VI secretion),TssD,5,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.79673135,0.9987711213517665
+fig|6666666.1036479.peg.3181,Very Low,T6SS (type VI secretion),TssD,1,fig|6666666.1036479.peg.897,Low,True,,,,0.8987954,1.0
+fig|6666666.1036479.peg.3181,Very Low,T6SS (type VI secretion),TssD,2,fig|6666666.1036479.peg.856,Low,False,,,,0.8956014,0.9996927803379416
+fig|6666666.1036479.peg.3181,Very Low,T6SS (type VI secretion),TssD,3,fig|6666666.1036479.peg.3131,Low,False,,DUF4834,Domain of unknown function (DUF4834),0.8782784,0.9993855606758832
+fig|6666666.1036479.peg.3181,Very Low,T6SS (type VI secretion),TssD,4,fig|6666666.1036479.peg.779,Medium,True,,,,0.8773172,0.9990783410138249
+fig|6666666.1036479.peg.3181,Very Low,T6SS (type VI secretion),TssD,5,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.8678676,0.9987711213517665
+fig|6666666.1036479.peg.280,Very Low,T9SS cargo (CTD),LRR_5;LRR_5;LRR_5;LRR_5;LRR_5;Por_Secre_tail,1,fig|6666666.1036479.peg.856,Low,False,,,,0.7489472,1.0
+fig|6666666.1036479.peg.280,Very Low,T9SS cargo (CTD),LRR_5;LRR_5;LRR_5;LRR_5;LRR_5;Por_Secre_tail,2,fig|6666666.1036479.peg.779,Medium,True,,,,0.73787075,0.9996927803379416
+fig|6666666.1036479.peg.280,Very Low,T9SS cargo (CTD),LRR_5;LRR_5;LRR_5;LRR_5;LRR_5;Por_Secre_tail,3,fig|6666666.1036479.peg.897,Low,True,,,,0.73016286,0.9993855606758832
+fig|6666666.1036479.peg.280,Very Low,T9SS cargo (CTD),LRR_5;LRR_5;LRR_5;LRR_5;LRR_5;Por_Secre_tail,4,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.71443534,0.9990783410138249
+fig|6666666.1036479.peg.280,Very Low,T9SS cargo (CTD),LRR_5;LRR_5;LRR_5;LRR_5;LRR_5;Por_Secre_tail,5,fig|6666666.1036479.peg.1719,Medium,False,,,,0.7110951,0.9987711213517665
+fig|6666666.1036479.peg.452,High,T9SS cargo (CTD),Por_Secre_tail,1,fig|6666666.1036479.peg.856,Low,False,,,,0.90390503,1.0
+fig|6666666.1036479.peg.452,High,T9SS cargo (CTD),Por_Secre_tail,2,fig|6666666.1036479.peg.779,Medium,True,,,,0.8827328,0.9996927803379416
+fig|6666666.1036479.peg.452,High,T9SS cargo (CTD),Por_Secre_tail,3,fig|6666666.1036479.peg.897,Low,True,,,,0.8744715,0.9993855606758832
+fig|6666666.1036479.peg.452,High,T9SS cargo (CTD),Por_Secre_tail,4,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.86704123,0.9990783410138249
+fig|6666666.1036479.peg.452,High,T9SS cargo (CTD),Por_Secre_tail,5,fig|6666666.1036479.peg.1719,Medium,False,,,,0.86339295,0.9987711213517665
+fig|6666666.1036479.peg.573,Very Low,Outer membrane protein,OMP_b-brl,1,fig|6666666.1036479.peg.856,Low,False,,,,0.9729312,1.0
+fig|6666666.1036479.peg.573,Very Low,Outer membrane protein,OMP_b-brl,2,fig|6666666.1036479.peg.897,Low,True,,,,0.96911234,0.9996927803379416
+fig|6666666.1036479.peg.573,Very Low,Outer membrane protein,OMP_b-brl,3,fig|6666666.1036479.peg.779,Medium,True,,,,0.9674076,0.9993855606758832
+fig|6666666.1036479.peg.573,Very Low,Outer membrane protein,OMP_b-brl,4,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.959821,0.9990783410138249
+fig|6666666.1036479.peg.573,Very Low,Outer membrane protein,OMP_b-brl,5,fig|6666666.1036479.peg.3131,Low,False,,DUF4834,Domain of unknown function (DUF4834),0.95882136,0.9987711213517665
+fig|6666666.1036479.peg.876,Very Low,T6SS (type VI secretion),TssD,1,fig|6666666.1036479.peg.897,Low,True,,,,0.8393964,1.0
+fig|6666666.1036479.peg.876,Very Low,T6SS (type VI secretion),TssD,2,fig|6666666.1036479.peg.856,Low,False,,,,0.8179116,0.9996927803379416
+fig|6666666.1036479.peg.876,Very Low,T6SS (type VI secretion),TssD,3,fig|6666666.1036479.peg.3131,Low,False,,DUF4834,Domain of unknown function (DUF4834),0.814453,0.9993855606758832
+fig|6666666.1036479.peg.876,Very Low,T6SS (type VI secretion),TssD,4,fig|6666666.1036479.peg.779,Medium,True,,,,0.8113311,0.9990783410138249
+fig|6666666.1036479.peg.876,Very Low,T6SS (type VI secretion),TssD,5,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.79673135,0.9987711213517665
+fig|6666666.1036479.peg.878,Very Low,T6SS (type VI secretion),TssD,1,fig|6666666.1036479.peg.897,Low,True,,,,0.8987954,1.0
+fig|6666666.1036479.peg.878,Very Low,T6SS (type VI secretion),TssD,2,fig|6666666.1036479.peg.856,Low,False,,,,0.8956014,0.9996927803379416
+fig|6666666.1036479.peg.878,Very Low,T6SS (type VI secretion),TssD,3,fig|6666666.1036479.peg.3131,Low,False,,DUF4834,Domain of unknown function (DUF4834),0.8782784,0.9993855606758832
+fig|6666666.1036479.peg.878,Very Low,T6SS (type VI secretion),TssD,4,fig|6666666.1036479.peg.779,Medium,True,,,,0.8773172,0.9990783410138249
+fig|6666666.1036479.peg.878,Very Low,T6SS (type VI secretion),TssD,5,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.8678676,0.9987711213517665
+fig|6666666.1036479.peg.995,Medium,T9SS cargo (CTD),Reprolysin_3;Peptidase_M43;DUF8694;Por_Secre_tail,1,fig|6666666.1036479.peg.856,Low,False,,,,0.87807226,1.0
+fig|6666666.1036479.peg.995,Medium,T9SS cargo (CTD),Reprolysin_3;Peptidase_M43;DUF8694;Por_Secre_tail,2,fig|6666666.1036479.peg.779,Medium,True,,,,0.86064494,0.9996927803379416
+fig|6666666.1036479.peg.995,Medium,T9SS cargo (CTD),Reprolysin_3;Peptidase_M43;DUF8694;Por_Secre_tail,3,fig|6666666.1036479.peg.897,Low,True,,,,0.85925996,0.9993855606758832
+fig|6666666.1036479.peg.995,Medium,T9SS cargo (CTD),Reprolysin_3;Peptidase_M43;DUF8694;Por_Secre_tail,4,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.8422747,0.9990783410138249
+fig|6666666.1036479.peg.995,Medium,T9SS cargo (CTD),Reprolysin_3;Peptidase_M43;DUF8694;Por_Secre_tail,5,fig|6666666.1036479.peg.1719,Medium,False,,,,0.8351732,0.9987711213517665
+fig|6666666.1036479.peg.1164,Very Low,TonB / SusCD uptake,SusD-like_2;SusD-like;SusD-like,1,fig|6666666.1036479.peg.856,Low,False,,,,0.90443045,1.0
+fig|6666666.1036479.peg.1164,Very Low,TonB / SusCD uptake,SusD-like_2;SusD-like;SusD-like,2,fig|6666666.1036479.peg.897,Low,True,,,,0.89444786,0.9996927803379416
+fig|6666666.1036479.peg.1164,Very Low,TonB / SusCD uptake,SusD-like_2;SusD-like;SusD-like,3,fig|6666666.1036479.peg.779,Medium,True,,,,0.8917321,0.9993855606758832
+fig|6666666.1036479.peg.1164,Very Low,TonB / SusCD uptake,SusD-like_2;SusD-like;SusD-like,4,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.8743322,0.9990783410138249
+fig|6666666.1036479.peg.1164,Very Low,TonB / SusCD uptake,SusD-like_2;SusD-like;SusD-like,5,fig|6666666.1036479.peg.1719,Medium,False,,,,0.8703929,0.9987711213517665
+fig|6666666.1036479.peg.1293,Very Low,T9SS / gliding machinery,GldC-like,1,fig|6666666.1036479.peg.897,Low,True,,,,0.8430313,1.0
+fig|6666666.1036479.peg.1293,Very Low,T9SS / gliding machinery,GldC-like,2,fig|6666666.1036479.peg.856,Low,False,,,,0.8405263,0.9996927803379416
+fig|6666666.1036479.peg.1293,Very Low,T9SS / gliding machinery,GldC-like,3,fig|6666666.1036479.peg.779,Medium,True,,,,0.82360065,0.9993855606758832
+fig|6666666.1036479.peg.1293,Very Low,T9SS / gliding machinery,GldC-like,4,fig|6666666.1036479.peg.3131,Low,False,,DUF4834,Domain of unknown function (DUF4834),0.8138951,0.9990783410138249
+fig|6666666.1036479.peg.1293,Very Low,T9SS / gliding machinery,GldC-like,5,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.8101634,0.9987711213517665
+fig|6666666.1036479.peg.1461,Medium,Outer membrane protein,OmpH,1,fig|6666666.1036479.peg.897,Low,True,,,,0.91432184,1.0
+fig|6666666.1036479.peg.1461,Medium,Outer membrane protein,OmpH,2,fig|6666666.1036479.peg.3131,Low,False,,DUF4834,Domain of unknown function (DUF4834),0.89808476,0.9996927803379416
+fig|6666666.1036479.peg.1461,Medium,Outer membrane protein,OmpH,3,fig|6666666.1036479.peg.1460,Very Low,True,Outer membrane protein,OmpH,Outer membrane protein (OmpH-like),0.8858698,0.9993855606758832
+fig|6666666.1036479.peg.1461,Medium,Outer membrane protein,OmpH,4,fig|6666666.1036479.peg.2234,Medium,True,,TPR_1;TPR_2;TPR_8,Tetratricopeptide repeat,0.8724364,0.9990783410138249
+fig|6666666.1036479.peg.1461,Medium,Outer membrane protein,OmpH,5,fig|6666666.1036479.peg.856,Low,False,,,,0.86997336,0.9987711213517665
+fig|6666666.1036479.peg.1481,Medium,T9SS / gliding machinery,PorP_SprF,1,fig|6666666.1036479.peg.897,Low,True,,,,0.9135149,1.0
+fig|6666666.1036479.peg.1481,Medium,T9SS / gliding machinery,PorP_SprF,2,fig|6666666.1036479.peg.856,Low,False,,,,0.90910655,0.9996927803379416
+fig|6666666.1036479.peg.1481,Medium,T9SS / gliding machinery,PorP_SprF,3,fig|6666666.1036479.peg.779,Medium,True,,,,0.89931935,0.9993855606758832
+fig|6666666.1036479.peg.1481,Medium,T9SS / gliding machinery,PorP_SprF,4,fig|6666666.1036479.peg.3131,Low,False,,DUF4834,Domain of unknown function (DUF4834),0.89592576,0.9990783410138249
+fig|6666666.1036479.peg.1481,Medium,T9SS / gliding machinery,PorP_SprF,5,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.88690275,0.9987711213517665
+fig|6666666.1036479.peg.1500,Medium,T9SS / gliding machinery,PorP_SprF,1,fig|6666666.1036479.peg.897,Low,True,,,,0.9135149,1.0
+fig|6666666.1036479.peg.1500,Medium,T9SS / gliding machinery,PorP_SprF,2,fig|6666666.1036479.peg.856,Low,False,,,,0.90910655,0.9996927803379416
+fig|6666666.1036479.peg.1500,Medium,T9SS / gliding machinery,PorP_SprF,3,fig|6666666.1036479.peg.779,Medium,True,,,,0.89931935,0.9993855606758832
+fig|6666666.1036479.peg.1500,Medium,T9SS / gliding machinery,PorP_SprF,4,fig|6666666.1036479.peg.3131,Low,False,,DUF4834,Domain of unknown function (DUF4834),0.89592576,0.9990783410138249
+fig|6666666.1036479.peg.1500,Medium,T9SS / gliding machinery,PorP_SprF,5,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.88690275,0.9987711213517665
+fig|6666666.1036479.peg.1501,Very Low,Outer membrane protein,SpaA;CarboxypepD_reg;OmpA,1,fig|6666666.1036479.peg.897,Low,True,,,,0.8765636,1.0
+fig|6666666.1036479.peg.1501,Very Low,Outer membrane protein,SpaA;CarboxypepD_reg;OmpA,2,fig|6666666.1036479.peg.3131,Low,False,,DUF4834,Domain of unknown function (DUF4834),0.85194546,0.9996927803379416
+fig|6666666.1036479.peg.1501,Very Low,Outer membrane protein,SpaA;CarboxypepD_reg;OmpA,3,fig|6666666.1036479.peg.856,Low,False,,,,0.8471178,0.9993855606758832
+fig|6666666.1036479.peg.1501,Very Low,Outer membrane protein,SpaA;CarboxypepD_reg;OmpA,4,fig|6666666.1036479.peg.779,Medium,True,,,,0.84030277,0.9990783410138249
+fig|6666666.1036479.peg.1501,Very Low,Outer membrane protein,SpaA;CarboxypepD_reg;OmpA,5,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.8249461,0.9987711213517665
+fig|6666666.1036479.peg.1661,Low,Outer membrane protein,OmpH,1,fig|6666666.1036479.peg.897,Low,True,,,,0.9471605,1.0
+fig|6666666.1036479.peg.1661,Low,Outer membrane protein,OmpH,2,fig|6666666.1036479.peg.856,Low,False,,,,0.94711316,0.9996927803379416
+fig|6666666.1036479.peg.1661,Low,Outer membrane protein,OmpH,3,fig|6666666.1036479.peg.779,Medium,True,,,,0.93399787,0.9993855606758832
+fig|6666666.1036479.peg.1661,Low,Outer membrane protein,OmpH,4,fig|6666666.1036479.peg.3131,Low,False,,DUF4834,Domain of unknown function (DUF4834),0.93333,0.9990783410138249
+fig|6666666.1036479.peg.1661,Low,Outer membrane protein,OmpH,5,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.924561,0.9987711213517665
+fig|6666666.1036479.peg.1764,Low,Adhesin / surface repeat,PKD;PKD_4,1,fig|6666666.1036479.peg.856,Low,False,,,,0.9420811,1.0
+fig|6666666.1036479.peg.1764,Low,Adhesin / surface repeat,PKD;PKD_4,2,fig|6666666.1036479.peg.897,Low,True,,,,0.9302534,0.9996927803379416
+fig|6666666.1036479.peg.1764,Low,Adhesin / surface repeat,PKD;PKD_4,3,fig|6666666.1036479.peg.779,Medium,True,,,,0.92758495,0.9993855606758832
+fig|6666666.1036479.peg.1764,Low,Adhesin / surface repeat,PKD;PKD_4,4,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.91658753,0.9990783410138249
+fig|6666666.1036479.peg.1764,Low,Adhesin / surface repeat,PKD;PKD_4,5,fig|6666666.1036479.peg.3131,Low,False,,DUF4834,Domain of unknown function (DUF4834),0.91308284,0.9987711213517665
+fig|6666666.1036479.peg.1770,Low,T6SS (type VI secretion),TssO,1,fig|6666666.1036479.peg.856,Low,False,,,,0.8966637,1.0
+fig|6666666.1036479.peg.1770,Low,T6SS (type VI secretion),TssO,2,fig|6666666.1036479.peg.897,Low,True,,,,0.8905782,0.9996927803379416
+fig|6666666.1036479.peg.1770,Low,T6SS (type VI secretion),TssO,3,fig|6666666.1036479.peg.779,Medium,True,,,,0.8735147,0.9993855606758832
+fig|6666666.1036479.peg.1770,Low,T6SS (type VI secretion),TssO,4,fig|6666666.1036479.peg.3131,Low,False,,DUF4834,Domain of unknown function (DUF4834),0.86921805,0.9990783410138249
+fig|6666666.1036479.peg.1770,Low,T6SS (type VI secretion),TssO,5,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.8647986,0.9987711213517665
+fig|6666666.1036479.peg.1792,Very Low,T6SS (type VI secretion),TssD,1,fig|6666666.1036479.peg.856,Low,False,,,,0.8899005,1.0
+fig|6666666.1036479.peg.1792,Very Low,T6SS (type VI secretion),TssD,2,fig|6666666.1036479.peg.897,Low,True,,,,0.8877706,0.9996927803379416
+fig|6666666.1036479.peg.1792,Very Low,T6SS (type VI secretion),TssD,3,fig|6666666.1036479.peg.779,Medium,True,,,,0.86973894,0.9993855606758832
+fig|6666666.1036479.peg.1792,Very Low,T6SS (type VI secretion),TssD,4,fig|6666666.1036479.peg.3131,Low,False,,DUF4834,Domain of unknown function (DUF4834),0.8668057,0.9990783410138249
+fig|6666666.1036479.peg.1792,Very Low,T6SS (type VI secretion),TssD,5,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.85961986,0.9987711213517665
+fig|6666666.1036479.peg.1795,Very Low,T6SS (type VI secretion),TssD,1,fig|6666666.1036479.peg.897,Low,True,,,,0.8279314,1.0
+fig|6666666.1036479.peg.1795,Very Low,T6SS (type VI secretion),TssD,2,fig|6666666.1036479.peg.856,Low,False,,,,0.8121019,0.9996927803379416
+fig|6666666.1036479.peg.1795,Very Low,T6SS (type VI secretion),TssD,3,fig|6666666.1036479.peg.779,Medium,True,,,,0.80389637,0.9993855606758832
+fig|6666666.1036479.peg.1795,Very Low,T6SS (type VI secretion),TssD,4,fig|6666666.1036479.peg.3131,Low,False,,DUF4834,Domain of unknown function (DUF4834),0.8038075,0.9990783410138249
+fig|6666666.1036479.peg.1795,Very Low,T6SS (type VI secretion),TssD,5,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.788842,0.9987711213517665
+fig|6666666.1036479.peg.1886,Very Low,Outer membrane protein,OmpH,1,fig|6666666.1036479.peg.897,Low,True,,,,0.9269061,1.0
+fig|6666666.1036479.peg.1886,Very Low,Outer membrane protein,OmpH,2,fig|6666666.1036479.peg.3131,Low,False,,DUF4834,Domain of unknown function (DUF4834),0.9097555,0.9996927803379416
+fig|6666666.1036479.peg.1886,Very Low,Outer membrane protein,OmpH,3,fig|6666666.1036479.peg.1460,Very Low,True,Outer membrane protein,OmpH,Outer membrane protein (OmpH-like),0.907315,0.9993855606758832
+fig|6666666.1036479.peg.1886,Very Low,Outer membrane protein,OmpH,4,fig|6666666.1036479.peg.2234,Medium,True,,TPR_1;TPR_2;TPR_8,Tetratricopeptide repeat,0.8941514,0.9990783410138249
+fig|6666666.1036479.peg.1886,Very Low,Outer membrane protein,OmpH,5,fig|6666666.1036479.peg.1394,Medium,False,,,,0.88967556,0.9987711213517665
+fig|6666666.1036479.peg.1894,Medium,T9SS cargo (CTD),Por_Secre_tail,1,fig|6666666.1036479.peg.856,Low,False,,,,0.9535222,1.0
+fig|6666666.1036479.peg.1894,Medium,T9SS cargo (CTD),Por_Secre_tail,2,fig|6666666.1036479.peg.779,Medium,True,,,,0.943255,0.9996927803379416
+fig|6666666.1036479.peg.1894,Medium,T9SS cargo (CTD),Por_Secre_tail,3,fig|6666666.1036479.peg.897,Low,True,,,,0.9426713,0.9993855606758832
+fig|6666666.1036479.peg.1894,Medium,T9SS cargo (CTD),Por_Secre_tail,4,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.93076456,0.9990783410138249
+fig|6666666.1036479.peg.1894,Medium,T9SS cargo (CTD),Por_Secre_tail,5,fig|6666666.1036479.peg.1719,Medium,False,,,,0.92499274,0.9987711213517665
+fig|6666666.1036479.peg.1991,Very Low,T9SS / gliding machinery,GldH_lipo,1,fig|6666666.1036479.peg.856,Low,False,,,,0.93939203,1.0
+fig|6666666.1036479.peg.1991,Very Low,T9SS / gliding machinery,GldH_lipo,2,fig|6666666.1036479.peg.897,Low,True,,,,0.93780386,0.9996927803379416
+fig|6666666.1036479.peg.1991,Very Low,T9SS / gliding machinery,GldH_lipo,3,fig|6666666.1036479.peg.779,Medium,True,,,,0.9285697,0.9993855606758832
+fig|6666666.1036479.peg.1991,Very Low,T9SS / gliding machinery,GldH_lipo,4,fig|6666666.1036479.peg.3131,Low,False,,DUF4834,Domain of unknown function (DUF4834),0.9195923,0.9990783410138249
+fig|6666666.1036479.peg.1991,Very Low,T9SS / gliding machinery,GldH_lipo,5,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.9169474,0.9987711213517665
+fig|6666666.1036479.peg.2071,Medium,T9SS cargo (CTD),DUF8694;Por_Secre_tail,1,fig|6666666.1036479.peg.856,Low,False,,,,0.98652923,1.0
+fig|6666666.1036479.peg.2071,Medium,T9SS cargo (CTD),DUF8694;Por_Secre_tail,2,fig|6666666.1036479.peg.897,Low,True,,,,0.9818069,0.9996927803379416
+fig|6666666.1036479.peg.2071,Medium,T9SS cargo (CTD),DUF8694;Por_Secre_tail,3,fig|6666666.1036479.peg.779,Medium,True,,,,0.9803919,0.9993855606758832
+fig|6666666.1036479.peg.2071,Medium,T9SS cargo (CTD),DUF8694;Por_Secre_tail,4,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.97557616,0.9990783410138249
+fig|6666666.1036479.peg.2071,Medium,T9SS cargo (CTD),DUF8694;Por_Secre_tail,5,fig|6666666.1036479.peg.3131,Low,False,,DUF4834,Domain of unknown function (DUF4834),0.9749487,0.9987711213517665
+fig|6666666.1036479.peg.2098,Very Low,T6SS (type VI secretion),TssD,1,fig|6666666.1036479.peg.897,Low,True,,,,0.8348972,1.0
+fig|6666666.1036479.peg.2098,Very Low,T6SS (type VI secretion),TssD,2,fig|6666666.1036479.peg.856,Low,False,,,,0.81405014,0.9996927803379416
+fig|6666666.1036479.peg.2098,Very Low,T6SS (type VI secretion),TssD,3,fig|6666666.1036479.peg.3131,Low,False,,DUF4834,Domain of unknown function (DUF4834),0.8097912,0.9993855606758832
+fig|6666666.1036479.peg.2098,Very Low,T6SS (type VI secretion),TssD,4,fig|6666666.1036479.peg.779,Medium,True,,,,0.8074175,0.9990783410138249
+fig|6666666.1036479.peg.2098,Very Low,T6SS (type VI secretion),TssD,5,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.79264283,0.9987711213517665
+fig|6666666.1036479.peg.2100,Very Low,T6SS (type VI secretion),TssD,1,fig|6666666.1036479.peg.897,Low,True,,,,0.8987954,1.0
+fig|6666666.1036479.peg.2100,Very Low,T6SS (type VI secretion),TssD,2,fig|6666666.1036479.peg.856,Low,False,,,,0.8956014,0.9996927803379416
+fig|6666666.1036479.peg.2100,Very Low,T6SS (type VI secretion),TssD,3,fig|6666666.1036479.peg.3131,Low,False,,DUF4834,Domain of unknown function (DUF4834),0.8782784,0.9993855606758832
+fig|6666666.1036479.peg.2100,Very Low,T6SS (type VI secretion),TssD,4,fig|6666666.1036479.peg.779,Medium,True,,,,0.8773172,0.9990783410138249
+fig|6666666.1036479.peg.2100,Very Low,T6SS (type VI secretion),TssD,5,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.8678676,0.9987711213517665
+fig|6666666.1036479.peg.2114,Very Low,TonB / SusCD uptake,TonB_dep_Rec_b-barrel,1,fig|6666666.1036479.peg.856,Low,False,,,,0.9716947,1.0
+fig|6666666.1036479.peg.2114,Very Low,TonB / SusCD uptake,TonB_dep_Rec_b-barrel,2,fig|6666666.1036479.peg.897,Low,True,,,,0.96649873,0.9996927803379416
+fig|6666666.1036479.peg.2114,Very Low,TonB / SusCD uptake,TonB_dep_Rec_b-barrel,3,fig|6666666.1036479.peg.779,Medium,True,,,,0.96469754,0.9993855606758832
+fig|6666666.1036479.peg.2114,Very Low,TonB / SusCD uptake,TonB_dep_Rec_b-barrel,4,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.95652986,0.9990783410138249
+fig|6666666.1036479.peg.2114,Very Low,TonB / SusCD uptake,TonB_dep_Rec_b-barrel,5,fig|6666666.1036479.peg.3131,Low,False,,DUF4834,Domain of unknown function (DUF4834),0.95607823,0.9987711213517665
+fig|6666666.1036479.peg.2314,Medium,T9SS / gliding machinery,GldD_lipo,1,fig|6666666.1036479.peg.856,Low,False,,,,0.92986417,1.0
+fig|6666666.1036479.peg.2314,Medium,T9SS / gliding machinery,GldD_lipo,2,fig|6666666.1036479.peg.897,Low,True,,,,0.9271557,0.9996927803379416
+fig|6666666.1036479.peg.2314,Medium,T9SS / gliding machinery,GldD_lipo,3,fig|6666666.1036479.peg.779,Medium,True,,,,0.9181943,0.9993855606758832
+fig|6666666.1036479.peg.2314,Medium,T9SS / gliding machinery,GldD_lipo,4,fig|6666666.1036479.peg.3131,Low,False,,DUF4834,Domain of unknown function (DUF4834),0.9103508,0.9990783410138249
+fig|6666666.1036479.peg.2314,Medium,T9SS / gliding machinery,GldD_lipo,5,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.90702444,0.9987711213517665
+fig|6666666.1036479.peg.2364,Medium,Outer membrane protein,CarbopepD_reg_2;OMP_b-brl_3,1,fig|6666666.1036479.peg.897,Low,True,,,,0.97041595,1.0
+fig|6666666.1036479.peg.2364,Medium,Outer membrane protein,CarbopepD_reg_2;OMP_b-brl_3,2,fig|6666666.1036479.peg.856,Low,False,,,,0.9690776,0.9996927803379416
+fig|6666666.1036479.peg.2364,Medium,Outer membrane protein,CarbopepD_reg_2;OMP_b-brl_3,3,fig|6666666.1036479.peg.779,Medium,True,,,,0.9620993,0.9993855606758832
+fig|6666666.1036479.peg.2364,Medium,Outer membrane protein,CarbopepD_reg_2;OMP_b-brl_3,4,fig|6666666.1036479.peg.3131,Low,False,,DUF4834,Domain of unknown function (DUF4834),0.96108043,0.9990783410138249
+fig|6666666.1036479.peg.2364,Medium,Outer membrane protein,CarbopepD_reg_2;OMP_b-brl_3,5,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.9558219,0.9987711213517665
+fig|6666666.1036479.peg.2379,Very Low,T6SS (type VI secretion),TssD,1,fig|6666666.1036479.peg.897,Low,True,,,,0.8393964,1.0
+fig|6666666.1036479.peg.2379,Very Low,T6SS (type VI secretion),TssD,2,fig|6666666.1036479.peg.856,Low,False,,,,0.8179116,0.9996927803379416
+fig|6666666.1036479.peg.2379,Very Low,T6SS (type VI secretion),TssD,3,fig|6666666.1036479.peg.3131,Low,False,,DUF4834,Domain of unknown function (DUF4834),0.814453,0.9993855606758832
+fig|6666666.1036479.peg.2379,Very Low,T6SS (type VI secretion),TssD,4,fig|6666666.1036479.peg.779,Medium,True,,,,0.8113311,0.9990783410138249
+fig|6666666.1036479.peg.2379,Very Low,T6SS (type VI secretion),TssD,5,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.79673135,0.9987711213517665
+fig|6666666.1036479.peg.2381,Very Low,T6SS (type VI secretion),TssD,1,fig|6666666.1036479.peg.897,Low,True,,,,0.8987954,1.0
+fig|6666666.1036479.peg.2381,Very Low,T6SS (type VI secretion),TssD,2,fig|6666666.1036479.peg.856,Low,False,,,,0.8956014,0.9996927803379416
+fig|6666666.1036479.peg.2381,Very Low,T6SS (type VI secretion),TssD,3,fig|6666666.1036479.peg.3131,Low,False,,DUF4834,Domain of unknown function (DUF4834),0.8782784,0.9993855606758832
+fig|6666666.1036479.peg.2381,Very Low,T6SS (type VI secretion),TssD,4,fig|6666666.1036479.peg.779,Medium,True,,,,0.8773172,0.9990783410138249
+fig|6666666.1036479.peg.2381,Very Low,T6SS (type VI secretion),TssD,5,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.8678676,0.9987711213517665
+fig|6666666.1036479.peg.2457,Very Low,T9SS cargo (CTD),Por_Secre_tail,1,fig|6666666.1036479.peg.856,Low,False,,,,0.90467453,1.0
+fig|6666666.1036479.peg.2457,Very Low,T9SS cargo (CTD),Por_Secre_tail,2,fig|6666666.1036479.peg.897,Low,True,,,,0.9021666,0.9996927803379416
+fig|6666666.1036479.peg.2457,Very Low,T9SS cargo (CTD),Por_Secre_tail,3,fig|6666666.1036479.peg.779,Medium,True,,,,0.88457453,0.9993855606758832
+fig|6666666.1036479.peg.2457,Very Low,T9SS cargo (CTD),Por_Secre_tail,4,fig|6666666.1036479.peg.3131,Low,False,,DUF4834,Domain of unknown function (DUF4834),0.8804749,0.9990783410138249
+fig|6666666.1036479.peg.2457,Very Low,T9SS cargo (CTD),Por_Secre_tail,5,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.87443924,0.9987711213517665
+fig|6666666.1036479.peg.2458,Medium,TonB / SusCD uptake,TonB_C,1,fig|6666666.1036479.peg.856,Low,False,,,,0.88912654,1.0
+fig|6666666.1036479.peg.2458,Medium,TonB / SusCD uptake,TonB_C,2,fig|6666666.1036479.peg.897,Low,True,,,,0.8728503,0.9996927803379416
+fig|6666666.1036479.peg.2458,Medium,TonB / SusCD uptake,TonB_C,3,fig|6666666.1036479.peg.779,Medium,True,,,,0.8690006,0.9993855606758832
+fig|6666666.1036479.peg.2458,Medium,TonB / SusCD uptake,TonB_C,4,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.85469824,0.9990783410138249
+fig|6666666.1036479.peg.2458,Medium,TonB / SusCD uptake,TonB_C,5,fig|6666666.1036479.peg.3131,Low,False,,DUF4834,Domain of unknown function (DUF4834),0.8522716,0.9987711213517665
+fig|6666666.1036479.peg.2478,Very Low,"T9SS cargo (CTD), Adhesin / surface repeat",Laminin_G_3;Laminin_G_3;Por_Secre_tail,1,fig|6666666.1036479.peg.856,Low,False,,,,0.95188195,1.0
+fig|6666666.1036479.peg.2478,Very Low,"T9SS cargo (CTD), Adhesin / surface repeat",Laminin_G_3;Laminin_G_3;Por_Secre_tail,2,fig|6666666.1036479.peg.779,Medium,True,,,,0.9407221,0.9996927803379416
+fig|6666666.1036479.peg.2478,Very Low,"T9SS cargo (CTD), Adhesin / surface repeat",Laminin_G_3;Laminin_G_3;Por_Secre_tail,3,fig|6666666.1036479.peg.897,Low,True,,,,0.9383154,0.9993855606758832
+fig|6666666.1036479.peg.2478,Very Low,"T9SS cargo (CTD), Adhesin / surface repeat",Laminin_G_3;Laminin_G_3;Por_Secre_tail,4,fig|6666666.1036479.peg.1741,Medium,True,,DUF4421,Domain of unknown function (DUF4421),0.92814416,0.9990783410138249
+fig|6666666.1036479.peg.2478,Very Low,"T9SS cargo (CTD), Adhesin / surface repeat",Laminin_G_3;Laminin_G_3;Por_Secre_tail,5,fig|6666666.1036479.peg.1719,Medium,False,,,,0.92177063,0.9987711213517665
