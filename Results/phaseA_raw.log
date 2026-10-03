@@ -1,0 +1,176 @@
+Mode=raw | nodes=3257 undirected edges=16315 isolated=1650
+Biomni cols=['signal_peptide_strength', 'number_of_tm_domains', 'cysteine_content', 'gravy_hydrophobicity', 'protein_length', 'molecular_weight_da', 'instability_index', 'isoelectric_point', 'vaccine_score']
+Biomni column SDs: [0.259, 1.886, 0.012, 0.42, 276.362, 30752.113, 11.029, 1.824, 0.171]
+corr(protein_length, molecular_weight)=0.9988 | ESM dim=480
+=== seed 42 ===
+  Node2Vec refit on train edges: 11.7s
+  Biomni only                GCN        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni only                GAT        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni only                GraphSAGE  val=0.660 test=0.651 ap=0.589 ep=8 sat=1.00
+  ESM only                   GCN        val=0.940 test=0.945 ap=0.941 ep=60 sat=0.00
+  ESM only                   GAT        val=0.910 test=0.917 ap=0.896 ep=60 sat=0.00
+  ESM only                   GraphSAGE  val=0.947 test=0.952 ap=0.944 ep=28 sat=0.00
+  Node2Vec only              GCN        val=0.974 test=0.976 ap=0.976 ep=15 sat=0.00
+  Node2Vec only              GAT        val=0.961 test=0.962 ap=0.953 ep=6 sat=0.00
+  Node2Vec only              GraphSAGE  val=0.957 test=0.960 ap=0.955 ep=12 sat=0.00
+  Biomni + ESM               GCN        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni + ESM               GAT        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni + ESM               GraphSAGE  val=0.680 test=0.670 ap=0.602 ep=4 sat=1.00
+  Biomni + Node2Vec          GCN        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni + Node2Vec          GAT        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni + Node2Vec          GraphSAGE  val=0.671 test=0.660 ap=0.595 ep=6 sat=1.00
+  ESM + Node2Vec             GCN        val=0.963 test=0.968 ap=0.968 ep=58 sat=0.00
+  ESM + Node2Vec             GAT        val=0.950 test=0.958 ap=0.948 ep=32 sat=0.00
+  ESM + Node2Vec             GraphSAGE  val=0.960 test=0.965 ap=0.969 ep=53 sat=0.00
+  Biomni + ESM + Node2Vec    GCN        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni + ESM + Node2Vec    GAT        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni + ESM + Node2Vec    GraphSAGE  val=0.740 test=0.733 ap=0.652 ep=31 sat=1.00
+  Topology heuristic         Common neighbors         test=0.960
+  Topology heuristic         Adamic-Adar              test=0.962
+  Topology heuristic         Resource allocation      test=0.962
+  Topology heuristic         Preferential attachment  test=0.958
+  seed 42 done in 29s
+=== seed 43 ===
+Exception ignored in: 'gensim.models.word2vec_inner.our_dot_float'
+  Node2Vec refit on train edges: 11.9s
+  Biomni only                GCN        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni only                GAT        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni only                GraphSAGE  val=0.692 test=0.682 ap=0.612 ep=8 sat=1.00
+  ESM only                   GCN        val=0.935 test=0.941 ap=0.936 ep=60 sat=0.00
+  ESM only                   GAT        val=0.917 test=0.916 ap=0.885 ep=58 sat=0.00
+  ESM only                   GraphSAGE  val=0.943 test=0.944 ap=0.926 ep=21 sat=0.00
+  Node2Vec only              GCN        val=0.972 test=0.972 ap=0.970 ep=13 sat=0.00
+  Node2Vec only              GAT        val=0.961 test=0.963 ap=0.959 ep=6 sat=0.00
+  Node2Vec only              GraphSAGE  val=0.956 test=0.956 ap=0.942 ep=10 sat=0.00
+  Biomni + ESM               GCN        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni + ESM               GAT        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni + ESM               GraphSAGE  val=0.682 test=0.677 ap=0.607 ep=5 sat=1.00
+  Biomni + Node2Vec          GCN        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni + Node2Vec          GAT        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni + Node2Vec          GraphSAGE  val=0.677 test=0.667 ap=0.601 ep=8 sat=1.00
+  ESM + Node2Vec             GCN        val=0.964 test=0.964 ap=0.962 ep=48 sat=0.00
+  ESM + Node2Vec             GAT        val=0.952 test=0.950 ap=0.937 ep=32 sat=0.00
+  ESM + Node2Vec             GraphSAGE  val=0.956 test=0.956 ap=0.960 ep=43 sat=0.00
+  Biomni + ESM + Node2Vec    GCN        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni + ESM + Node2Vec    GAT        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni + ESM + Node2Vec    GraphSAGE  val=0.740 test=0.740 ap=0.659 ep=24 sat=1.00
+  Topology heuristic         Common neighbors         test=0.961
+  Topology heuristic         Adamic-Adar              test=0.962
+  Topology heuristic         Resource allocation      test=0.963
+  Topology heuristic         Preferential attachment  test=0.957
+  seed 43 done in 32s
+=== seed 44 ===
+Exception ignored in: 'gensim.models.word2vec_inner.our_dot_float'
+Exception ignored in: 'gensim.models.word2vec_inner.our_dot_float'
+  Node2Vec refit on train edges: 13.3s
+  Biomni only                GCN        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni only                GAT        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni only                GraphSAGE  val=0.691 test=0.693 ap=0.620 ep=5 sat=1.00
+  ESM only                   GCN        val=0.898 test=0.889 ap=0.878 ep=12 sat=0.00
+  ESM only                   GAT        val=0.915 test=0.916 ap=0.884 ep=56 sat=0.00
+  ESM only                   GraphSAGE  val=0.947 test=0.945 ap=0.934 ep=23 sat=0.00
+  Node2Vec only              GCN        val=0.972 test=0.974 ap=0.972 ep=14 sat=0.00
+  Node2Vec only              GAT        val=0.962 test=0.962 ap=0.953 ep=12 sat=0.00
+  Node2Vec only              GraphSAGE  val=0.961 test=0.962 ap=0.951 ep=11 sat=0.00
+  Biomni + ESM               GCN        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni + ESM               GAT        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni + ESM               GraphSAGE  val=0.678 test=0.683 ap=0.612 ep=4 sat=1.00
+  Biomni + Node2Vec          GCN        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni + Node2Vec          GAT        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni + Node2Vec          GraphSAGE  val=0.671 test=0.678 ap=0.609 ep=5 sat=1.00
+  ESM + Node2Vec             GCN        val=0.957 test=0.950 ap=0.942 ep=14 sat=0.00
+  ESM + Node2Vec             GAT        val=0.958 test=0.955 ap=0.950 ep=50 sat=0.00
+  ESM + Node2Vec             GraphSAGE  val=0.962 test=0.963 ap=0.966 ep=39 sat=0.00
+  Biomni + ESM + Node2Vec    GCN        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni + ESM + Node2Vec    GAT        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni + ESM + Node2Vec    GraphSAGE  val=0.678 test=0.684 ap=0.613 ep=5 sat=1.00
+  Topology heuristic         Common neighbors         test=0.959
+  Topology heuristic         Adamic-Adar              test=0.960
+  Topology heuristic         Resource allocation      test=0.960
+  Topology heuristic         Preferential attachment  test=0.955
+  seed 44 done in 34s
+=== seed 45 ===
+Exception ignored in: 'gensim.models.word2vec_inner.our_dot_float'
+Exception ignored in: 'gensim.models.word2vec_inner.our_dot_float'
+  Node2Vec refit on train edges: 12.0s
+  Biomni only                GCN        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni only                GAT        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni only                GraphSAGE  val=0.692 test=0.696 ap=0.622 ep=8 sat=1.00
+  ESM only                   GCN        val=0.934 test=0.931 ap=0.925 ep=60 sat=0.00
+  ESM only                   GAT        val=0.909 test=0.898 ap=0.863 ep=60 sat=0.00
+  ESM only                   GraphSAGE  val=0.946 test=0.942 ap=0.927 ep=25 sat=0.00
+  Node2Vec only              GCN        val=0.967 test=0.968 ap=0.965 ep=10 sat=0.00
+  Node2Vec only              GAT        val=0.953 test=0.957 ap=0.944 ep=6 sat=0.00
+  Node2Vec only              GraphSAGE  val=0.952 test=0.952 ap=0.938 ep=11 sat=0.00
+  Biomni + ESM               GCN        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni + ESM               GAT        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni + ESM               GraphSAGE  val=0.700 test=0.703 ap=0.628 ep=5 sat=1.00
+  Biomni + Node2Vec          GCN        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni + Node2Vec          GAT        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni + Node2Vec          GraphSAGE  val=0.694 test=0.700 ap=0.625 ep=5 sat=1.00
+  ESM + Node2Vec             GCN        val=0.968 test=0.967 ap=0.964 ep=46 sat=0.00
+  ESM + Node2Vec             GAT        val=0.950 test=0.948 ap=0.931 ep=24 sat=0.00
+  ESM + Node2Vec             GraphSAGE  val=0.957 test=0.962 ap=0.964 ep=52 sat=0.00
+  Biomni + ESM + Node2Vec    GCN        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni + ESM + Node2Vec    GAT        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni + ESM + Node2Vec    GraphSAGE  val=0.679 test=0.684 ap=0.613 ep=4 sat=1.00
+  Topology heuristic         Common neighbors         test=0.958
+  Topology heuristic         Adamic-Adar              test=0.960
+  Topology heuristic         Resource allocation      test=0.960
+  Topology heuristic         Preferential attachment  test=0.955
+  seed 45 done in 31s
+=== seed 46 ===
+Exception ignored in: 'gensim.models.word2vec_inner.our_dot_float'
+  Node2Vec refit on train edges: 12.0s
+  Biomni only                GCN        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni only                GAT        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni only                GraphSAGE  val=0.678 test=0.664 ap=0.598 ep=8 sat=1.00
+  ESM only                   GCN        val=0.944 test=0.940 ap=0.932 ep=60 sat=0.00
+  ESM only                   GAT        val=0.920 test=0.921 ap=0.895 ep=60 sat=0.00
+  ESM only                   GraphSAGE  val=0.948 test=0.941 ap=0.929 ep=21 sat=0.00
+  Node2Vec only              GCN        val=0.968 test=0.968 ap=0.966 ep=13 sat=0.00
+  Node2Vec only              GAT        val=0.962 test=0.959 ap=0.953 ep=10 sat=0.00
+  Node2Vec only              GraphSAGE  val=0.960 test=0.957 ap=0.950 ep=11 sat=0.00
+  Biomni + ESM               GCN        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni + ESM               GAT        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni + ESM               GraphSAGE  val=0.703 test=0.689 ap=0.618 ep=6 sat=1.00
+  Biomni + Node2Vec          GCN        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni + Node2Vec          GAT        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni + Node2Vec          GraphSAGE  val=0.694 test=0.682 ap=0.611 ep=7 sat=1.00
+  ESM + Node2Vec             GCN        val=0.963 test=0.959 ap=0.954 ep=56 sat=0.00
+  ESM + Node2Vec             GAT        val=0.952 test=0.949 ap=0.934 ep=41 sat=0.00
+  ESM + Node2Vec             GraphSAGE  val=0.950 test=0.946 ap=0.933 ep=12 sat=0.00
+  Biomni + ESM + Node2Vec    GCN        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni + ESM + Node2Vec    GAT        val=0.500 test=0.500 ap=0.500 ep=1 sat=1.00
+  Biomni + ESM + Node2Vec    GraphSAGE  val=0.682 test=0.668 ap=0.601 ep=7 sat=1.00
+  Topology heuristic         Common neighbors         test=0.954
+  Topology heuristic         Adamic-Adar              test=0.955
+  Topology heuristic         Resource allocation      test=0.956
+  Topology heuristic         Preferential attachment  test=0.950
+  seed 46 done in 35s
+                feature_set                    model  auc_mean   auc_std   ap_mean  test_saturated_mean
+0             Node2Vec only                      GCN  0.971512  0.003657  0.969643                  0.0
+1            ESM + Node2Vec                      GCN  0.961618  0.007300  0.958063                  0.0
+2             Node2Vec only                      GAT  0.960583  0.002722  0.952185                  0.0
+3        Topology heuristic      Resource allocation  0.960297  0.002713  0.961054                  NaN
+4        Topology heuristic              Adamic-Adar  0.959670  0.002775  0.960040                  NaN
+5            ESM + Node2Vec                GraphSAGE  0.958481  0.007476  0.958389                  0.0
+6        Topology heuristic         Common neighbors  0.958415  0.002870  0.957015                  NaN
+7             Node2Vec only                GraphSAGE  0.957561  0.003657  0.947359                  0.0
+8        Topology heuristic  Preferential attachment  0.955033  0.003261  0.946974                  NaN
+9            ESM + Node2Vec                      GAT  0.951905  0.004540  0.939877                  0.0
+10                 ESM only                GraphSAGE  0.944764  0.004178  0.932053                  0.0
+11                 ESM only                      GCN  0.929204  0.022813  0.922509                  0.0
+12                 ESM only                      GAT  0.913529  0.009138  0.884644                  0.0
+13  Biomni + ESM + Node2Vec                GraphSAGE  0.701778  0.032750  0.627657                  1.0
+14             Biomni + ESM                GraphSAGE  0.684120  0.012648  0.613423                  1.0
+15        Biomni + Node2Vec                GraphSAGE  0.677498  0.015140  0.608296                  1.0
+16              Biomni only                GraphSAGE  0.677192  0.019218  0.608097                  1.0
+17             Biomni + ESM                      GAT  0.500000  0.000000  0.500000                  1.0
+18             Biomni + ESM                      GCN  0.500000  0.000000  0.500000                  1.0
+19  Biomni + ESM + Node2Vec                      GAT  0.500000  0.000000  0.500000                  1.0
+20  Biomni + ESM + Node2Vec                      GCN  0.500000  0.000000  0.500000                  1.0
+21        Biomni + Node2Vec                      GAT  0.500000  0.000000  0.500000                  1.0
+22        Biomni + Node2Vec                      GCN  0.500000  0.000000  0.500000                  1.0
+23              Biomni only                      GAT  0.500000  0.000000  0.500000                  1.0
+24              Biomni only                      GCN  0.500000  0.000000  0.500000                  1.0

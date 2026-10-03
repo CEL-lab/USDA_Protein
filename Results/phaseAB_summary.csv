@@ -1,0 +1,94 @@
+protocol,run,feature_set,model,auc_mean,auc_std,n_seeds
+"Edge split (transductive), uniform negatives",phaseA_fixed,Node2Vec only,GCN,0.9713664323324792,0.0023928303785568,10
+"Edge split (transductive), uniform negatives",phaseA_fixed,Biomni + Node2Vec,GCN,0.9669736530984402,0.0033351029722195,10
+"Edge split (transductive), uniform negatives",phaseA_fixed,ESM + Node2Vec,GCN,0.9656109912144416,0.0026879638447682,10
+"Edge split (transductive), uniform negatives",phaseA_fixed,Biomni + ESM + Node2Vec,GCN,0.9651536128828294,0.0025661759780871,10
+"Edge split (transductive), uniform negatives",phaseA_fixed,Topology heuristic,Resource allocation,0.9595348740170238,0.0035377653777593,10
+"Edge split (transductive), uniform negatives",phaseA_fixed,Topology heuristic,Adamic-Adar,0.959076988197331,0.0034935530426048,10
+"Edge split (transductive), uniform negatives",phaseA_fixed,Node2Vec only,GAT,0.95789833773219,0.0035916792653822,10
+"Edge split (transductive), uniform negatives",phaseA_fixed,Topology heuristic,Common neighbors,0.9578980182026576,0.0035927632789907,10
+"Edge split (transductive), uniform negatives",phaseA_fixed,Node2Vec only,GraphSAGE,0.9570680496406044,0.0026011617936244,10
+"Edge split (transductive), uniform negatives",phaseA_fixed,Biomni + ESM + Node2Vec,GraphSAGE,0.9569692398317244,0.0036581917698914,10
+"Edge split (transductive), uniform negatives",phaseA_fixed,Topology heuristic,Preferential attachment,0.9561255690914948,0.0037417949350035,10
+"Edge split (transductive), uniform negatives",phaseA_fixed,ESM + Node2Vec,GraphSAGE,0.956022473827712,0.003271697361277,10
+"Edge split (transductive), uniform negatives",phaseA_fixed,Biomni + Node2Vec,GraphSAGE,0.9557751203780522,0.0047720713101499,10
+"Edge split (transductive), uniform negatives",phaseA_fixed,Biomni + Node2Vec,GAT,0.9543521989834448,0.0031233152889777,10
+"Edge split (transductive), uniform negatives",phaseA_fixed,Biomni + ESM + Node2Vec,GAT,0.953988536784052,0.0022936900803867,10
+"Edge split (transductive), uniform negatives",phaseA_fixed,ESM + Node2Vec,GAT,0.9525257305854796,0.0026528682490705,10
+"Edge split (transductive), uniform negatives",phaseA_fixed,ESM only,GraphSAGE,0.94696638662096,0.0028795164198485,10
+"Edge split (transductive), uniform negatives",phaseA_fixed,Biomni + ESM,GraphSAGE,0.9460314244137852,0.0035710699533493,10
+"Edge split (transductive), uniform negatives",phaseA_fixed,Biomni + ESM,GCN,0.9449112478530436,0.0099124885978087,10
+"Edge split (transductive), uniform negatives",phaseA_fixed,ESM only,GCN,0.9372033309262108,0.0093904378077424,10
+"Edge split (transductive), uniform negatives",phaseA_fixed,Biomni only,GraphSAGE,0.9351765738990986,0.0035349124975321,10
+"Edge split (transductive), uniform negatives",phaseA_fixed,Biomni only,GCN,0.935141632404956,0.0041546266567094,10
+"Edge split (transductive), uniform negatives",phaseA_fixed,Biomni + ESM,GAT,0.9171100546169948,0.0074230823537465,10
+"Edge split (transductive), uniform negatives",phaseA_fixed,ESM only,GAT,0.9132919774404632,0.0075388755405415,10
+"Edge split (transductive), uniform negatives",phaseA_fixed,Biomni only,GAT,0.8951410647701399,0.0074949281147932,10
+"Held-out proteins (cold start), uniform negatives",phaseB_coldstart_uniform,Baseline (no training),Partner degree,0.8895622233514338,0.0061271865432908,10
+"Held-out proteins (cold start), uniform negatives",phaseB_coldstart_uniform,Biomni + ESM,MLP (no graph),0.8584216668703984,0.024420803536637,10
+"Held-out proteins (cold start), uniform negatives",phaseB_coldstart_uniform,Biomni + ESM,GCN,0.8419516201530239,0.0143815631747909,10
+"Held-out proteins (cold start), uniform negatives",phaseB_coldstart_uniform,ESM only,GCN,0.8281309985706082,0.0182937847984845,10
+"Held-out proteins (cold start), uniform negatives",phaseB_coldstart_uniform,Biomni + ESM,GAT,0.8276535000403511,0.0105414002031412,10
+"Held-out proteins (cold start), uniform negatives",phaseB_coldstart_uniform,Biomni + ESM + Node2Vec,MLP (no graph),0.8247680463186476,0.0149523988077309,10
+"Held-out proteins (cold start), uniform negatives",phaseB_coldstart_uniform,ESM only,MLP (no graph),0.8161277373808147,0.0604740056382023,10
+"Held-out proteins (cold start), uniform negatives",phaseB_coldstart_uniform,ESM + Node2Vec,MLP (no graph),0.8120052641397786,0.0138013828530973,10
+"Held-out proteins (cold start), uniform negatives",phaseB_coldstart_uniform,Node2Vec only,MLP (no graph),0.8068977394748955,0.0116772331743973,10
+"Held-out proteins (cold start), uniform negatives",phaseB_coldstart_uniform,Biomni + Node2Vec,MLP (no graph),0.8022111348086808,0.0106074996875221,10
+"Held-out proteins (cold start), uniform negatives",phaseB_coldstart_uniform,Biomni only,GCN,0.7965513746344932,0.0162712203051139,10
+"Held-out proteins (cold start), uniform negatives",phaseB_coldstart_uniform,Biomni only,MLP (no graph),0.7880402473736533,0.015755028479361,10
+"Held-out proteins (cold start), uniform negatives",phaseB_coldstart_uniform,ESM only,GAT,0.7858426124932463,0.0621177080015092,10
+"Held-out proteins (cold start), uniform negatives",phaseB_coldstart_uniform,Biomni only,GAT,0.7707118282381239,0.0186677464540811,10
+"Held-out proteins (cold start), uniform negatives",phaseB_coldstart_uniform,Biomni + ESM + Node2Vec,GCN,0.7582330740959942,0.0445099374964663,10
+"Held-out proteins (cold start), uniform negatives",phaseB_coldstart_uniform,ESM + Node2Vec,GraphSAGE,0.7521096473925856,0.136284071735644,10
+"Held-out proteins (cold start), uniform negatives",phaseB_coldstart_uniform,ESM only,GraphSAGE,0.7399151626714506,0.1555954835540913,10
+"Held-out proteins (cold start), uniform negatives",phaseB_coldstart_uniform,Biomni + ESM + Node2Vec,GraphSAGE,0.7262910141696308,0.1232346146826957,10
+"Held-out proteins (cold start), uniform negatives",phaseB_coldstart_uniform,Biomni + ESM,GraphSAGE,0.7017089686961395,0.1358992029128329,10
+"Held-out proteins (cold start), uniform negatives",phaseB_coldstart_uniform,Biomni + Node2Vec,GAT,0.6920471268849921,0.0169100986985441,10
+"Held-out proteins (cold start), uniform negatives",phaseB_coldstart_uniform,Biomni + Node2Vec,GCN,0.6635023420235624,0.0241744198310187,10
+"Held-out proteins (cold start), uniform negatives",phaseB_coldstart_uniform,Biomni + ESM + Node2Vec,GAT,0.659930065070348,0.0366441384066668,10
+"Held-out proteins (cold start), uniform negatives",phaseB_coldstart_uniform,Baseline (no training),ESM cosine,0.6582615451771964,0.0081406102200708,10
+"Held-out proteins (cold start), uniform negatives",phaseB_coldstart_uniform,ESM + Node2Vec,GCN,0.6510124581712631,0.0911730807062386,10
+"Held-out proteins (cold start), uniform negatives",phaseB_coldstart_uniform,Node2Vec only,GraphSAGE,0.6494259413661093,0.174702942986577,10
+"Held-out proteins (cold start), uniform negatives",phaseB_coldstart_uniform,Biomni + Node2Vec,GraphSAGE,0.6082831845657991,0.1109532829963704,10
+"Held-out proteins (cold start), uniform negatives",phaseB_coldstart_uniform,Biomni only,GraphSAGE,0.5788422989894338,0.0346446344171335,10
+"Held-out proteins (cold start), uniform negatives",phaseB_coldstart_uniform,ESM + Node2Vec,GAT,0.5558596178043471,0.0665717743973296,10
+"Held-out proteins (cold start), uniform negatives",phaseB_coldstart_uniform,Baseline (no training),Preferential attachment,0.5,0.0,10
+"Held-out proteins (cold start), uniform negatives",phaseB_coldstart_uniform,Baseline (no training),Resource allocation,0.5,0.0,10
+"Held-out proteins (cold start), uniform negatives",phaseB_coldstart_uniform,Baseline (no training),Common neighbors,0.5,0.0,10
+"Held-out proteins (cold start), uniform negatives",phaseB_coldstart_uniform,Baseline (no training),Adamic-Adar,0.5,0.0,10
+"Held-out proteins (cold start), uniform negatives",phaseB_coldstart_uniform,Node2Vec only,GCN,0.3551523366538499,0.0660688216765705,10
+"Held-out proteins (cold start), uniform negatives",phaseB_coldstart_uniform,Node2Vec only,GAT,0.2630577533285448,0.0433132944728937,10
+"Held-out proteins (cold start), degree-matched negatives",phaseB_coldstart_degree,Biomni + ESM,MLP (no graph),0.7333305430855802,0.0202230080057194,10
+"Held-out proteins (cold start), degree-matched negatives",phaseB_coldstart_degree,ESM only,MLP (no graph),0.7265651359268066,0.0234400908497728,10
+"Held-out proteins (cold start), degree-matched negatives",phaseB_coldstart_degree,Biomni + ESM + Node2Vec,MLP (no graph),0.7208749804850243,0.0286711079854432,10
+"Held-out proteins (cold start), degree-matched negatives",phaseB_coldstart_degree,ESM + Node2Vec,MLP (no graph),0.7196332232520145,0.0258993544049904,10
+"Held-out proteins (cold start), degree-matched negatives",phaseB_coldstart_degree,ESM only,GraphSAGE,0.7102446990360339,0.0261407898749873,10
+"Held-out proteins (cold start), degree-matched negatives",phaseB_coldstart_degree,Biomni + ESM + Node2Vec,GraphSAGE,0.709588514339427,0.0220172461825612,10
+"Held-out proteins (cold start), degree-matched negatives",phaseB_coldstart_degree,Biomni + ESM,GraphSAGE,0.7094088987993782,0.0184316433224606,10
+"Held-out proteins (cold start), degree-matched negatives",phaseB_coldstart_degree,ESM + Node2Vec,GraphSAGE,0.7051432613672596,0.0367094405551848,10
+"Held-out proteins (cold start), degree-matched negatives",phaseB_coldstart_degree,ESM + Node2Vec,GCN,0.7019452712900203,0.0318322947440266,10
+"Held-out proteins (cold start), degree-matched negatives",phaseB_coldstart_degree,ESM + Node2Vec,GAT,0.6967668565015301,0.026938587739136,10
+"Held-out proteins (cold start), degree-matched negatives",phaseB_coldstart_degree,Biomni + ESM + Node2Vec,GAT,0.6967501023794289,0.0272659553676342,10
+"Held-out proteins (cold start), degree-matched negatives",phaseB_coldstart_degree,Biomni + ESM + Node2Vec,GCN,0.690915622379396,0.0332322330450438,10
+"Held-out proteins (cold start), degree-matched negatives",phaseB_coldstart_degree,ESM only,GCN,0.6834105047914169,0.0578765948514269,10
+"Held-out proteins (cold start), degree-matched negatives",phaseB_coldstart_degree,Biomni + ESM,GAT,0.680172139050715,0.0204825573822509,10
+"Held-out proteins (cold start), degree-matched negatives",phaseB_coldstart_degree,Biomni + ESM,GCN,0.6800458748733429,0.0208110897199448,10
+"Held-out proteins (cold start), degree-matched negatives",phaseB_coldstart_degree,ESM only,GAT,0.6674200921702498,0.0390029224543126,10
+"Held-out proteins (cold start), degree-matched negatives",phaseB_coldstart_degree,Biomni only,GAT,0.6514303770140806,0.0157976831612911,10
+"Held-out proteins (cold start), degree-matched negatives",phaseB_coldstart_degree,Biomni only,GCN,0.6487173012977692,0.015969324482598,10
+"Held-out proteins (cold start), degree-matched negatives",phaseB_coldstart_degree,Biomni + Node2Vec,GCN,0.6400039379587625,0.0133837571882293,10
+"Held-out proteins (cold start), degree-matched negatives",phaseB_coldstart_degree,Biomni + Node2Vec,GAT,0.6394401463433059,0.0119428435622677,10
+"Held-out proteins (cold start), degree-matched negatives",phaseB_coldstart_degree,Biomni + Node2Vec,MLP (no graph),0.6381495086529732,0.0190803013010151,10
+"Held-out proteins (cold start), degree-matched negatives",phaseB_coldstart_degree,Biomni only,MLP (no graph),0.6197755201129322,0.0094869952461876,10
+"Held-out proteins (cold start), degree-matched negatives",phaseB_coldstart_degree,Biomni + Node2Vec,GraphSAGE,0.6183837736149697,0.0201973912529726,10
+"Held-out proteins (cold start), degree-matched negatives",phaseB_coldstart_degree,Baseline (no training),ESM cosine,0.6098762427601978,0.0082758759420351,10
+"Held-out proteins (cold start), degree-matched negatives",phaseB_coldstart_degree,Biomni only,GraphSAGE,0.5990140648588657,0.0180210160399636,10
+"Held-out proteins (cold start), degree-matched negatives",phaseB_coldstart_degree,Baseline (no training),Partner degree,0.5227256750751141,0.0061039968900146,10
+"Held-out proteins (cold start), degree-matched negatives",phaseB_coldstart_degree,Node2Vec only,GCN,0.5148261313622553,0.0110848766461436,10
+"Held-out proteins (cold start), degree-matched negatives",phaseB_coldstart_degree,Node2Vec only,MLP (no graph),0.5143275056770455,0.0084696452941099,10
+"Held-out proteins (cold start), degree-matched negatives",phaseB_coldstart_degree,Node2Vec only,GAT,0.5130167969817765,0.0119603016660371,10
+"Held-out proteins (cold start), degree-matched negatives",phaseB_coldstart_degree,Node2Vec only,GraphSAGE,0.5053817610762124,0.0080583923781084,10
+"Held-out proteins (cold start), degree-matched negatives",phaseB_coldstart_degree,Baseline (no training),Common neighbors,0.5,0.0,10
+"Held-out proteins (cold start), degree-matched negatives",phaseB_coldstart_degree,Baseline (no training),Resource allocation,0.5,0.0,10
+"Held-out proteins (cold start), degree-matched negatives",phaseB_coldstart_degree,Baseline (no training),Preferential attachment,0.5,0.0,10
+"Held-out proteins (cold start), degree-matched negatives",phaseB_coldstart_degree,Baseline (no training),Adamic-Adar,0.5,0.0,10

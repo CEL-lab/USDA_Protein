@@ -1,0 +1,23 @@
+seed 0: internal P@5 dot=0.089, cos=0.081, csls=0.079, esm=0.127, blend(cos,0.25)=0.114, blend(cos,0.5)=0.111, blend(cos,0.75)=0.095, blend(csls,0.5)=0.105
+seed 1: internal P@5 dot=0.070, cos=0.077, csls=0.081, esm=0.116, blend(cos,0.25)=0.101, blend(cos,0.5)=0.096, blend(cos,0.75)=0.096, blend(csls,0.5)=0.104
+seed 2: internal P@5 dot=0.092, cos=0.074, csls=0.076, esm=0.111, blend(cos,0.25)=0.099, blend(cos,0.5)=0.096, blend(cos,0.75)=0.090, blend(csls,0.5)=0.091
+seed 3: internal P@5 dot=0.082, cos=0.093, csls=0.094, esm=0.134, blend(cos,0.25)=0.120, blend(cos,0.5)=0.117, blend(cos,0.75)=0.104, blend(csls,0.5)=0.116
+seed 4: internal P@5 dot=0.092, cos=0.117, csls=0.115, esm=0.147, blend(cos,0.25)=0.143, blend(cos,0.5)=0.137, blend(cos,0.75)=0.118, blend(csls,0.5)=0.135
+seed 5: internal P@5 dot=0.057, cos=0.061, csls=0.068, esm=0.129, blend(cos,0.25)=0.102, blend(cos,0.5)=0.099, blend(cos,0.75)=0.090, blend(csls,0.5)=0.098
+seed 6: internal P@5 dot=0.076, cos=0.082, csls=0.083, esm=0.124, blend(cos,0.25)=0.124, blend(cos,0.5)=0.110, blend(cos,0.75)=0.100, blend(csls,0.5)=0.120
+seed 7: internal P@5 dot=0.083, cos=0.087, csls=0.089, esm=0.117, blend(cos,0.25)=0.125, blend(cos,0.5)=0.119, blend(cos,0.75)=0.105, blend(csls,0.5)=0.113
+seed 8: internal P@5 dot=0.069, cos=0.092, csls=0.093, esm=0.126, blend(cos,0.25)=0.117, blend(cos,0.5)=0.109, blend(cos,0.75)=0.104, blend(csls,0.5)=0.110
+seed 9: internal P@5 dot=0.077, cos=0.078, csls=0.082, esm=0.123, blend(cos,0.25)=0.110, blend(cos,0.5)=0.099, blend(cos,0.75)=0.090, blend(csls,0.5)=0.103
+
+Internal (cold-start, degree-matched) summary:
+                 per_protein_P@5_mean  per_protein_P@5_std  per_protein_hit@10_mean  per_protein_AUC_mean  pooled_AUC_mean
+variant                                                                                                                   
+esm                            0.1254               0.0102                   0.4397                0.6464           0.6009
+blend(cos,0.25)                0.1156               0.0136                   0.4126                0.6631           0.6821
+blend(csls,0.5)                0.1096               0.0125                   0.3944                0.6741           0.7114
+blend(cos,0.5)                 0.1092               0.0130                   0.3953                0.6735           0.7112
+blend(cos,0.75)                0.0991               0.0090                   0.3677                0.6706           0.7249
+csls                           0.0861               0.0130                   0.3174                0.6600           0.6927
+cos                            0.0842               0.0147                   0.3214                0.6590           0.6898
+dot                            0.0787               0.0112                   0.2392                0.6537           0.7116
+Selected variant (highest internal per-protein P@5): esm

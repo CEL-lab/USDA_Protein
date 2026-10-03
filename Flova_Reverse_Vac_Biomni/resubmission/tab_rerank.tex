@@ -1,0 +1,16 @@
+\begin{tabular}{lcccccc}
+\toprule
+Variant & \multicolumn{3}{c}{Internal (final network)} & \multicolumn{3}{c}{External} \\
+\cmidrule(lr){2-4}\cmidrule(lr){5-7}
+ & P@5 & Prot.\ AUC & Pooled AUC & P@5 & Prot.\ AUC & Pooled AUC \\
+\midrule
+ESM-2 cosine & 0.125 & 0.646 & 0.601 & 0.135 & 0.638 & 0.595 \\
+Blend cosine/ESM-2 (0.25) & 0.116 & 0.663 & 0.682 & 0.120 & 0.659 & 0.703 \\
+Blend CSLS/ESM-2 (0.5) & 0.110 & 0.674 & 0.711 & 0.116 & 0.671 & 0.734 \\
+Blend cosine/ESM-2 (0.5) & 0.109 & 0.673 & 0.711 & 0.118 & 0.670 & 0.733 \\
+Blend cosine/ESM-2 (0.75) & 0.099 & 0.671 & 0.725 & 0.111 & 0.668 & 0.746 \\
+Model cosine, CSLS & 0.086 & 0.660 & 0.693 & 0.107 & 0.661 & 0.701 \\
+Model cosine & 0.084 & 0.659 & 0.690 & 0.108 & 0.660 & 0.698 \\
+Model score & 0.079 & 0.654 & 0.712 & 0.089 & 0.653 & 0.708 \\
+\bottomrule
+\end{tabular}

@@ -1,0 +1,35 @@
+seed 0: internal P@5 dot=0.056, cos=0.065, csls=0.064, esm=0.091, blend(cos,0.25)=0.105, blend(cos,0.5)=0.095, blend(cos,0.75)=0.081, blend(csls,0.5)=0.094
+seed 1: internal P@5 dot=0.065, cos=0.075, csls=0.071, esm=0.106, blend(cos,0.25)=0.099, blend(cos,0.5)=0.096, blend(cos,0.75)=0.093, blend(csls,0.5)=0.093
+seed 2: internal P@5 dot=0.047, cos=0.054, csls=0.059, esm=0.110, blend(cos,0.25)=0.096, blend(cos,0.5)=0.086, blend(cos,0.75)=0.075, blend(csls,0.5)=0.095
+seed 3: internal P@5 dot=0.097, cos=0.094, csls=0.103, esm=0.138, blend(cos,0.25)=0.121, blend(cos,0.5)=0.113, blend(cos,0.75)=0.110, blend(csls,0.5)=0.120
+seed 4: internal P@5 dot=0.068, cos=0.081, csls=0.086, esm=0.120, blend(cos,0.25)=0.109, blend(cos,0.5)=0.100, blend(cos,0.75)=0.092, blend(csls,0.5)=0.106
+seed 5: internal P@5 dot=0.084, cos=0.094, csls=0.085, esm=0.122, blend(cos,0.25)=0.125, blend(cos,0.5)=0.127, blend(cos,0.75)=0.122, blend(csls,0.5)=0.120
+seed 6: internal P@5 dot=0.083, cos=0.083, csls=0.075, esm=0.111, blend(cos,0.25)=0.103, blend(cos,0.5)=0.102, blend(cos,0.75)=0.092, blend(csls,0.5)=0.103
+seed 7: internal P@5 dot=0.064, cos=0.065, csls=0.072, esm=0.109, blend(cos,0.25)=0.103, blend(cos,0.5)=0.094, blend(cos,0.75)=0.086, blend(csls,0.5)=0.101
+seed 8: internal P@5 dot=0.082, cos=0.097, csls=0.092, esm=0.115, blend(cos,0.25)=0.122, blend(cos,0.5)=0.127, blend(cos,0.75)=0.127, blend(csls,0.5)=0.128
+seed 9: internal P@5 dot=0.102, cos=0.092, csls=0.090, esm=0.129, blend(cos,0.25)=0.135, blend(cos,0.5)=0.125, blend(cos,0.75)=0.112, blend(csls,0.5)=0.126
+
+Internal (cold-start, degree-matched) summary:
+                 per_protein_P@5_mean  per_protein_P@5_std  per_protein_hit@10_mean  per_protein_AUC_mean  pooled_AUC_mean
+variant                                                                                                                   
+esm                            0.1151               0.0129                   0.4507                0.6525           0.6507
+blend(cos,0.25)                0.1118               0.0129                   0.4376                0.6722           0.6956
+blend(csls,0.5)                0.1085               0.0136                   0.4147                0.6863           0.7202
+blend(cos,0.5)                 0.1065               0.0153                   0.4166                0.6861           0.7199
+blend(cos,0.75)                0.0989               0.0177                   0.3945                0.6862           0.7283
+cos                            0.0802               0.0148                   0.3458                0.6762           0.7053
+csls                           0.0799               0.0138                   0.3446                0.6770           0.7074
+dot                            0.0748               0.0177                   0.2965                0.6742           0.7156
+Selected variant (highest internal per-protein P@5): esm
+
+External validation (728 never-submitted proteins):
+        variant  per_protein_AUC  per_protein_P@5  per_protein_hit@10  pooled_AUC  pooled_precision_top0.001  pooled_precision_top0.01  selected_internally
+            esm           0.6383           0.1354              0.4038      0.5951                     0.0591                    0.0328                 True
+blend(cos,0.25)           0.6586           0.1198              0.3599      0.7025                     0.2132                    0.1232                False
+ blend(cos,0.5)           0.6700           0.1179              0.3530      0.7335                     0.1986                    0.1281                False
+blend(csls,0.5)           0.6707           0.1165              0.3489      0.7336                     0.1926                    0.1259                False
+blend(cos,0.75)           0.6684           0.1110              0.3475      0.7464                     0.1861                    0.1240                False
+            cos           0.6600           0.1080              0.3310      0.6984                     0.2306                    0.1044                False
+           csls           0.6614           0.1069              0.3283      0.7012                     0.2230                    0.1093                False
+ partner degree           0.5472           0.0904              0.3173      0.5580                     0.1053                    0.0726                False
+            dot           0.6528           0.0890              0.2157      0.7078                     0.1948                    0.1388                False

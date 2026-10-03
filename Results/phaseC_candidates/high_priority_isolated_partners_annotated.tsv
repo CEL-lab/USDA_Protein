@@ -1,0 +1,571 @@
+isolated_protein	isolated_reason	isolated_desc	n_identical	vaccine_score	partner_rank	partner	partner_tier	partner_desc	partner_degree	score	isolated_protein_pfam_architecture	isolated_protein_pfam_descriptions	isolated_protein_go_terms	partner_pfam_architecture	partner_pfam_descriptions	partner_go_terms
+fig|6666666.1036479.peg.2501	no STRING match		1	0.8	1	fig|6666666.1036479.peg.2506	Very Low		0	0.9457481205463408						
+fig|6666666.1036479.peg.2501	no STRING match		1	0.8	2	fig|6666666.1036479.peg.2523	Low		0	0.9158230602741242						
+fig|6666666.1036479.peg.2501	no STRING match		1	0.8	3	fig|6666666.1036479.peg.874	Medium		0	0.9143491625785828						
+fig|6666666.1036479.peg.2501	no STRING match		1	0.8	4	fig|6666666.1036479.peg.3077	Medium		0	0.9140218913555144						
+fig|6666666.1036479.peg.2501	no STRING match		1	0.8	5	fig|6666666.1036479.peg.1937	High		0	0.9115464866161348						
+fig|6666666.1036479.peg.2502	no STRING match		1	0.85	1	fig|6666666.1036479.peg.856	Low		0	0.8929238736629486						
+fig|6666666.1036479.peg.2502	no STRING match		1	0.85	2	fig|6666666.1036479.peg.2548	High		0	0.8868293523788452						
+fig|6666666.1036479.peg.2502	no STRING match		1	0.85	3	fig|6666666.1036479.peg.979	Very Low		0	0.8827668845653533						
+fig|6666666.1036479.peg.2502	no STRING match		1	0.85	4	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.8756246209144593						
+fig|6666666.1036479.peg.2502	no STRING match		1	0.85	5	fig|6666666.1036479.peg.866	High		0	0.8711724221706391						
+fig|6666666.1036479.peg.2548	no STRING match		1	0.7	1	fig|6666666.1036479.peg.856	Low		0	0.9625039041042328						
+fig|6666666.1036479.peg.2548	no STRING match		1	0.7	2	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.9474856674671172						
+fig|6666666.1036479.peg.2548	no STRING match		1	0.7	3	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.9456041336059572						
+fig|6666666.1036479.peg.2548	no STRING match		1	0.7	4	fig|6666666.1036479.peg.253	Low	Hypothetical protein.	0	0.9413768231868744				YhhN	YhhN family	GO:0016020
+fig|6666666.1036479.peg.2548	no STRING match		1	0.7	5	fig|6666666.1036479.peg.866	High		0	0.9406870067119598						
+fig|6666666.1036479.peg.2556	no STRING match		2	0.85	1	fig|6666666.1036479.peg.856	Low		0	0.9085539221763612						
+fig|6666666.1036479.peg.2556	no STRING match		2	0.85	2	fig|6666666.1036479.peg.2548	High		0	0.885399329662323						
+fig|6666666.1036479.peg.2556	no STRING match		2	0.85	3	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.8842777669429779						
+fig|6666666.1036479.peg.2556	no STRING match		2	0.85	4	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.8769615232944489						
+fig|6666666.1036479.peg.2556	no STRING match		2	0.85	5	fig|6666666.1036479.peg.1739	Very Low		0	0.8723944962024689				DUF3575	Protein of unknown function (DUF3575)	
+fig|6666666.1036479.peg.2564	no STRING match		2	0.85	1	fig|6666666.1036479.peg.856	Low		0	0.9085539221763612						
+fig|6666666.1036479.peg.2564	no STRING match		2	0.85	2	fig|6666666.1036479.peg.2548	High		0	0.885399329662323						
+fig|6666666.1036479.peg.2564	no STRING match		2	0.85	3	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.8842777669429779						
+fig|6666666.1036479.peg.2564	no STRING match		2	0.85	4	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.8769615232944489						
+fig|6666666.1036479.peg.2564	no STRING match		2	0.85	5	fig|6666666.1036479.peg.1739	Very Low		0	0.8723944962024689				DUF3575	Protein of unknown function (DUF3575)	
+fig|6666666.1036479.peg.2626	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.937037807703018						
+fig|6666666.1036479.peg.2626	no STRING match		1	0.75	2	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.919526195526123						
+fig|6666666.1036479.peg.2626	no STRING match		1	0.75	3	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.9189111232757567						
+fig|6666666.1036479.peg.2626	no STRING match		1	0.75	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.909340876340866				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.2626	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1719	Medium		0	0.9031975150108338						
+fig|6666666.1036479.peg.2638	no STRING match		1	0.8	1	fig|6666666.1036479.peg.856	Low		0	0.855774462223053	DUF4293	Domain of unknown function (DUF4293)				
+fig|6666666.1036479.peg.2638	no STRING match		1	0.8	2	fig|6666666.1036479.peg.2548	High		0	0.8270240426063538	DUF4293	Domain of unknown function (DUF4293)				
+fig|6666666.1036479.peg.2638	no STRING match		1	0.8	3	fig|6666666.1036479.peg.866	High		0	0.8241556286811829	DUF4293	Domain of unknown function (DUF4293)				
+fig|6666666.1036479.peg.2638	no STRING match		1	0.8	4	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.8236812233924866	DUF4293	Domain of unknown function (DUF4293)				
+fig|6666666.1036479.peg.2638	no STRING match		1	0.8	5	fig|6666666.1036479.peg.2282	Low	Hypothetical protein.	58	0.8232956826686859	DUF4293	Domain of unknown function (DUF4293)		DUF4271	Domain of unknown function (DUF4271)	
+fig|6666666.1036479.peg.2643	no STRING match		1	0.75	1	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.8685644567012787	DUF4136	Domain of unknown function (DUF4136)				
+fig|6666666.1036479.peg.2643	no STRING match		1	0.75	2	fig|6666666.1036479.peg.856	Low		0	0.8652275025844574	DUF4136	Domain of unknown function (DUF4136)				
+fig|6666666.1036479.peg.2643	no STRING match		1	0.75	3	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.8491788804531097	DUF4136	Domain of unknown function (DUF4136)				
+fig|6666666.1036479.peg.2643	no STRING match		1	0.75	4	fig|6666666.1036479.peg.3131	Low		0	0.8469296336174011	DUF4136	Domain of unknown function (DUF4136)		DUF4834	Domain of unknown function (DUF4834)	
+fig|6666666.1036479.peg.2643	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.8368176221847534	DUF4136	Domain of unknown function (DUF4136)		DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.2654	no STRING match		1	0.7	1	fig|6666666.1036479.peg.856	Low		0	0.9135412514209748						
+fig|6666666.1036479.peg.2654	no STRING match		1	0.7	2	fig|6666666.1036479.peg.2548	High		0	0.8927335858345031						
+fig|6666666.1036479.peg.2654	no STRING match		1	0.7	3	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.8890640079975128						
+fig|6666666.1036479.peg.2654	no STRING match		1	0.7	4	fig|6666666.1036479.peg.866	High		0	0.8856828212738037						
+fig|6666666.1036479.peg.2654	no STRING match		1	0.7	5	fig|6666666.1036479.peg.253	Low	Hypothetical protein.	0	0.8839704275131226				YhhN	YhhN family	GO:0016020
+fig|6666666.1036479.peg.2659	no STRING match		1	0.7	1	fig|6666666.1036479.peg.619	Low	Hypothetical protein.	9	0.8829910397529602						
+fig|6666666.1036479.peg.2659	no STRING match		1	0.7	2	fig|6666666.1036479.peg.2548	High		0	0.8765547037124634						
+fig|6666666.1036479.peg.2659	no STRING match		1	0.7	3	fig|6666666.1036479.peg.253	Low	Hypothetical protein.	0	0.8734195590019226				YhhN	YhhN family	GO:0016020
+fig|6666666.1036479.peg.2659	no STRING match		1	0.7	4	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.872708398103714						
+fig|6666666.1036479.peg.2659	no STRING match		1	0.7	5	fig|6666666.1036479.peg.2516	Very Low		0	0.8718862473964691						
+fig|6666666.1036479.peg.2661	no STRING match		1	0.85	1	fig|6666666.1036479.peg.856	Low		0	0.9460876047611236						
+fig|6666666.1036479.peg.2661	no STRING match		1	0.85	2	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.9345513701438904						
+fig|6666666.1036479.peg.2661	no STRING match		1	0.85	3	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.9345356822013856						
+fig|6666666.1036479.peg.2661	no STRING match		1	0.85	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.9233738541603088				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.2661	no STRING match		1	0.85	5	fig|6666666.1036479.peg.1719	Medium		0	0.9220820367336272						
+fig|6666666.1036479.peg.2666	no STRING match		1	0.85	1	fig|6666666.1036479.peg.856	Low		0	0.9337064445018768						
+fig|6666666.1036479.peg.2666	no STRING match		1	0.85	2	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.919392591714859						
+fig|6666666.1036479.peg.2666	no STRING match		1	0.85	3	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.918818747997284						
+fig|6666666.1036479.peg.2666	no STRING match		1	0.85	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.9069672167301178				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.2666	no STRING match		1	0.85	5	fig|6666666.1036479.peg.1719	Medium		0	0.9049167811870577						
+fig|6666666.1036479.peg.2741	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.9440425038337708	OMP_b-brl;OMP_b-brl_2	Outer membrane protein beta-barrel domain				
+fig|6666666.1036479.peg.2741	no STRING match		1	0.75	2	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.9320040047168732	OMP_b-brl;OMP_b-brl_2	Outer membrane protein beta-barrel domain				
+fig|6666666.1036479.peg.2741	no STRING match		1	0.75	3	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.9315070748329164	OMP_b-brl;OMP_b-brl_2	Outer membrane protein beta-barrel domain				
+fig|6666666.1036479.peg.2741	no STRING match		1	0.75	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.9208369553089142	OMP_b-brl;OMP_b-brl_2	Outer membrane protein beta-barrel domain		DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.2741	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1719	Medium		0	0.9198180139064788	OMP_b-brl;OMP_b-brl_2	Outer membrane protein beta-barrel domain				
+fig|6666666.1036479.peg.2750	no STRING match		1	0.75	1	fig|6666666.1036479.peg.2400	Very Low		0	0.8576546490192414	Bac_DNA_binding;HU-HIG	Bacterial DNA-binding protein; HU domain fused to wHTH, Ig, or Glycine-rich motif	GO:0003677;GO:0030527	RRF	Ribosome recycling factor	
+fig|6666666.1036479.peg.2750	no STRING match		1	0.75	2	fig|6666666.1036479.peg.1133	Very Low	30S ribosomal protein S4; One of the primary rRNA binding proteins, it binds directly to 16S rRNA where it nucleates assembly of the body of the 30S subunit.	99	0.8519992291927337	Bac_DNA_binding;HU-HIG	Bacterial DNA-binding protein; HU domain fused to wHTH, Ig, or Glycine-rich motif	GO:0003677;GO:0030527	Ribosomal_S4;S4	Ribosomal protein S4/S9 N-terminal domain; S4 domain	GO:0003723;GO:0019843
+fig|6666666.1036479.peg.2750	no STRING match		1	0.75	3	fig|6666666.1036479.peg.1151	Very Low	30S ribosomal protein S3; Binds the lower part of the 30S subunit head. Binds mRNA in the 70S ribosome, positioning it for translation; Belongs to the universal ribosomal protein uS3 family.	91	0.8475112378597259	Bac_DNA_binding;HU-HIG	Bacterial DNA-binding protein; HU domain fused to wHTH, Ig, or Glycine-rich motif	GO:0003677;GO:0030527	KH_2;Ribosomal_S3_C	KH domain; Ribosomal protein S3, C-terminal domain	GO:0003723;GO:0003735;GO:0006412
+fig|6666666.1036479.peg.2750	no STRING match		1	0.75	4	fig|6666666.1036479.peg.1154	Very Low	50S ribosomal protein L2; One of the primary rRNA binding proteins. Required for association of the 30S and 50S subunits to form the 70S ribosome, for tRNA binding and peptide bond formation. It has been suggested to have peptidyltransferase activity; this is somewhat controversial. Makes several contacts with the 16S rRNA in the 70S ribosome. Belongs to the universal ribosomal protein uL2 family.	113	0.8441468358039856	Bac_DNA_binding;HU-HIG	Bacterial DNA-binding protein; HU domain fused to wHTH, Ig, or Glycine-rich motif	GO:0003677;GO:0030527	Ribosomal_L2_N;Ribosomal_L2_C	Ribosomal Proteins L2, RNA binding N-terminal domain; Ribosomal Proteins L2, C-terminal domain	GO:0003735;GO:0005840;GO:0006412
+fig|6666666.1036479.peg.2750	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1138	Very Low		0	0.8435637295246124	Bac_DNA_binding;HU-HIG	Bacterial DNA-binding protein; HU domain fused to wHTH, Ig, or Glycine-rich motif	GO:0003677;GO:0030527	Ribosomal_uL15_N;Ribosomal_L27A	Ribosomal protein uL15, N-terminal region; Ribosomal proteins 50S-L15, 50S-L18e, 60S-L27A	
+fig|6666666.1036479.peg.2775	no STRING match		1	0.7	1	fig|6666666.1036479.peg.781	Medium		0	0.7517156839370728	TauE	Sulfite exporter TauE/SafE	GO:0016020	DUF2752	Protein of unknown function (DUF2752)	
+fig|6666666.1036479.peg.2775	no STRING match		1	0.7	2	fig|6666666.1036479.peg.619	Low	Hypothetical protein.	9	0.7516820728778839	TauE	Sulfite exporter TauE/SafE	GO:0016020			
+fig|6666666.1036479.peg.2775	no STRING match		1	0.7	3	fig|6666666.1036479.peg.1056	High	Acyltransferase; COG1835 Predicted acyltransferases.	2	0.7489750206470489	TauE	Sulfite exporter TauE/SafE	GO:0016020	Acyl_transf_3	Acyltransferase domain	GO:0016747
+fig|6666666.1036479.peg.2775	no STRING match		1	0.7	4	fig|6666666.1036479.peg.2080	High	Putative amino-acid efflux protein.	22	0.7451390624046326	TauE	Sulfite exporter TauE/SafE	GO:0016020	LysE	LysE type translocator	GO:0006865;GO:0016020
+fig|6666666.1036479.peg.2775	no STRING match		1	0.7	5	fig|6666666.1036479.peg.2658	Low	Nitrous-oxide metabolic protein NosY.	8	0.7444867312908172	TauE	Sulfite exporter TauE/SafE	GO:0016020	ABC2_membrane_2	ABC-2 family transporter protein	GO:0055085;GO:0140359
+fig|6666666.1036479.peg.2777	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.8603910326957702						
+fig|6666666.1036479.peg.2777	no STRING match		1	0.75	2	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.84842449426651						
+fig|6666666.1036479.peg.2777	no STRING match		1	0.75	3	fig|6666666.1036479.peg.3131	Low		0	0.8374628543853759				DUF4834	Domain of unknown function (DUF4834)	
+fig|6666666.1036479.peg.2777	no STRING match		1	0.75	4	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.8329644083976746						
+fig|6666666.1036479.peg.2777	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.8257907927036285				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.2792	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.9789852321147918	DUF8785	Domain of unknown function (DUF8785)				
+fig|6666666.1036479.peg.2792	no STRING match		1	0.75	2	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.9709002912044524	DUF8785	Domain of unknown function (DUF8785)				
+fig|6666666.1036479.peg.2792	no STRING match		1	0.75	3	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.9684988737106324	DUF8785	Domain of unknown function (DUF8785)				
+fig|6666666.1036479.peg.2792	no STRING match		1	0.75	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.9642314195632936	DUF8785	Domain of unknown function (DUF8785)		DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.2792	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1719	Medium		0	0.9614499092102052	DUF8785	Domain of unknown function (DUF8785)				
+fig|6666666.1036479.peg.2801	no STRING match		1	0.7	1	fig|6666666.1036479.peg.856	Low		0	0.8555517077445984	MS_channel_2nd	Mechanosensitive ion channel, beta-domain	GO:0016020;GO:0055085			
+fig|6666666.1036479.peg.2801	no STRING match		1	0.7	2	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.8326723754405976	MS_channel_2nd	Mechanosensitive ion channel, beta-domain	GO:0016020;GO:0055085			
+fig|6666666.1036479.peg.2801	no STRING match		1	0.7	3	fig|6666666.1036479.peg.1029	Low	Hypothetical protein.	40	0.8321049094200135	MS_channel_2nd	Mechanosensitive ion channel, beta-domain	GO:0016020;GO:0055085	Wzy_C	O-Antigen ligase	
+fig|6666666.1036479.peg.2801	no STRING match		1	0.7	4	fig|6666666.1036479.peg.2282	Low	Hypothetical protein.	58	0.8285615622997284	MS_channel_2nd	Mechanosensitive ion channel, beta-domain	GO:0016020;GO:0055085	DUF4271	Domain of unknown function (DUF4271)	
+fig|6666666.1036479.peg.2801	no STRING match		1	0.7	5	fig|6666666.1036479.peg.2548	High		0	0.8275319457054138	MS_channel_2nd	Mechanosensitive ion channel, beta-domain	GO:0016020;GO:0055085			
+fig|6666666.1036479.peg.2878	no STRING match		1	0.7	1	fig|6666666.1036479.peg.2522	Very Low		0	0.8412774622440338	DUF6691;Sulf_transp	Family of unknown function (DUF6691); Sulphur transport				
+fig|6666666.1036479.peg.2878	no STRING match		1	0.7	2	fig|6666666.1036479.peg.2501	High		0	0.8269580662250519	DUF6691;Sulf_transp	Family of unknown function (DUF6691); Sulphur transport				
+fig|6666666.1036479.peg.2878	no STRING match		1	0.7	3	fig|6666666.1036479.peg.781	Medium		0	0.8235503554344177	DUF6691;Sulf_transp	Family of unknown function (DUF6691); Sulphur transport		DUF2752	Protein of unknown function (DUF2752)	
+fig|6666666.1036479.peg.2878	no STRING match		1	0.7	4	fig|6666666.1036479.peg.619	Low	Hypothetical protein.	9	0.8151342272758484	DUF6691;Sulf_transp	Family of unknown function (DUF6691); Sulphur transport				
+fig|6666666.1036479.peg.2878	no STRING match		1	0.7	5	fig|6666666.1036479.peg.1056	High	Acyltransferase; COG1835 Predicted acyltransferases.	2	0.8084310948848724	DUF6691;Sulf_transp	Family of unknown function (DUF6691); Sulphur transport		Acyl_transf_3	Acyltransferase domain	GO:0016747
+fig|6666666.1036479.peg.2912	no STRING match		1	0.75	1	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.9196564555168152	DUF5683	Family of unknown function (DUF5683)				
+fig|6666666.1036479.peg.2912	no STRING match		1	0.75	2	fig|6666666.1036479.peg.856	Low		0	0.917311155796051	DUF5683	Family of unknown function (DUF5683)				
+fig|6666666.1036479.peg.2912	no STRING match		1	0.75	3	fig|6666666.1036479.peg.3131	Low		0	0.903643149137497	DUF5683	Family of unknown function (DUF5683)		DUF4834	Domain of unknown function (DUF4834)	
+fig|6666666.1036479.peg.2912	no STRING match		1	0.75	4	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.903573077917099	DUF5683	Family of unknown function (DUF5683)				
+fig|6666666.1036479.peg.2912	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.8929095208644867	DUF5683	Family of unknown function (DUF5683)		DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.2941	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.8361555933952332	Redoxin;AhpC-TSA;Thioredoxin;Thioredoxin_2;Thioredoxin_8	Redoxin; AhpC/TSA family; Thioredoxin; Thioredoxin-like domain; Thioredoxin-like	GO:0016209;GO:0016491			
+fig|6666666.1036479.peg.2941	no STRING match		1	0.75	2	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.8205897629261016	Redoxin;AhpC-TSA;Thioredoxin;Thioredoxin_2;Thioredoxin_8	Redoxin; AhpC/TSA family; Thioredoxin; Thioredoxin-like domain; Thioredoxin-like	GO:0016209;GO:0016491			
+fig|6666666.1036479.peg.2941	no STRING match		1	0.75	3	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.813863480091095	Redoxin;AhpC-TSA;Thioredoxin;Thioredoxin_2;Thioredoxin_8	Redoxin; AhpC/TSA family; Thioredoxin; Thioredoxin-like domain; Thioredoxin-like	GO:0016209;GO:0016491			
+fig|6666666.1036479.peg.2941	no STRING match		1	0.75	4	fig|6666666.1036479.peg.3131	Low		0	0.8045197606086731	Redoxin;AhpC-TSA;Thioredoxin;Thioredoxin_2;Thioredoxin_8	Redoxin; AhpC/TSA family; Thioredoxin; Thioredoxin-like domain; Thioredoxin-like	GO:0016209;GO:0016491	DUF4834	Domain of unknown function (DUF4834)	
+fig|6666666.1036479.peg.2941	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1719	Medium		0	0.8025931715965271	Redoxin;AhpC-TSA;Thioredoxin;Thioredoxin_2;Thioredoxin_8	Redoxin; AhpC/TSA family; Thioredoxin; Thioredoxin-like domain; Thioredoxin-like	GO:0016209;GO:0016491			
+fig|6666666.1036479.peg.2948	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.9738199591636658						
+fig|6666666.1036479.peg.2948	no STRING match		1	0.75	2	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.9656912446022032						
+fig|6666666.1036479.peg.2948	no STRING match		1	0.75	3	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.9654510498046877						
+fig|6666666.1036479.peg.2948	no STRING match		1	0.75	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.957523661851883				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.2948	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1719	Medium		0	0.9531373679637908						
+fig|6666666.1036479.peg.3011	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.9090174496173858						
+fig|6666666.1036479.peg.3011	no STRING match		1	0.75	2	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.8847859382629395						
+fig|6666666.1036479.peg.3011	no STRING match		1	0.75	3	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.8727495849132538						
+fig|6666666.1036479.peg.3011	no STRING match		1	0.75	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.8724782764911652				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.3011	no STRING match		1	0.75	5	fig|6666666.1036479.peg.2548	High		0	0.8718074500560761						
+fig|6666666.1036479.peg.3028	secondary STRING hit (STRING protein assigned to a better match)	Hypothetical protein; COG0697 Permeases of the drug/metabolite transporter (DMT) superfamily.	1	0.7	1	fig|6666666.1036479.peg.2491	Very Low		0	0.8694363713264466	EamA;EamA	EamA-like transporter family	GO:0016020			
+fig|6666666.1036479.peg.3028	secondary STRING hit (STRING protein assigned to a better match)	Hypothetical protein; COG0697 Permeases of the drug/metabolite transporter (DMT) superfamily.	1	0.7	2	fig|6666666.1036479.peg.619	Low	Hypothetical protein.	9	0.866903817653656	EamA;EamA	EamA-like transporter family	GO:0016020			
+fig|6666666.1036479.peg.3028	secondary STRING hit (STRING protein assigned to a better match)	Hypothetical protein; COG0697 Permeases of the drug/metabolite transporter (DMT) superfamily.	1	0.7	3	fig|6666666.1036479.peg.781	Medium		0	0.8624125361442566	EamA;EamA	EamA-like transporter family	GO:0016020	DUF2752	Protein of unknown function (DUF2752)	
+fig|6666666.1036479.peg.3028	secondary STRING hit (STRING protein assigned to a better match)	Hypothetical protein; COG0697 Permeases of the drug/metabolite transporter (DMT) superfamily.	1	0.7	4	fig|6666666.1036479.peg.1056	High	Acyltransferase; COG1835 Predicted acyltransferases.	2	0.8588297009468079	EamA;EamA	EamA-like transporter family	GO:0016020	Acyl_transf_3	Acyltransferase domain	GO:0016747
+fig|6666666.1036479.peg.3028	secondary STRING hit (STRING protein assigned to a better match)	Hypothetical protein; COG0697 Permeases of the drug/metabolite transporter (DMT) superfamily.	1	0.7	5	fig|6666666.1036479.peg.2658	Low	Nitrous-oxide metabolic protein NosY.	8	0.8491189062595368	EamA;EamA	EamA-like transporter family	GO:0016020	ABC2_membrane_2	ABC-2 family transporter protein	GO:0055085;GO:0140359
+fig|6666666.1036479.peg.3076	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.9697852492332458						
+fig|6666666.1036479.peg.3076	no STRING match		1	0.75	2	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.9694345593452454						
+fig|6666666.1036479.peg.3076	no STRING match		1	0.75	3	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.962609076499939						
+fig|6666666.1036479.peg.3076	no STRING match		1	0.75	4	fig|6666666.1036479.peg.3131	Low		0	0.9580095946788788				DUF4834	Domain of unknown function (DUF4834)	
+fig|6666666.1036479.peg.3076	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.9550900936126708				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.3082	no STRING match		1	0.75	1	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.8649538457393646	DUF7935	Family of unknown function (DUF7935)				
+fig|6666666.1036479.peg.3082	no STRING match		1	0.75	2	fig|6666666.1036479.peg.856	Low		0	0.8521206438541412	DUF7935	Family of unknown function (DUF7935)				
+fig|6666666.1036479.peg.3082	no STRING match		1	0.75	3	fig|6666666.1036479.peg.3131	Low		0	0.8496368288993835	DUF7935	Family of unknown function (DUF7935)		DUF4834	Domain of unknown function (DUF4834)	
+fig|6666666.1036479.peg.3082	no STRING match		1	0.75	4	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.8303714513778686	DUF7935	Family of unknown function (DUF7935)				
+fig|6666666.1036479.peg.3082	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.8231662094593049	DUF7935	Family of unknown function (DUF7935)		DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.3083	no STRING match		1	0.85	1	fig|6666666.1036479.peg.856	Low		0	0.9534398436546324						
+fig|6666666.1036479.peg.3083	no STRING match		1	0.85	2	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.9398632049560548						
+fig|6666666.1036479.peg.3083	no STRING match		1	0.85	3	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.9395592510700226						
+fig|6666666.1036479.peg.3083	no STRING match		1	0.85	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.9300956130027772				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.3083	no STRING match		1	0.85	5	fig|6666666.1036479.peg.1719	Medium		0	0.926760447025299						
+fig|6666666.1036479.peg.3089	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.9770842611789704	DUF4258	Domain of unknown function (DUF4258)				
+fig|6666666.1036479.peg.3089	no STRING match		1	0.75	2	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.9713562428951265	DUF4258	Domain of unknown function (DUF4258)				
+fig|6666666.1036479.peg.3089	no STRING match		1	0.75	3	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.9677996158599852	DUF4258	Domain of unknown function (DUF4258)				
+fig|6666666.1036479.peg.3089	no STRING match		1	0.75	4	fig|6666666.1036479.peg.3131	Low		0	0.9625986456871032	DUF4258	Domain of unknown function (DUF4258)		DUF4834	Domain of unknown function (DUF4834)	
+fig|6666666.1036479.peg.3089	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.962370765209198	DUF4258	Domain of unknown function (DUF4258)		DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.3154	no STRING match		1	0.75	1	fig|6666666.1036479.peg.3131	Low		0	0.6822451531887055	YajC	Preprotein translocase subunit		DUF4834	Domain of unknown function (DUF4834)	
+fig|6666666.1036479.peg.3154	no STRING match		1	0.75	2	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.6735573768615722	YajC	Preprotein translocase subunit				
+fig|6666666.1036479.peg.3154	no STRING match		1	0.75	3	fig|6666666.1036479.peg.1460	Very Low	COG2825 Outer membrane protein.	33	0.6624943852424622	YajC	Preprotein translocase subunit		OmpH	Outer membrane protein (OmpH-like)	
+fig|6666666.1036479.peg.3154	no STRING match		1	0.75	4	fig|6666666.1036479.peg.1419	High		0	0.6582858264446259	YajC	Preprotein translocase subunit				
+fig|6666666.1036479.peg.3154	no STRING match		1	0.75	5	fig|6666666.1036479.peg.2843	Very Low		0	0.65291268825531	YajC	Preprotein translocase subunit		OMP_b-brl_3	Outer membrane protein beta-barrel family	
+fig|6666666.1036479.peg.3221	no STRING match		2	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.8269177079200745						
+fig|6666666.1036479.peg.3221	no STRING match		2	0.75	2	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.8145597875118256						
+fig|6666666.1036479.peg.3221	no STRING match		2	0.75	3	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.8070100307464599						
+fig|6666666.1036479.peg.3221	no STRING match		2	0.75	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.7952284932136535				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.3221	no STRING match		2	0.75	5	fig|6666666.1036479.peg.3131	Low		0	0.7880665242671967				DUF4834	Domain of unknown function (DUF4834)	
+fig|6666666.1036479.peg.3223	no STRING match		2	0.7	1	fig|6666666.1036479.peg.856	Low		0	0.924256545305252						
+fig|6666666.1036479.peg.3223	no STRING match		2	0.7	2	fig|6666666.1036479.peg.2548	High		0	0.9018534362316132						
+fig|6666666.1036479.peg.3223	no STRING match		2	0.7	3	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.8991999983787536						
+fig|6666666.1036479.peg.3223	no STRING match		2	0.7	4	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.8974067568778992						
+fig|6666666.1036479.peg.3223	no STRING match		2	0.7	5	fig|6666666.1036479.peg.866	High		0	0.8909768640995026						
+fig|6666666.1036479.peg.3240	no STRING match		3	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.8669726967811584						
+fig|6666666.1036479.peg.3240	no STRING match		3	0.75	2	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.8416745126247406						
+fig|6666666.1036479.peg.3240	no STRING match		3	0.75	3	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.8395384073257446						
+fig|6666666.1036479.peg.3240	no STRING match		3	0.75	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.8295414865016937				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.3240	no STRING match		3	0.75	5	fig|6666666.1036479.peg.1719	Medium		0	0.8220021307468415						
+fig|6666666.1036479.peg.3254	no STRING match		3	0.85	1	fig|6666666.1036479.peg.856	Low		0	0.9169277906417846						
+fig|6666666.1036479.peg.3254	no STRING match		3	0.85	2	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.9006718039512634						
+fig|6666666.1036479.peg.3254	no STRING match		3	0.85	3	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.9006122946739197						
+fig|6666666.1036479.peg.3254	no STRING match		3	0.85	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.8861499786376953				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.3254	no STRING match		3	0.85	5	fig|6666666.1036479.peg.1719	Medium		0	0.8813090741634368						
+fig|6666666.1036479.peg.8	no STRING match		3	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.8669726967811584						
+fig|6666666.1036479.peg.8	no STRING match		3	0.75	2	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.8416745126247406						
+fig|6666666.1036479.peg.8	no STRING match		3	0.75	3	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.8395384073257446						
+fig|6666666.1036479.peg.8	no STRING match		3	0.75	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.8295414865016937				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.8	no STRING match		3	0.75	5	fig|6666666.1036479.peg.1719	Medium		0	0.8220021307468415						
+fig|6666666.1036479.peg.22	no STRING match		3	0.85	1	fig|6666666.1036479.peg.856	Low		0	0.9169277906417846						
+fig|6666666.1036479.peg.22	no STRING match		3	0.85	2	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.9006718039512634						
+fig|6666666.1036479.peg.22	no STRING match		3	0.85	3	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.9006122946739197						
+fig|6666666.1036479.peg.22	no STRING match		3	0.85	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.8861499786376953				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.22	no STRING match		3	0.85	5	fig|6666666.1036479.peg.1719	Medium		0	0.8813090741634368						
+fig|6666666.1036479.peg.33	no STRING match		2	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.7888358891010284						
+fig|6666666.1036479.peg.33	no STRING match		2	0.75	2	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.7610444784164428						
+fig|6666666.1036479.peg.33	no STRING match		2	0.75	3	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.7563987731933594						
+fig|6666666.1036479.peg.33	no STRING match		2	0.75	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.7507119417190552				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.33	no STRING match		2	0.75	5	fig|6666666.1036479.peg.2071	Medium		0	0.7430309593677521				DUF8694;Por_Secre_tail	Domain of unknown function (DUF8694); Secretion system C-terminal sorting domain	
+fig|6666666.1036479.peg.53	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.8196090042591095	FixS	Cytochrome oxidase maturation protein cbb3-type				
+fig|6666666.1036479.peg.53	no STRING match		1	0.75	2	fig|6666666.1036479.peg.2548	High		0	0.7980447113513947	FixS	Cytochrome oxidase maturation protein cbb3-type				
+fig|6666666.1036479.peg.53	no STRING match		1	0.75	3	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.7959920704364777	FixS	Cytochrome oxidase maturation protein cbb3-type				
+fig|6666666.1036479.peg.53	no STRING match		1	0.75	4	fig|6666666.1036479.peg.866	High		0	0.7950563788414001	FixS	Cytochrome oxidase maturation protein cbb3-type				
+fig|6666666.1036479.peg.53	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1029	Low	Hypothetical protein.	40	0.7948098003864288	FixS	Cytochrome oxidase maturation protein cbb3-type		Wzy_C	O-Antigen ligase	
+fig|6666666.1036479.peg.82	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.6485434353351593	PTP-NADK	DSP-PTPase phosphatase fused to NAD+ Kinase				
+fig|6666666.1036479.peg.82	no STRING match		1	0.75	2	fig|6666666.1036479.peg.2548	High		0	0.6478091239929199	PTP-NADK	DSP-PTPase phosphatase fused to NAD+ Kinase				
+fig|6666666.1036479.peg.82	no STRING match		1	0.75	3	fig|6666666.1036479.peg.1080	High		0	0.6469117701053619	PTP-NADK	DSP-PTPase phosphatase fused to NAD+ Kinase		EpsG	EpsG family	
+fig|6666666.1036479.peg.82	no STRING match		1	0.75	4	fig|6666666.1036479.peg.1029	Low	Hypothetical protein.	40	0.6444588243961334	PTP-NADK	DSP-PTPase phosphatase fused to NAD+ Kinase		Wzy_C	O-Antigen ligase	
+fig|6666666.1036479.peg.82	no STRING match		1	0.75	5	fig|6666666.1036479.peg.619	Low	Hypothetical protein.	9	0.6440442085266114	PTP-NADK	DSP-PTPase phosphatase fused to NAD+ Kinase				
+fig|6666666.1036479.peg.99	no STRING match		1	0.85	1	fig|6666666.1036479.peg.2501	High		0	0.5840740382671357	SelR	SelR domain	GO:0033743			
+fig|6666666.1036479.peg.99	no STRING match		1	0.85	2	fig|6666666.1036479.peg.974	Very Low		0	0.5839099526405335	SelR	SelR domain	GO:0033743			
+fig|6666666.1036479.peg.99	no STRING match		1	0.85	3	fig|6666666.1036479.peg.277	Low		0	0.5838696241378785	SelR	SelR domain	GO:0033743	Fer4_11;Fer4_10;Fer4_7;Fer4_9;LdpA_Fe-S-bd;Fer4;Fer4_6	4Fe-4S dicluster domain; LdpA Fe-S cluster-binding domain; 4Fe-4S binding domain	
+fig|6666666.1036479.peg.99	no STRING match		1	0.85	4	fig|6666666.1036479.peg.431	High	COG3256 Nitric oxide reductase large subunit; Belongs to the heme-copper respiratory oxidase family.	15	0.5809363186359405	SelR	SelR domain	GO:0033743	COX1	Cytochrome C and Quinol oxidase polypeptide I	GO:0004129;GO:0009060;GO:0016020;GO:0020037
+fig|6666666.1036479.peg.99	no STRING match		1	0.85	5	fig|6666666.1036479.peg.781	Medium		0	0.5807218313217163	SelR	SelR domain	GO:0033743	DUF2752	Protein of unknown function (DUF2752)	
+fig|6666666.1036479.peg.137	no STRING match		2	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.8269177079200745						
+fig|6666666.1036479.peg.137	no STRING match		2	0.75	2	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.8145597875118256						
+fig|6666666.1036479.peg.137	no STRING match		2	0.75	3	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.8070100307464599						
+fig|6666666.1036479.peg.137	no STRING match		2	0.75	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.7952284932136535				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.137	no STRING match		2	0.75	5	fig|6666666.1036479.peg.3131	Low		0	0.7880665242671967				DUF4834	Domain of unknown function (DUF4834)	
+fig|6666666.1036479.peg.139	no STRING match		2	0.7	1	fig|6666666.1036479.peg.856	Low		0	0.924256545305252						
+fig|6666666.1036479.peg.139	no STRING match		2	0.7	2	fig|6666666.1036479.peg.2548	High		0	0.9018534362316132						
+fig|6666666.1036479.peg.139	no STRING match		2	0.7	3	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.8991999983787536						
+fig|6666666.1036479.peg.139	no STRING match		2	0.7	4	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.8974067568778992						
+fig|6666666.1036479.peg.139	no STRING match		2	0.7	5	fig|6666666.1036479.peg.866	High		0	0.8909768640995026						
+fig|6666666.1036479.peg.156	no STRING match		3	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.8669726967811584						
+fig|6666666.1036479.peg.156	no STRING match		3	0.75	2	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.8416745126247406						
+fig|6666666.1036479.peg.156	no STRING match		3	0.75	3	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.8395384073257446						
+fig|6666666.1036479.peg.156	no STRING match		3	0.75	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.8295414865016937				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.156	no STRING match		3	0.75	5	fig|6666666.1036479.peg.1719	Medium		0	0.8220021307468415						
+fig|6666666.1036479.peg.170	no STRING match		3	0.85	1	fig|6666666.1036479.peg.856	Low		0	0.9169277906417846						
+fig|6666666.1036479.peg.170	no STRING match		3	0.85	2	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.9006718039512634						
+fig|6666666.1036479.peg.170	no STRING match		3	0.85	3	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.9006122946739197						
+fig|6666666.1036479.peg.170	no STRING match		3	0.85	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.8861499786376953				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.170	no STRING match		3	0.85	5	fig|6666666.1036479.peg.1719	Medium		0	0.8813090741634368						
+fig|6666666.1036479.peg.181	no STRING match		2	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.7888358891010284						
+fig|6666666.1036479.peg.181	no STRING match		2	0.75	2	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.7610444784164428						
+fig|6666666.1036479.peg.181	no STRING match		2	0.75	3	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.7563987731933594						
+fig|6666666.1036479.peg.181	no STRING match		2	0.75	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.7507119417190552				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.181	no STRING match		2	0.75	5	fig|6666666.1036479.peg.2071	Medium		0	0.7430309593677521				DUF8694;Por_Secre_tail	Domain of unknown function (DUF8694); Secretion system C-terminal sorting domain	
+fig|6666666.1036479.peg.200	no STRING match		1	0.7	1	fig|6666666.1036479.peg.856	Low		0	0.9019063711166382	DUF2834	Protein of unknown function DUF2834				
+fig|6666666.1036479.peg.200	no STRING match		1	0.7	2	fig|6666666.1036479.peg.2548	High		0	0.9000006973743438	DUF2834	Protein of unknown function DUF2834				
+fig|6666666.1036479.peg.200	no STRING match		1	0.7	3	fig|6666666.1036479.peg.619	Low	Hypothetical protein.	9	0.8944972693920136	DUF2834	Protein of unknown function DUF2834				
+fig|6666666.1036479.peg.200	no STRING match		1	0.7	4	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.8937207579612731	DUF2834	Protein of unknown function DUF2834				
+fig|6666666.1036479.peg.200	no STRING match		1	0.7	5	fig|6666666.1036479.peg.2506	Very Low		0	0.891155618429184	DUF2834	Protein of unknown function DUF2834				
+fig|6666666.1036479.peg.201	no STRING match		1	0.7	1	fig|6666666.1036479.peg.619	Low	Hypothetical protein.	9	0.8570604145526886	DUF8561	Domain of unknown function (DUF8561)				
+fig|6666666.1036479.peg.201	no STRING match		1	0.7	2	fig|6666666.1036479.peg.2548	High		0	0.8524160146713257	DUF8561	Domain of unknown function (DUF8561)				
+fig|6666666.1036479.peg.201	no STRING match		1	0.7	3	fig|6666666.1036479.peg.1080	High		0	0.8494886636734009	DUF8561	Domain of unknown function (DUF8561)		EpsG	EpsG family	
+fig|6666666.1036479.peg.201	no STRING match		1	0.7	4	fig|6666666.1036479.peg.1029	Low	Hypothetical protein.	40	0.8468124091625213	DUF8561	Domain of unknown function (DUF8561)		Wzy_C	O-Antigen ligase	
+fig|6666666.1036479.peg.201	no STRING match		1	0.7	5	fig|6666666.1036479.peg.253	Low	Hypothetical protein.	0	0.8462932527065277	DUF8561	Domain of unknown function (DUF8561)		YhhN	YhhN family	GO:0016020
+fig|6666666.1036479.peg.241	no STRING match		1	0.75	1	fig|6666666.1036479.peg.2548	High		0	0.8997743129730225						
+fig|6666666.1036479.peg.241	no STRING match		1	0.75	2	fig|6666666.1036479.peg.856	Low		0	0.8963442981243134						
+fig|6666666.1036479.peg.241	no STRING match		1	0.75	3	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.8934514820575714						
+fig|6666666.1036479.peg.241	no STRING match		1	0.75	4	fig|6666666.1036479.peg.619	Low	Hypothetical protein.	9	0.8925215423107147						
+fig|6666666.1036479.peg.241	no STRING match		1	0.75	5	fig|6666666.1036479.peg.974	Very Low		0	0.8886201202869415						
+fig|6666666.1036479.peg.254	no STRING match		1	0.85	1	fig|6666666.1036479.peg.856	Low		0	0.8771867275238037	YidD	Putative membrane protein insertion efficiency factor				
+fig|6666666.1036479.peg.254	no STRING match		1	0.85	2	fig|6666666.1036479.peg.2548	High		0	0.8700986206531525	YidD	Putative membrane protein insertion efficiency factor				
+fig|6666666.1036479.peg.254	no STRING match		1	0.85	3	fig|6666666.1036479.peg.974	Very Low		0	0.860309773683548	YidD	Putative membrane protein insertion efficiency factor				
+fig|6666666.1036479.peg.254	no STRING match		1	0.85	4	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.8593285977840424	YidD	Putative membrane protein insertion efficiency factor				
+fig|6666666.1036479.peg.254	no STRING match		1	0.85	5	fig|6666666.1036479.peg.866	High		0	0.858798599243164	YidD	Putative membrane protein insertion efficiency factor				
+fig|6666666.1036479.peg.289	secondary STRING hit (STRING protein assigned to a better match)	Hypothetical protein.	1	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.9170620262622832						
+fig|6666666.1036479.peg.289	secondary STRING hit (STRING protein assigned to a better match)	Hypothetical protein.	1	0.75	2	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.8991463422775269						
+fig|6666666.1036479.peg.289	secondary STRING hit (STRING protein assigned to a better match)	Hypothetical protein.	1	0.75	3	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.8967422544956207						
+fig|6666666.1036479.peg.289	secondary STRING hit (STRING protein assigned to a better match)	Hypothetical protein.	1	0.75	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.8848120152950287				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.289	secondary STRING hit (STRING protein assigned to a better match)	Hypothetical protein.	1	0.75	5	fig|6666666.1036479.peg.1719	Medium		0	0.8754563689231872						
+fig|6666666.1036479.peg.369	no STRING match		1	0.7	1	fig|6666666.1036479.peg.856	Low		0	0.9368004322052002						
+fig|6666666.1036479.peg.369	no STRING match		1	0.7	2	fig|6666666.1036479.peg.2548	High		0	0.921865487098694						
+fig|6666666.1036479.peg.369	no STRING match		1	0.7	3	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.9192408382892608						
+fig|6666666.1036479.peg.369	no STRING match		1	0.7	4	fig|6666666.1036479.peg.866	High		0	0.9143607497215273						
+fig|6666666.1036479.peg.369	no STRING match		1	0.7	5	fig|6666666.1036479.peg.253	Low	Hypothetical protein.	0	0.9139341115951538				YhhN	YhhN family	GO:0016020
+fig|6666666.1036479.peg.370	no STRING match		1	0.7	1	fig|6666666.1036479.peg.856	Low		0	0.9469168424606323						
+fig|6666666.1036479.peg.370	no STRING match		1	0.7	2	fig|6666666.1036479.peg.2548	High		0	0.9341284215450288						
+fig|6666666.1036479.peg.370	no STRING match		1	0.7	3	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.9315179467201232						
+fig|6666666.1036479.peg.370	no STRING match		1	0.7	4	fig|6666666.1036479.peg.866	High		0	0.9268393397331238						
+fig|6666666.1036479.peg.370	no STRING match		1	0.7	5	fig|6666666.1036479.peg.253	Low	Hypothetical protein.	0	0.9264174163341522				YhhN	YhhN family	GO:0016020
+fig|6666666.1036479.peg.432	no STRING match		1	0.7	1	fig|6666666.1036479.peg.431	High	COG3256 Nitric oxide reductase large subunit; Belongs to the heme-copper respiratory oxidase family.	15	0.7576033174991608	COX1	Cytochrome C and Quinol oxidase polypeptide I	GO:0004129;GO:0009060;GO:0016020;GO:0020037	COX1	Cytochrome C and Quinol oxidase polypeptide I	GO:0004129;GO:0009060;GO:0016020;GO:0020037
+fig|6666666.1036479.peg.432	no STRING match		1	0.7	2	fig|6666666.1036479.peg.2491	Very Low		0	0.747913658618927	COX1	Cytochrome C and Quinol oxidase polypeptide I	GO:0004129;GO:0009060;GO:0016020;GO:0020037			
+fig|6666666.1036479.peg.432	no STRING match		1	0.7	3	fig|6666666.1036479.peg.2501	High		0	0.7453232645988465	COX1	Cytochrome C and Quinol oxidase polypeptide I	GO:0004129;GO:0009060;GO:0016020;GO:0020037			
+fig|6666666.1036479.peg.432	no STRING match		1	0.7	4	fig|6666666.1036479.peg.781	Medium		0	0.7448693096637726	COX1	Cytochrome C and Quinol oxidase polypeptide I	GO:0004129;GO:0009060;GO:0016020;GO:0020037	DUF2752	Protein of unknown function (DUF2752)	
+fig|6666666.1036479.peg.432	no STRING match		1	0.7	5	fig|6666666.1036479.peg.2659	High		0	0.7365184724330902	COX1	Cytochrome C and Quinol oxidase polypeptide I	GO:0004129;GO:0009060;GO:0016020;GO:0020037			
+fig|6666666.1036479.peg.440	no STRING match		1	0.7	1	fig|6666666.1036479.peg.619	Low	Hypothetical protein.	9	0.859560638666153	COX4_pro	Prokaryotic Cytochrome C oxidase subunit IV	GO:0016020			
+fig|6666666.1036479.peg.440	no STRING match		1	0.7	2	fig|6666666.1036479.peg.2522	Very Low		0	0.853207802772522	COX4_pro	Prokaryotic Cytochrome C oxidase subunit IV	GO:0016020			
+fig|6666666.1036479.peg.440	no STRING match		1	0.7	3	fig|6666666.1036479.peg.781	Medium		0	0.8483440697193145	COX4_pro	Prokaryotic Cytochrome C oxidase subunit IV	GO:0016020	DUF2752	Protein of unknown function (DUF2752)	
+fig|6666666.1036479.peg.440	no STRING match		1	0.7	4	fig|6666666.1036479.peg.2548	High		0	0.8482004165649414	COX4_pro	Prokaryotic Cytochrome C oxidase subunit IV	GO:0016020			
+fig|6666666.1036479.peg.440	no STRING match		1	0.7	5	fig|6666666.1036479.peg.1056	High	Acyltransferase; COG1835 Predicted acyltransferases.	2	0.8441546499729157	COX4_pro	Prokaryotic Cytochrome C oxidase subunit IV	GO:0016020	Acyl_transf_3	Acyltransferase domain	GO:0016747
+fig|6666666.1036479.peg.452	secondary STRING hit (STRING protein assigned to a better match)	Hypothetical protein.	1	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.9039050042629242	Por_Secre_tail	Secretion system C-terminal sorting domain				
+fig|6666666.1036479.peg.452	secondary STRING hit (STRING protein assigned to a better match)	Hypothetical protein.	1	0.75	2	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.8827328145503998	Por_Secre_tail	Secretion system C-terminal sorting domain				
+fig|6666666.1036479.peg.452	secondary STRING hit (STRING protein assigned to a better match)	Hypothetical protein.	1	0.75	3	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.8744714915752411	Por_Secre_tail	Secretion system C-terminal sorting domain				
+fig|6666666.1036479.peg.452	secondary STRING hit (STRING protein assigned to a better match)	Hypothetical protein.	1	0.75	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.8670412302017212	Por_Secre_tail	Secretion system C-terminal sorting domain		DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.452	secondary STRING hit (STRING protein assigned to a better match)	Hypothetical protein.	1	0.75	5	fig|6666666.1036479.peg.1719	Medium		0	0.8633929669857026	Por_Secre_tail	Secretion system C-terminal sorting domain				
+fig|6666666.1036479.peg.561	no STRING match		1	0.7	1	fig|6666666.1036479.peg.619	Low	Hypothetical protein.	9	0.7416416108608246	DoxX	DoxX				
+fig|6666666.1036479.peg.561	no STRING match		1	0.7	2	fig|6666666.1036479.peg.781	Medium		0	0.7385190069675446	DoxX	DoxX		DUF2752	Protein of unknown function (DUF2752)	
+fig|6666666.1036479.peg.561	no STRING match		1	0.7	3	fig|6666666.1036479.peg.2080	High	Putative amino-acid efflux protein.	22	0.7341064274311065	DoxX	DoxX		LysE	LysE type translocator	GO:0006865;GO:0016020
+fig|6666666.1036479.peg.561	no STRING match		1	0.7	4	fig|6666666.1036479.peg.1056	High	Acyltransferase; COG1835 Predicted acyltransferases.	2	0.7338750720024109	DoxX	DoxX		Acyl_transf_3	Acyltransferase domain	GO:0016747
+fig|6666666.1036479.peg.561	no STRING match		1	0.7	5	fig|6666666.1036479.peg.2658	Low	Nitrous-oxide metabolic protein NosY.	8	0.732816082239151	DoxX	DoxX		ABC2_membrane_2	ABC-2 family transporter protein	GO:0055085;GO:0140359
+fig|6666666.1036479.peg.594	no STRING match		1	0.75	1	fig|6666666.1036479.peg.619	Low	Hypothetical protein.	9	0.7332978844642639	Acyltransferase	Acyltransferase	GO:0016746			
+fig|6666666.1036479.peg.594	no STRING match		1	0.75	2	fig|6666666.1036479.peg.1080	High		0	0.7324273765087128	Acyltransferase	Acyltransferase	GO:0016746	EpsG	EpsG family	
+fig|6666666.1036479.peg.594	no STRING match		1	0.75	3	fig|6666666.1036479.peg.2548	High		0	0.7320962190628052	Acyltransferase	Acyltransferase	GO:0016746			
+fig|6666666.1036479.peg.594	no STRING match		1	0.75	4	fig|6666666.1036479.peg.1029	Low	Hypothetical protein.	40	0.729606956243515	Acyltransferase	Acyltransferase	GO:0016746	Wzy_C	O-Antigen ligase	
+fig|6666666.1036479.peg.594	no STRING match		1	0.75	5	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.7280121445655823	Acyltransferase	Acyltransferase	GO:0016746			
+fig|6666666.1036479.peg.599	no STRING match		1	0.85	1	fig|6666666.1036479.peg.856	Low		0	0.87894406914711	PepS8_pro_Ba	Peptidase S8 propeptide domain, Bacteroidota				
+fig|6666666.1036479.peg.599	no STRING match		1	0.85	2	fig|6666666.1036479.peg.2548	High		0	0.868548572063446	PepS8_pro_Ba	Peptidase S8 propeptide domain, Bacteroidota				
+fig|6666666.1036479.peg.599	no STRING match		1	0.85	3	fig|6666666.1036479.peg.2516	Very Low		0	0.8604585528373718	PepS8_pro_Ba	Peptidase S8 propeptide domain, Bacteroidota				
+fig|6666666.1036479.peg.599	no STRING match		1	0.85	4	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.8567807793617248	PepS8_pro_Ba	Peptidase S8 propeptide domain, Bacteroidota				
+fig|6666666.1036479.peg.599	no STRING match		1	0.85	5	fig|6666666.1036479.peg.866	High		0	0.851831191778183	PepS8_pro_Ba	Peptidase S8 propeptide domain, Bacteroidota				
+fig|6666666.1036479.peg.644	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.7682581126689911	Ank_2;Ank_4;Ank_5;Ank;Ank_3;Ank_2	Ankyrin repeats (3 copies); Ankyrin repeats (many copies); Ankyrin repeat	GO:0005515			
+fig|6666666.1036479.peg.644	no STRING match		1	0.75	2	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.7498284995555877	Ank_2;Ank_4;Ank_5;Ank;Ank_3;Ank_2	Ankyrin repeats (3 copies); Ankyrin repeats (many copies); Ankyrin repeat	GO:0005515			
+fig|6666666.1036479.peg.644	no STRING match		1	0.75	3	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.7467183530330658	Ank_2;Ank_4;Ank_5;Ank;Ank_3;Ank_2	Ankyrin repeats (3 copies); Ankyrin repeats (many copies); Ankyrin repeat	GO:0005515			
+fig|6666666.1036479.peg.644	no STRING match		1	0.75	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.7344657123088837	Ank_2;Ank_4;Ank_5;Ank;Ank_3;Ank_2	Ankyrin repeats (3 copies); Ankyrin repeats (many copies); Ankyrin repeat	GO:0005515	DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.644	no STRING match		1	0.75	5	fig|6666666.1036479.peg.3131	Low		0	0.7342421412467957	Ank_2;Ank_4;Ank_5;Ank;Ank_3;Ank_2	Ankyrin repeats (3 copies); Ankyrin repeats (many copies); Ankyrin repeat	GO:0005515	DUF4834	Domain of unknown function (DUF4834)	
+fig|6666666.1036479.peg.684	no STRING match		1	0.7	1	fig|6666666.1036479.peg.856	Low		0	0.928294050693512						
+fig|6666666.1036479.peg.684	no STRING match		1	0.7	2	fig|6666666.1036479.peg.2548	High		0	0.9163534343242644						
+fig|6666666.1036479.peg.684	no STRING match		1	0.7	3	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.9128836631774904						
+fig|6666666.1036479.peg.684	no STRING match		1	0.7	4	fig|6666666.1036479.peg.619	Low	Hypothetical protein.	9	0.907090300321579						
+fig|6666666.1036479.peg.684	no STRING match		1	0.7	5	fig|6666666.1036479.peg.866	High		0	0.906850004196167						
+fig|6666666.1036479.peg.689	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.9648545742034912						
+fig|6666666.1036479.peg.689	no STRING match		1	0.75	2	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.9540680885314942						
+fig|6666666.1036479.peg.689	no STRING match		1	0.75	3	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.9525371432304384						
+fig|6666666.1036479.peg.689	no STRING match		1	0.75	4	fig|6666666.1036479.peg.1719	Medium		0	0.9473979115486144						
+fig|6666666.1036479.peg.689	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.9465530037879945				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.716	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.7773748934268951	DUF1266	Protein of unknown function (DUF1266)				
+fig|6666666.1036479.peg.716	no STRING match		1	0.75	2	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.7513408780097961	DUF1266	Protein of unknown function (DUF1266)				
+fig|6666666.1036479.peg.716	no STRING match		1	0.75	3	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.7437111258506774	DUF1266	Protein of unknown function (DUF1266)				
+fig|6666666.1036479.peg.716	no STRING match		1	0.75	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.738595324754715	DUF1266	Protein of unknown function (DUF1266)		DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.716	no STRING match		1	0.75	5	fig|6666666.1036479.peg.2548	High		0	0.7344879865646362	DUF1266	Protein of unknown function (DUF1266)				
+fig|6666666.1036479.peg.720	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.9231412410736084						
+fig|6666666.1036479.peg.720	no STRING match		1	0.75	2	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.904396253824234						
+fig|6666666.1036479.peg.720	no STRING match		1	0.75	3	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.9032927751541138						
+fig|6666666.1036479.peg.720	no STRING match		1	0.75	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.8914124190807342				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.720	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1719	Medium		0	0.8883878052234649						
+fig|6666666.1036479.peg.721	secondary STRING hit (STRING protein assigned to a better match)	Yd repeat protein; COG3209 Rhs family protein.	1	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.9590874671936036	Peptidase_M91	Effector protein				
+fig|6666666.1036479.peg.721	secondary STRING hit (STRING protein assigned to a better match)	Yd repeat protein; COG3209 Rhs family protein.	1	0.75	2	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.9548691630363464	Peptidase_M91	Effector protein				
+fig|6666666.1036479.peg.721	secondary STRING hit (STRING protein assigned to a better match)	Yd repeat protein; COG3209 Rhs family protein.	1	0.75	3	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.9506202936172484	Peptidase_M91	Effector protein				
+fig|6666666.1036479.peg.721	secondary STRING hit (STRING protein assigned to a better match)	Yd repeat protein; COG3209 Rhs family protein.	1	0.75	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.9403918623924256	Peptidase_M91	Effector protein		DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.721	secondary STRING hit (STRING protein assigned to a better match)	Yd repeat protein; COG3209 Rhs family protein.	1	0.75	5	fig|6666666.1036479.peg.3131	Low		0	0.9389430165290832	Peptidase_M91	Effector protein		DUF4834	Domain of unknown function (DUF4834)	
+fig|6666666.1036479.peg.723	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.953109061717987						
+fig|6666666.1036479.peg.723	no STRING match		1	0.75	2	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.9390233159065248						
+fig|6666666.1036479.peg.723	no STRING match		1	0.75	3	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.9328351616859436						
+fig|6666666.1036479.peg.723	no STRING match		1	0.75	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.9302296876907348				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.723	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1719	Medium		0	0.92389497756958						
+fig|6666666.1036479.peg.861	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.9791826069355012						
+fig|6666666.1036479.peg.861	no STRING match		1	0.75	2	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.972739189863205						
+fig|6666666.1036479.peg.861	no STRING match		1	0.75	3	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.9722169160842896						
+fig|6666666.1036479.peg.861	no STRING match		1	0.75	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.9654313325881958				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.861	no STRING match		1	0.75	5	fig|6666666.1036479.peg.3131	Low		0	0.962215006351471				DUF4834	Domain of unknown function (DUF4834)	
+fig|6666666.1036479.peg.866	no STRING match		1	0.7	1	fig|6666666.1036479.peg.856	Low		0	0.9632745921611786						
+fig|6666666.1036479.peg.866	no STRING match		1	0.7	2	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.9465060114860536						
+fig|6666666.1036479.peg.866	no STRING match		1	0.7	3	fig|6666666.1036479.peg.2548	High		0	0.9406870067119598						
+fig|6666666.1036479.peg.866	no STRING match		1	0.7	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.9388610601425172				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.866	no STRING match		1	0.7	5	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.9385800182819366						
+fig|6666666.1036479.peg.868	no STRING match		1	0.7	1	fig|6666666.1036479.peg.856	Low		0	0.8603579282760621						
+fig|6666666.1036479.peg.868	no STRING match		1	0.7	2	fig|6666666.1036479.peg.2548	High		0	0.8509479999542237						
+fig|6666666.1036479.peg.868	no STRING match		1	0.7	3	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.8474427461624146						
+fig|6666666.1036479.peg.868	no STRING match		1	0.7	4	fig|6666666.1036479.peg.866	High		0	0.8448395788669586						
+fig|6666666.1036479.peg.868	no STRING match		1	0.7	5	fig|6666666.1036479.peg.253	Low	Hypothetical protein.	0	0.842973792552948				YhhN	YhhN family	GO:0016020
+fig|6666666.1036479.peg.881	no STRING match		1	0.7	1	fig|6666666.1036479.peg.2548	High		0	0.9238807439804078						
+fig|6666666.1036479.peg.881	no STRING match		1	0.7	2	fig|6666666.1036479.peg.856	Low		0	0.9221972107887269						
+fig|6666666.1036479.peg.881	no STRING match		1	0.7	3	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.9209328711032868						
+fig|6666666.1036479.peg.881	no STRING match		1	0.7	4	fig|6666666.1036479.peg.619	Low	Hypothetical protein.	9	0.919093120098114						
+fig|6666666.1036479.peg.881	no STRING match		1	0.7	5	fig|6666666.1036479.peg.253	Low	Hypothetical protein.	0	0.9159668743610382				YhhN	YhhN family	GO:0016020
+fig|6666666.1036479.peg.907	no STRING match		1	0.75	1	fig|6666666.1036479.peg.2522	Very Low		0	0.854331374168396						
+fig|6666666.1036479.peg.907	no STRING match		1	0.75	2	fig|6666666.1036479.peg.619	Low	Hypothetical protein.	9	0.84643914103508						
+fig|6666666.1036479.peg.907	no STRING match		1	0.75	3	fig|6666666.1036479.peg.781	Medium		0	0.8424126744270325				DUF2752	Protein of unknown function (DUF2752)	
+fig|6666666.1036479.peg.907	no STRING match		1	0.75	4	fig|6666666.1036479.peg.1056	High	Acyltransferase; COG1835 Predicted acyltransferases.	2	0.8357747972011567				Acyl_transf_3	Acyltransferase domain	GO:0016747
+fig|6666666.1036479.peg.907	no STRING match		1	0.75	5	fig|6666666.1036479.peg.2501	High		0	0.8303553938865662						
+fig|6666666.1036479.peg.923	no STRING match		1	0.8	1	fig|6666666.1036479.peg.856	Low		0	0.9686365365982056						
+fig|6666666.1036479.peg.923	no STRING match		1	0.8	2	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.9668246686458588						
+fig|6666666.1036479.peg.923	no STRING match		1	0.8	3	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.9631768703460694						
+fig|6666666.1036479.peg.923	no STRING match		1	0.8	4	fig|6666666.1036479.peg.3131	Low		0	0.9571761667728425				DUF4834	Domain of unknown function (DUF4834)	
+fig|6666666.1036479.peg.923	no STRING match		1	0.8	5	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.9551169872283936				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.1074	no STRING match		1	0.7	1	fig|6666666.1036479.peg.856	Low		0	0.9457702100276948						
+fig|6666666.1036479.peg.1074	no STRING match		1	0.7	2	fig|6666666.1036479.peg.2548	High		0	0.9280180990695952						
+fig|6666666.1036479.peg.1074	no STRING match		1	0.7	3	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.9277984261512756						
+fig|6666666.1036479.peg.1074	no STRING match		1	0.7	4	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.923273503780365						
+fig|6666666.1036479.peg.1074	no STRING match		1	0.7	5	fig|6666666.1036479.peg.253	Low	Hypothetical protein.	0	0.922763168811798				YhhN	YhhN family	GO:0016020
+fig|6666666.1036479.peg.1080	no STRING match		1	0.7	1	fig|6666666.1036479.peg.856	Low		0	0.949872612953186	EpsG	EpsG family				
+fig|6666666.1036479.peg.1080	no STRING match		1	0.7	2	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.9375574707984924	EpsG	EpsG family				
+fig|6666666.1036479.peg.1080	no STRING match		1	0.7	3	fig|6666666.1036479.peg.2548	High		0	0.9373776257038116	EpsG	EpsG family				
+fig|6666666.1036479.peg.1080	no STRING match		1	0.7	4	fig|6666666.1036479.peg.253	Low	Hypothetical protein.	0	0.932459831237793	EpsG	EpsG family		YhhN	YhhN family	GO:0016020
+fig|6666666.1036479.peg.1080	no STRING match		1	0.7	5	fig|6666666.1036479.peg.619	Low	Hypothetical protein.	9	0.93028404712677	EpsG	EpsG family				
+fig|6666666.1036479.peg.1081	no STRING match		1	0.75	1	fig|6666666.1036479.peg.2548	High		0	0.8805809676647186	Glycos_transf_2	Glycosyl transferase family 2				
+fig|6666666.1036479.peg.1081	no STRING match		1	0.75	2	fig|6666666.1036479.peg.619	Low	Hypothetical protein.	9	0.8776496529579163	Glycos_transf_2	Glycosyl transferase family 2				
+fig|6666666.1036479.peg.1081	no STRING match		1	0.75	3	fig|6666666.1036479.peg.2516	Very Low		0	0.87687828540802	Glycos_transf_2	Glycosyl transferase family 2				
+fig|6666666.1036479.peg.1081	no STRING match		1	0.75	4	fig|6666666.1036479.peg.856	Low		0	0.8751555263996125	Glycos_transf_2	Glycosyl transferase family 2				
+fig|6666666.1036479.peg.1081	no STRING match		1	0.75	5	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.873096364736557	Glycos_transf_2	Glycosyl transferase family 2				
+fig|6666666.1036479.peg.1091	no STRING match		1	0.85	1	fig|6666666.1036479.peg.856	Low		0	0.853746110200882						
+fig|6666666.1036479.peg.1091	no STRING match		1	0.85	2	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.8301854312419892						
+fig|6666666.1036479.peg.1091	no STRING match		1	0.85	3	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.8140776455402374				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.1091	no STRING match		1	0.85	4	fig|6666666.1036479.peg.2548	High		0	0.8132716238498687						
+fig|6666666.1036479.peg.1091	no STRING match		1	0.85	5	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.8126677393913269						
+fig|6666666.1036479.peg.1095	secondary STRING hit (STRING protein assigned to a better match)	Multiple antibiotic resistance (MarC)-like protein; COG2095 Multiple antibiotic transporter.	1	0.7	1	fig|6666666.1036479.peg.3028	High	Hypothetical protein; COG0697 Permeases of the drug/metabolite transporter (DMT) superfamily.	0	0.6479455232620239	MarC	MarC family integral membrane protein	GO:0016020	EamA;EamA	EamA-like transporter family	GO:0016020
+fig|6666666.1036479.peg.1095	secondary STRING hit (STRING protein assigned to a better match)	Multiple antibiotic resistance (MarC)-like protein; COG2095 Multiple antibiotic transporter.	1	0.7	2	fig|6666666.1036479.peg.2743	High	Hypothetical protein; COG0730 Predicted permeases.	2	0.6464764773845673	MarC	MarC family integral membrane protein	GO:0016020	TauE	Sulfite exporter TauE/SafE	GO:0016020
+fig|6666666.1036479.peg.1095	secondary STRING hit (STRING protein assigned to a better match)	Multiple antibiotic resistance (MarC)-like protein; COG2095 Multiple antibiotic transporter.	1	0.7	3	fig|6666666.1036479.peg.777	High	COG2962 Predicted permeases.	3	0.6443658709526062	MarC	MarC family integral membrane protein	GO:0016020	EamA;EamA	EamA-like transporter family	GO:0016020
+fig|6666666.1036479.peg.1095	secondary STRING hit (STRING protein assigned to a better match)	Multiple antibiotic resistance (MarC)-like protein; COG2095 Multiple antibiotic transporter.	1	0.7	4	fig|6666666.1036479.peg.781	Medium		0	0.6439435839653015	MarC	MarC family integral membrane protein	GO:0016020	DUF2752	Protein of unknown function (DUF2752)	
+fig|6666666.1036479.peg.1095	secondary STRING hit (STRING protein assigned to a better match)	Multiple antibiotic resistance (MarC)-like protein; COG2095 Multiple antibiotic transporter.	1	0.7	5	fig|6666666.1036479.peg.2080	High	Putative amino-acid efflux protein.	22	0.6428644001483917	MarC	MarC family integral membrane protein	GO:0016020	LysE	LysE type translocator	GO:0006865;GO:0016020
+fig|6666666.1036479.peg.1218	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.9361953139305116						
+fig|6666666.1036479.peg.1218	no STRING match		1	0.75	2	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.917186689376831						
+fig|6666666.1036479.peg.1218	no STRING match		1	0.75	3	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.9122294664382936						
+fig|6666666.1036479.peg.1218	no STRING match		1	0.75	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.9073484718799592				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.1218	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1719	Medium		0	0.906249475479126						
+fig|6666666.1036479.peg.1270	no STRING match		1	0.75	1	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.7687993884086609	SecG	Preprotein translocase SecG subunit	GO:0009306;GO:0015450;GO:0016020			
+fig|6666666.1036479.peg.1270	no STRING match		1	0.75	2	fig|6666666.1036479.peg.3131	Low		0	0.7606922626495362	SecG	Preprotein translocase SecG subunit	GO:0009306;GO:0015450;GO:0016020	DUF4834	Domain of unknown function (DUF4834)	
+fig|6666666.1036479.peg.1270	no STRING match		1	0.75	3	fig|6666666.1036479.peg.856	Low		0	0.7465714991092682	SecG	Preprotein translocase SecG subunit	GO:0009306;GO:0015450;GO:0016020			
+fig|6666666.1036479.peg.1270	no STRING match		1	0.75	4	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.7408006846904754	SecG	Preprotein translocase SecG subunit	GO:0009306;GO:0015450;GO:0016020			
+fig|6666666.1036479.peg.1270	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1719	Medium		0	0.740325802564621	SecG	Preprotein translocase SecG subunit	GO:0009306;GO:0015450;GO:0016020			
+fig|6666666.1036479.peg.1284	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.9229590952396391	FtsL_2	Bacteriodetes cell division protein (FtsL-like)				
+fig|6666666.1036479.peg.1284	no STRING match		1	0.75	2	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.9201253890991212	FtsL_2	Bacteriodetes cell division protein (FtsL-like)				
+fig|6666666.1036479.peg.1284	no STRING match		1	0.75	3	fig|6666666.1036479.peg.3131	Low		0	0.9101521909236908	FtsL_2	Bacteriodetes cell division protein (FtsL-like)		DUF4834	Domain of unknown function (DUF4834)	
+fig|6666666.1036479.peg.1284	no STRING match		1	0.75	4	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.9001091718673706	FtsL_2	Bacteriodetes cell division protein (FtsL-like)				
+fig|6666666.1036479.peg.1284	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.8954816937446595	FtsL_2	Bacteriodetes cell division protein (FtsL-like)		DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.1319	no STRING match		1	0.85	1	fig|6666666.1036479.peg.856	Low		0	0.860573798418045						
+fig|6666666.1036479.peg.1319	no STRING match		1	0.85	2	fig|6666666.1036479.peg.2548	High		0	0.8478016078472137						
+fig|6666666.1036479.peg.1319	no STRING match		1	0.85	3	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.838348776102066						
+fig|6666666.1036479.peg.1319	no STRING match		1	0.85	4	fig|6666666.1036479.peg.866	High		0	0.8277441918849945						
+fig|6666666.1036479.peg.1319	no STRING match		1	0.85	5	fig|6666666.1036479.peg.1080	High		0	0.8276295721530914				EpsG	EpsG family	
+fig|6666666.1036479.peg.1365	no STRING match		1	0.85	1	fig|6666666.1036479.peg.856	Low		0	0.8690426170825958						
+fig|6666666.1036479.peg.1365	no STRING match		1	0.85	2	fig|6666666.1036479.peg.2548	High		0	0.854461270570755						
+fig|6666666.1036479.peg.1365	no STRING match		1	0.85	3	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.8441506862640381						
+fig|6666666.1036479.peg.1365	no STRING match		1	0.85	4	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.8398053407669067						
+fig|6666666.1036479.peg.1365	no STRING match		1	0.85	5	fig|6666666.1036479.peg.866	High		0	0.836684912443161						
+fig|6666666.1036479.peg.1390	no STRING match		1	0.7	1	fig|6666666.1036479.peg.856	Low		0	0.8788534760475158						
+fig|6666666.1036479.peg.1390	no STRING match		1	0.7	2	fig|6666666.1036479.peg.2282	Low	Hypothetical protein.	58	0.8468700349330902				DUF4271	Domain of unknown function (DUF4271)	
+fig|6666666.1036479.peg.1390	no STRING match		1	0.7	3	fig|6666666.1036479.peg.1029	Low	Hypothetical protein.	40	0.844875055551529				Wzy_C	O-Antigen ligase	
+fig|6666666.1036479.peg.1390	no STRING match		1	0.7	4	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.8433708727359772						
+fig|6666666.1036479.peg.1390	no STRING match		1	0.7	5	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.8433168947696685						
+fig|6666666.1036479.peg.1402	no STRING match		1	0.75	1	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.910050106048584	Thioredox_DsbH;Thioredoxin_2	Protein of unknown function, DUF255; Thioredoxin-like domain				
+fig|6666666.1036479.peg.1402	no STRING match		1	0.75	2	fig|6666666.1036479.peg.856	Low		0	0.9095293581485748	Thioredox_DsbH;Thioredoxin_2	Protein of unknown function, DUF255; Thioredoxin-like domain				
+fig|6666666.1036479.peg.1402	no STRING match		1	0.75	3	fig|6666666.1036479.peg.3131	Low		0	0.893878847360611	Thioredox_DsbH;Thioredoxin_2	Protein of unknown function, DUF255; Thioredoxin-like domain		DUF4834	Domain of unknown function (DUF4834)	
+fig|6666666.1036479.peg.1402	no STRING match		1	0.75	4	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.8931518912315368	Thioredox_DsbH;Thioredoxin_2	Protein of unknown function, DUF255; Thioredoxin-like domain				
+fig|6666666.1036479.peg.1402	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.8830014169216156	Thioredox_DsbH;Thioredoxin_2	Protein of unknown function, DUF255; Thioredoxin-like domain		DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.1403	no STRING match		1	0.75	1	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.6993159830570221	Thioredox_DsbH;Thioredoxin_7;Thioredoxin_2	Protein of unknown function, DUF255; Thioredoxin-like; Thioredoxin-like domain				
+fig|6666666.1036479.peg.1403	no STRING match		1	0.75	2	fig|6666666.1036479.peg.856	Low		0	0.6873805165290833	Thioredox_DsbH;Thioredoxin_7;Thioredoxin_2	Protein of unknown function, DUF255; Thioredoxin-like; Thioredoxin-like domain				
+fig|6666666.1036479.peg.1403	no STRING match		1	0.75	3	fig|6666666.1036479.peg.3131	Low		0	0.6870180249214173	Thioredox_DsbH;Thioredoxin_7;Thioredoxin_2	Protein of unknown function, DUF255; Thioredoxin-like; Thioredoxin-like domain		DUF4834	Domain of unknown function (DUF4834)	
+fig|6666666.1036479.peg.1403	no STRING match		1	0.75	4	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.6806474924087524	Thioredox_DsbH;Thioredoxin_7;Thioredoxin_2	Protein of unknown function, DUF255; Thioredoxin-like; Thioredoxin-like domain				
+fig|6666666.1036479.peg.1403	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1719	Medium		0	0.6742805659770965	Thioredox_DsbH;Thioredoxin_7;Thioredoxin_2	Protein of unknown function, DUF255; Thioredoxin-like; Thioredoxin-like domain				
+fig|6666666.1036479.peg.1419	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.9731922268867492						
+fig|6666666.1036479.peg.1419	no STRING match		1	0.75	2	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.9680918157100676						
+fig|6666666.1036479.peg.1419	no STRING match		1	0.75	3	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.9649984538555144						
+fig|6666666.1036479.peg.1419	no STRING match		1	0.75	4	fig|6666666.1036479.peg.3131	Low		0	0.9620428085327148				DUF4834	Domain of unknown function (DUF4834)	
+fig|6666666.1036479.peg.1419	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.958846002817154				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.1452	no STRING match		1	0.7	1	fig|6666666.1036479.peg.619	Low	Hypothetical protein.	9	0.7556575000286102	Phage_holin_4_2	Mycobacterial 4 TMS phage holin, superfamily IV				
+fig|6666666.1036479.peg.1452	no STRING match		1	0.7	2	fig|6666666.1036479.peg.781	Medium		0	0.7518508315086365	Phage_holin_4_2	Mycobacterial 4 TMS phage holin, superfamily IV		DUF2752	Protein of unknown function (DUF2752)	
+fig|6666666.1036479.peg.1452	no STRING match		1	0.7	3	fig|6666666.1036479.peg.2658	Low	Nitrous-oxide metabolic protein NosY.	8	0.7501236975193024	Phage_holin_4_2	Mycobacterial 4 TMS phage holin, superfamily IV		ABC2_membrane_2	ABC-2 family transporter protein	GO:0055085;GO:0140359
+fig|6666666.1036479.peg.1452	no STRING match		1	0.7	4	fig|6666666.1036479.peg.1080	High		0	0.7496735692024231	Phage_holin_4_2	Mycobacterial 4 TMS phage holin, superfamily IV		EpsG	EpsG family	
+fig|6666666.1036479.peg.1452	no STRING match		1	0.7	5	fig|6666666.1036479.peg.3046	Low	Hypothetical protein.	9	0.7494797825813293	Phage_holin_4_2	Mycobacterial 4 TMS phage holin, superfamily IV		GT87	Glycosyltransferase family 87	GO:0016758
+fig|6666666.1036479.peg.1490	no STRING match		1	0.7	1	fig|6666666.1036479.peg.2506	Very Low		0	0.7799064159393311	DUF456	Protein of unknown function (DUF456)				
+fig|6666666.1036479.peg.1490	no STRING match		1	0.7	2	fig|6666666.1036479.peg.781	Medium		0	0.7768796384334564	DUF456	Protein of unknown function (DUF456)		DUF2752	Protein of unknown function (DUF2752)	
+fig|6666666.1036479.peg.1490	no STRING match		1	0.7	3	fig|6666666.1036479.peg.619	Low	Hypothetical protein.	9	0.7757272541522979	DUF456	Protein of unknown function (DUF456)				
+fig|6666666.1036479.peg.1490	no STRING match		1	0.7	4	fig|6666666.1036479.peg.1056	High	Acyltransferase; COG1835 Predicted acyltransferases.	2	0.7710268318653106	DUF456	Protein of unknown function (DUF456)		Acyl_transf_3	Acyltransferase domain	GO:0016747
+fig|6666666.1036479.peg.1490	no STRING match		1	0.7	5	fig|6666666.1036479.peg.2501	High		0	0.7683510422706604	DUF456	Protein of unknown function (DUF456)				
+fig|6666666.1036479.peg.1519	no STRING match		1	0.7	1	fig|6666666.1036479.peg.856	Low		0	0.9513187110424042						
+fig|6666666.1036479.peg.1519	no STRING match		1	0.7	2	fig|6666666.1036479.peg.2548	High		0	0.9325993239879607						
+fig|6666666.1036479.peg.1519	no STRING match		1	0.7	3	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.9308514177799224						
+fig|6666666.1036479.peg.1519	no STRING match		1	0.7	4	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.9305913567543028						
+fig|6666666.1036479.peg.1519	no STRING match		1	0.7	5	fig|6666666.1036479.peg.866	High		0	0.9270404696464538						
+fig|6666666.1036479.peg.1547	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.9646988809108734						
+fig|6666666.1036479.peg.1547	no STRING match		1	0.75	2	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.9476818144321442						
+fig|6666666.1036479.peg.1547	no STRING match		1	0.75	3	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.9423395335674286						
+fig|6666666.1036479.peg.1547	no STRING match		1	0.75	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.9416483938694				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.1547	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1719	Medium		0	0.9385047078132628						
+fig|6666666.1036479.peg.1566	no STRING match		1	0.7	1	fig|6666666.1036479.peg.979	Very Low		0	0.9136434674263						
+fig|6666666.1036479.peg.1566	no STRING match		1	0.7	2	fig|6666666.1036479.peg.619	Low	Hypothetical protein.	9	0.90799058675766						
+fig|6666666.1036479.peg.1566	no STRING match		1	0.7	3	fig|6666666.1036479.peg.2548	High		0	0.9064822793006896						
+fig|6666666.1036479.peg.1566	no STRING match		1	0.7	4	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.900251030921936						
+fig|6666666.1036479.peg.1566	no STRING match		1	0.7	5	fig|6666666.1036479.peg.874	Medium		0	0.8988942623138427						
+fig|6666666.1036479.peg.1594	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.8397500693798066						
+fig|6666666.1036479.peg.1594	no STRING match		1	0.75	2	fig|6666666.1036479.peg.2548	High		0	0.8342945158481598						
+fig|6666666.1036479.peg.1594	no STRING match		1	0.75	3	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.8279727578163147						
+fig|6666666.1036479.peg.1594	no STRING match		1	0.75	4	fig|6666666.1036479.peg.1080	High		0	0.8230800211429596				EpsG	EpsG family	
+fig|6666666.1036479.peg.1594	no STRING match		1	0.75	5	fig|6666666.1036479.peg.619	Low	Hypothetical protein.	9	0.8228969752788544						
+fig|6666666.1036479.peg.1665	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.905028510093689						
+fig|6666666.1036479.peg.1665	no STRING match		1	0.75	2	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.8876657485961914						
+fig|6666666.1036479.peg.1665	no STRING match		1	0.75	3	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.8795039653778076						
+fig|6666666.1036479.peg.1665	no STRING match		1	0.75	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.8712135374546051				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.1665	no STRING match		1	0.75	5	fig|6666666.1036479.peg.3131	Low		0	0.8691655218601226				DUF4834	Domain of unknown function (DUF4834)	
+fig|6666666.1036479.peg.1671	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.982312911748886						
+fig|6666666.1036479.peg.1671	no STRING match		1	0.75	2	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.9782395243644716						
+fig|6666666.1036479.peg.1671	no STRING match		1	0.75	3	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.9760306298732756						
+fig|6666666.1036479.peg.1671	no STRING match		1	0.75	4	fig|6666666.1036479.peg.3131	Low		0	0.9720046401023864				DUF4834	Domain of unknown function (DUF4834)	
+fig|6666666.1036479.peg.1671	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.9709749042987824				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.1677	no STRING match		1	0.7	1	fig|6666666.1036479.peg.979	Very Low		0	0.8998683273792267						
+fig|6666666.1036479.peg.1677	no STRING match		1	0.7	2	fig|6666666.1036479.peg.619	Low	Hypothetical protein.	9	0.8987203896045685						
+fig|6666666.1036479.peg.1677	no STRING match		1	0.7	3	fig|6666666.1036479.peg.2548	High		0	0.8953892409801483						
+fig|6666666.1036479.peg.1677	no STRING match		1	0.7	4	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.889006769657135						
+fig|6666666.1036479.peg.1677	no STRING match		1	0.7	5	fig|6666666.1036479.peg.253	Low	Hypothetical protein.	0	0.8875677645206451				YhhN	YhhN family	GO:0016020
+fig|6666666.1036479.peg.1732	no STRING match		1	0.7	1	fig|6666666.1036479.peg.856	Low		0	0.8786238014698029	UPF0093	Protoporphyrinogen oxidase HemJ				
+fig|6666666.1036479.peg.1732	no STRING match		1	0.7	2	fig|6666666.1036479.peg.1029	Low	Hypothetical protein.	40	0.8728964149951934	UPF0093	Protoporphyrinogen oxidase HemJ		Wzy_C	O-Antigen ligase	
+fig|6666666.1036479.peg.1732	no STRING match		1	0.7	3	fig|6666666.1036479.peg.2548	High		0	0.8691797494888306	UPF0093	Protoporphyrinogen oxidase HemJ				
+fig|6666666.1036479.peg.1732	no STRING match		1	0.7	4	fig|6666666.1036479.peg.3046	Low	Hypothetical protein.	9	0.868268620967865	UPF0093	Protoporphyrinogen oxidase HemJ		GT87	Glycosyltransferase family 87	GO:0016758
+fig|6666666.1036479.peg.1732	no STRING match		1	0.7	5	fig|6666666.1036479.peg.619	Low	Hypothetical protein.	9	0.8682193338871003	UPF0093	Protoporphyrinogen oxidase HemJ				
+fig|6666666.1036479.peg.1839	no STRING match		1	0.7	1	fig|6666666.1036479.peg.619	Low	Hypothetical protein.	9	0.7723823606967926	DUF423	Protein of unknown function (DUF423)				
+fig|6666666.1036479.peg.1839	no STRING match		1	0.7	2	fig|6666666.1036479.peg.781	Medium		0	0.770428478717804	DUF423	Protein of unknown function (DUF423)		DUF2752	Protein of unknown function (DUF2752)	
+fig|6666666.1036479.peg.1839	no STRING match		1	0.7	3	fig|6666666.1036479.peg.1056	High	Acyltransferase; COG1835 Predicted acyltransferases.	2	0.7663126528263092	DUF423	Protein of unknown function (DUF423)		Acyl_transf_3	Acyltransferase domain	GO:0016747
+fig|6666666.1036479.peg.1839	no STRING match		1	0.7	4	fig|6666666.1036479.peg.2080	High	Putative amino-acid efflux protein.	22	0.7605337262153625	DUF423	Protein of unknown function (DUF423)		LysE	LysE type translocator	GO:0006865;GO:0016020
+fig|6666666.1036479.peg.1839	no STRING match		1	0.7	5	fig|6666666.1036479.peg.2658	Low	Nitrous-oxide metabolic protein NosY.	8	0.7591797828674316	DUF423	Protein of unknown function (DUF423)		ABC2_membrane_2	ABC-2 family transporter protein	GO:0055085;GO:0140359
+fig|6666666.1036479.peg.1883	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.8639759063720703						
+fig|6666666.1036479.peg.1883	no STRING match		1	0.75	2	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.8465305626392364						
+fig|6666666.1036479.peg.1883	no STRING match		1	0.75	3	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.8428527653217316						
+fig|6666666.1036479.peg.1883	no STRING match		1	0.75	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.8307076036930084				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.1883	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1719	Medium		0	0.8258150577545166						
+fig|6666666.1036479.peg.1885	no STRING match		1	0.7	1	fig|6666666.1036479.peg.619	Low	Hypothetical protein.	9	0.8242479562759399						
+fig|6666666.1036479.peg.1885	no STRING match		1	0.7	2	fig|6666666.1036479.peg.2548	High		0	0.8218872427940369						
+fig|6666666.1036479.peg.1885	no STRING match		1	0.7	3	fig|6666666.1036479.peg.3046	Low	Hypothetical protein.	9	0.8211983025074006				GT87	Glycosyltransferase family 87	GO:0016758
+fig|6666666.1036479.peg.1885	no STRING match		1	0.7	4	fig|6666666.1036479.peg.2506	Very Low		0	0.8196292817592621						
+fig|6666666.1036479.peg.1885	no STRING match		1	0.7	5	fig|6666666.1036479.peg.866	High		0	0.8182229995727539						
+fig|6666666.1036479.peg.1910	no STRING match		1	0.7	1	fig|6666666.1036479.peg.2506	Very Low		0	0.8244613528251648	DUF1294	Protein of unknown function (DUF1294)				
+fig|6666666.1036479.peg.1910	no STRING match		1	0.7	2	fig|6666666.1036479.peg.619	Low	Hypothetical protein.	9	0.822239238023758	DUF1294	Protein of unknown function (DUF1294)				
+fig|6666666.1036479.peg.1910	no STRING match		1	0.7	3	fig|6666666.1036479.peg.781	Medium		0	0.8160880744457245	DUF1294	Protein of unknown function (DUF1294)		DUF2752	Protein of unknown function (DUF2752)	
+fig|6666666.1036479.peg.1910	no STRING match		1	0.7	4	fig|6666666.1036479.peg.1056	High	Acyltransferase; COG1835 Predicted acyltransferases.	2	0.8119105637073517	DUF1294	Protein of unknown function (DUF1294)		Acyl_transf_3	Acyltransferase domain	GO:0016747
+fig|6666666.1036479.peg.1910	no STRING match		1	0.7	5	fig|6666666.1036479.peg.874	Medium		0	0.8082074820995331	DUF1294	Protein of unknown function (DUF1294)				
+fig|6666666.1036479.peg.1933	no STRING match		1	0.75	1	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.8297572135925293	TatA_B_E	mttA/Hcf106 family	GO:0015031			
+fig|6666666.1036479.peg.1933	no STRING match		1	0.75	2	fig|6666666.1036479.peg.3131	Low		0	0.8150568664073944	TatA_B_E	mttA/Hcf106 family	GO:0015031	DUF4834	Domain of unknown function (DUF4834)	
+fig|6666666.1036479.peg.1933	no STRING match		1	0.75	3	fig|6666666.1036479.peg.1460	Very Low	COG2825 Outer membrane protein.	33	0.7896922111511231	TatA_B_E	mttA/Hcf106 family	GO:0015031	OmpH	Outer membrane protein (OmpH-like)	
+fig|6666666.1036479.peg.1933	no STRING match		1	0.75	4	fig|6666666.1036479.peg.2234	Medium	BatC protein; COG0457 FOG: TPR repeat.	20	0.7848940312862396	TatA_B_E	mttA/Hcf106 family	GO:0015031	TPR_1;TPR_2;TPR_8	Tetratricopeptide repeat	GO:0005515
+fig|6666666.1036479.peg.1933	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1394	Medium		0	0.7756289899349212	TatA_B_E	mttA/Hcf106 family	GO:0015031			
+fig|6666666.1036479.peg.1937	no STRING match		1	0.8	1	fig|6666666.1036479.peg.974	Very Low		0	0.9369887471199037						
+fig|6666666.1036479.peg.1937	no STRING match		1	0.8	2	fig|6666666.1036479.peg.874	Medium		0	0.920530652999878						
+fig|6666666.1036479.peg.1937	no STRING match		1	0.8	3	fig|6666666.1036479.peg.2548	High		0	0.918477863073349						
+fig|6666666.1036479.peg.1937	no STRING match		1	0.8	4	fig|6666666.1036479.peg.3077	Medium		0	0.9177350044250489						
+fig|6666666.1036479.peg.1937	no STRING match		1	0.8	5	fig|6666666.1036479.peg.619	Low	Hypothetical protein.	9	0.916844952106476						
+fig|6666666.1036479.peg.1951	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.9347225964069368						
+fig|6666666.1036479.peg.1951	no STRING match		1	0.75	2	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.916773909330368						
+fig|6666666.1036479.peg.1951	no STRING match		1	0.75	3	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.9110658466815948						
+fig|6666666.1036479.peg.1951	no STRING match		1	0.75	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.905293083190918				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.1951	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1719	Medium		0	0.8984620571136475						
+fig|6666666.1036479.peg.1955	no STRING match		1	0.85	1	fig|6666666.1036479.peg.856	Low		0	0.8158739864826202	DUF4280	Domain of unknown function (DUF4280)				
+fig|6666666.1036479.peg.1955	no STRING match		1	0.85	2	fig|6666666.1036479.peg.2548	High		0	0.7890696346759796	DUF4280	Domain of unknown function (DUF4280)				
+fig|6666666.1036479.peg.1955	no STRING match		1	0.85	3	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.7879963040351867	DUF4280	Domain of unknown function (DUF4280)				
+fig|6666666.1036479.peg.1955	no STRING match		1	0.85	4	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.7760520040988922	DUF4280	Domain of unknown function (DUF4280)				
+fig|6666666.1036479.peg.1955	no STRING match		1	0.85	5	fig|6666666.1036479.peg.2491	Very Low		0	0.7739441454410553	DUF4280	Domain of unknown function (DUF4280)				
+fig|6666666.1036479.peg.2042	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.9597674071788788	DUF6341	Family of unknown function (DUF6341)				
+fig|6666666.1036479.peg.2042	no STRING match		1	0.75	2	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.9480644643306732	DUF6341	Family of unknown function (DUF6341)				
+fig|6666666.1036479.peg.2042	no STRING match		1	0.75	3	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.9480603456497192	DUF6341	Family of unknown function (DUF6341)				
+fig|6666666.1036479.peg.2042	no STRING match		1	0.75	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.9382057011127471	DUF6341	Family of unknown function (DUF6341)		DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.2042	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1719	Medium		0	0.9359652936458588	DUF6341	Family of unknown function (DUF6341)				
+fig|6666666.1036479.peg.2055	no STRING match		1	0.7	1	fig|6666666.1036479.peg.2345	Low	COG0843 Heme/copper-type cytochrome/quinol oxidases, subunit 1; Belongs to the heme-copper respiratory oxidase family.	38	0.6962410390377045	ATP-synt_C	ATP synthase subunit C	GO:0015078;GO:0033177;GO:1902600	COX1	Cytochrome C and Quinol oxidase polypeptide I	GO:0004129;GO:0009060;GO:0016020;GO:0020037
+fig|6666666.1036479.peg.2055	no STRING match		1	0.7	2	fig|6666666.1036479.peg.3002	Low	succinyl-CoA synthetase, alpha subunit; Succinyl-CoA synthetase functions in the citric acid cycle (TCA), coupling the hydrolysis of succinyl-CoA to the synthesis of either ATP or GTP and thus represents the only step of substrate-level phosphorylation in the TCA. The alpha subunit of the enzyme binds the substrates coenzyme A and phosphate, while succinate binding and nucleotide specificity is provided by the beta subunit.	57	0.6821961045265198	ATP-synt_C	ATP synthase subunit C	GO:0015078;GO:0033177;GO:1902600	CoA_binding;CoA_binding_2;Succ_CoA_lig;Ligase_CoA	CoA binding domain; Succinyl-CoA ligase like flavodoxin domain; CoA-ligase	GO:0003824
+fig|6666666.1036479.peg.2055	no STRING match		1	0.7	3	fig|6666666.1036479.peg.2329	High	NADH dehydrogenase I, H subunit; NDH-1 shuttles electrons from NADH, via FMN and iron-sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient. This subunit may bind ubiquinone.	39	0.6799409210681915	ATP-synt_C	ATP synthase subunit C	GO:0015078;GO:0033177;GO:1902600	NADHdh	NADH dehydrogenase	GO:0016020
+fig|6666666.1036479.peg.2055	no STRING match		1	0.7	4	fig|6666666.1036479.peg.938	Low	COG1884 Methylmalonyl-CoA mutase, N-terminal domain/subunit.	24	0.6756346523761749	ATP-synt_C	ATP synthase subunit C	GO:0015078;GO:0033177;GO:1902600	MM_CoA_mutase;B12-binding	Methylmalonyl-CoA mutase; B12 binding domain	GO:0016866;GO:0031419;GO:0046872
+fig|6666666.1036479.peg.2055	no STRING match		1	0.7	5	fig|6666666.1036479.peg.2343	Low	Hypothetical protein.	64	0.6749429821968078	ATP-synt_C	ATP synthase subunit C	GO:0015078;GO:0033177;GO:1902600			
+fig|6666666.1036479.peg.2104	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.9351974308490754						
+fig|6666666.1036479.peg.2104	no STRING match		1	0.75	2	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.9156319737434389						
+fig|6666666.1036479.peg.2104	no STRING match		1	0.75	3	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.9034335374832152				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.2104	no STRING match		1	0.75	4	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.9017914950847624						
+fig|6666666.1036479.peg.2104	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1719	Medium		0	0.8994086563587189						
+fig|6666666.1036479.peg.2118	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.8603812992572785						
+fig|6666666.1036479.peg.2118	no STRING match		1	0.75	2	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.8334291338920593						
+fig|6666666.1036479.peg.2118	no STRING match		1	0.75	3	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.8201899588108063						
+fig|6666666.1036479.peg.2118	no STRING match		1	0.75	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.8189239740371704				DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.2118	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1719	Medium		0	0.8139566361904145						
+fig|6666666.1036479.peg.2188	no STRING match		1	0.7	1	fig|6666666.1036479.peg.856	Low		0	0.9128294944763184	Colicin_V	Colicin V production protein	GO:0009403;GO:0016020			
+fig|6666666.1036479.peg.2188	no STRING match		1	0.7	2	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.896941465139389	Colicin_V	Colicin V production protein	GO:0009403;GO:0016020			
+fig|6666666.1036479.peg.2188	no STRING match		1	0.7	3	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.8888482213020324	Colicin_V	Colicin V production protein	GO:0009403;GO:0016020			
+fig|6666666.1036479.peg.2188	no STRING match		1	0.7	4	fig|6666666.1036479.peg.3131	Low		0	0.8882421255111694	Colicin_V	Colicin V production protein	GO:0009403;GO:0016020	DUF4834	Domain of unknown function (DUF4834)	
+fig|6666666.1036479.peg.2188	no STRING match		1	0.7	5	fig|6666666.1036479.peg.1719	Medium		0	0.8829118430614471	Colicin_V	Colicin V production protein	GO:0009403;GO:0016020			
+fig|6666666.1036479.peg.2319	no STRING match		1	0.7	1	fig|6666666.1036479.peg.2343	Low	Hypothetical protein.	64	0.611161881685257	Oxidored_q4	NADH-ubiquinone/plastoquinone oxidoreductase, chain 3	GO:0008137			
+fig|6666666.1036479.peg.2319	no STRING match		1	0.7	2	fig|6666666.1036479.peg.1137	Low	Preprotein translocase subunit SecY; The central subunit of the protein translocation channel SecYEG. Consists of two halves formed by TMs 1-5 and 6-10. These two domains form a lateral gate at the front which open onto the bilayer between TMs 2 and 7, and are clamped together by SecE at the back. The channel is closed by both a pore ring composed of hydrophobic SecY resides and a short helix (helix 2A) on the extracellular side of the membrane which forms a plug. The plug probably moves laterally to allow the channel to open. The ring and the pore may move independently.	58	0.5974558234214783	Oxidored_q4	NADH-ubiquinone/plastoquinone oxidoreductase, chain 3	GO:0008137	SecY	SecY	GO:0015031;GO:0016020
+fig|6666666.1036479.peg.2319	no STRING match		1	0.7	3	fig|6666666.1036479.peg.2329	High	NADH dehydrogenase I, H subunit; NDH-1 shuttles electrons from NADH, via FMN and iron-sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient. This subunit may bind ubiquinone.	39	0.5969389259815217	Oxidored_q4	NADH-ubiquinone/plastoquinone oxidoreductase, chain 3	GO:0008137	NADHdh	NADH dehydrogenase	GO:0016020
+fig|6666666.1036479.peg.2319	no STRING match		1	0.7	4	fig|6666666.1036479.peg.2345	Low	COG0843 Heme/copper-type cytochrome/quinol oxidases, subunit 1; Belongs to the heme-copper respiratory oxidase family.	38	0.5952084064483643	Oxidored_q4	NADH-ubiquinone/plastoquinone oxidoreductase, chain 3	GO:0008137	COX1	Cytochrome C and Quinol oxidase polypeptide I	GO:0004129;GO:0009060;GO:0016020;GO:0020037
+fig|6666666.1036479.peg.2319	no STRING match		1	0.7	5	fig|6666666.1036479.peg.2054	Low	ATP synthase F0, A subunit; Key component of the proton channel; it plays a direct role in the translocation of protons across the membrane.	42	0.5946532905101776	Oxidored_q4	NADH-ubiquinone/plastoquinone oxidoreductase, chain 3	GO:0008137	DUF8433;ATP-synt_A	Domain of unknown function (DUF8433); ATP synthase A chain	GO:0015078;GO:0015986;GO:0045259
+fig|6666666.1036479.peg.2332	no STRING match		1	0.7	1	fig|6666666.1036479.peg.431	High	COG3256 Nitric oxide reductase large subunit; Belongs to the heme-copper respiratory oxidase family.	15	0.6659783601760865	Oxidored_q3	NADH-ubiquinone/plastoquinone oxidoreductase chain 6	GO:0008137	COX1	Cytochrome C and Quinol oxidase polypeptide I	GO:0004129;GO:0009060;GO:0016020;GO:0020037
+fig|6666666.1036479.peg.2332	no STRING match		1	0.7	2	fig|6666666.1036479.peg.2659	High		0	0.6606216728687286	Oxidored_q3	NADH-ubiquinone/plastoquinone oxidoreductase chain 6	GO:0008137			
+fig|6666666.1036479.peg.2332	no STRING match		1	0.7	3	fig|6666666.1036479.peg.2080	High	Putative amino-acid efflux protein.	22	0.659025764465332	Oxidored_q3	NADH-ubiquinone/plastoquinone oxidoreductase chain 6	GO:0008137	LysE	LysE type translocator	GO:0006865;GO:0016020
+fig|6666666.1036479.peg.2332	no STRING match		1	0.7	4	fig|6666666.1036479.peg.441	Low	Hypothetical protein.	19	0.6587893962860107	Oxidored_q3	NADH-ubiquinone/plastoquinone oxidoreductase chain 6	GO:0008137			
+fig|6666666.1036479.peg.2332	no STRING match		1	0.7	5	fig|6666666.1036479.peg.3028	High	Hypothetical protein; COG0697 Permeases of the drug/metabolite transporter (DMT) superfamily.	0	0.6573321461677551	Oxidored_q3	NADH-ubiquinone/plastoquinone oxidoreductase chain 6	GO:0008137	EamA;EamA	EamA-like transporter family	GO:0016020
+fig|6666666.1036479.peg.2348	no STRING match		1	0.85	1	fig|6666666.1036479.peg.856	Low		0	0.9588338792324066	DUF6660	Family of unknown function (DUF6660)				
+fig|6666666.1036479.peg.2348	no STRING match		1	0.85	2	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.9467520892620088	DUF6660	Family of unknown function (DUF6660)				
+fig|6666666.1036479.peg.2348	no STRING match		1	0.85	3	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.9414362668991088	DUF6660	Family of unknown function (DUF6660)				
+fig|6666666.1036479.peg.2348	no STRING match		1	0.85	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.9366120040416718	DUF6660	Family of unknown function (DUF6660)		DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.2348	no STRING match		1	0.85	5	fig|6666666.1036479.peg.1719	Medium		0	0.934685069322586	DUF6660	Family of unknown function (DUF6660)				
+fig|6666666.1036479.peg.2434	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.8944946587085724						
+fig|6666666.1036479.peg.2434	no STRING match		1	0.75	2	fig|6666666.1036479.peg.2548	High		0	0.8906609296798706						
+fig|6666666.1036479.peg.2434	no STRING match		1	0.75	3	fig|6666666.1036479.peg.411	Low	Hypothetical protein.	0	0.8823896586894989						
+fig|6666666.1036479.peg.2434	no STRING match		1	0.75	4	fig|6666666.1036479.peg.979	Very Low		0	0.8791123151779174						
+fig|6666666.1036479.peg.2434	no STRING match		1	0.75	5	fig|6666666.1036479.peg.619	Low	Hypothetical protein.	9	0.8790644526481628						
+fig|6666666.1036479.peg.2437	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.9124476373195648	DUF6702	Domain of unknown function (DUF6702)				
+fig|6666666.1036479.peg.2437	no STRING match		1	0.75	2	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.9097029328346252	DUF6702	Domain of unknown function (DUF6702)				
+fig|6666666.1036479.peg.2437	no STRING match		1	0.75	3	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.8952778041362762	DUF6702	Domain of unknown function (DUF6702)				
+fig|6666666.1036479.peg.2437	no STRING match		1	0.75	4	fig|6666666.1036479.peg.3131	Low		0	0.8927996933460236	DUF6702	Domain of unknown function (DUF6702)		DUF4834	Domain of unknown function (DUF4834)	
+fig|6666666.1036479.peg.2437	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.8861308753490448	DUF6702	Domain of unknown function (DUF6702)		DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.2439	no STRING match		1	0.75	1	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.846140843629837	TatA_B_E	mttA/Hcf106 family	GO:0015031			
+fig|6666666.1036479.peg.2439	no STRING match		1	0.75	2	fig|6666666.1036479.peg.3131	Low		0	0.8274757564067841	TatA_B_E	mttA/Hcf106 family	GO:0015031	DUF4834	Domain of unknown function (DUF4834)	
+fig|6666666.1036479.peg.2439	no STRING match		1	0.75	3	fig|6666666.1036479.peg.856	Low		0	0.8110593795776367	TatA_B_E	mttA/Hcf106 family	GO:0015031			
+fig|6666666.1036479.peg.2439	no STRING match		1	0.75	4	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.804196685552597	TatA_B_E	mttA/Hcf106 family	GO:0015031			
+fig|6666666.1036479.peg.2439	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1460	Very Low	COG2825 Outer membrane protein.	33	0.7937474489212036	TatA_B_E	mttA/Hcf106 family	GO:0015031	OmpH	Outer membrane protein (OmpH-like)	
+fig|6666666.1036479.peg.2456	no STRING match		1	0.75	1	fig|6666666.1036479.peg.856	Low		0	0.9132749915122986	Chlam_PMP;Chlam_PMP	Chlamydia polymorphic membrane protein (Chlamydia_PMP) repeat				
+fig|6666666.1036479.peg.2456	no STRING match		1	0.75	2	fig|6666666.1036479.peg.779	Medium	Hypothetical protein.	12	0.8977414488792419	Chlam_PMP;Chlam_PMP	Chlamydia polymorphic membrane protein (Chlamydia_PMP) repeat				
+fig|6666666.1036479.peg.2456	no STRING match		1	0.75	3	fig|6666666.1036479.peg.897	Low	prolyl-tRNA synthetase; COG0457 FOG: TPR repeat.	11	0.8948511183261871	Chlam_PMP;Chlam_PMP	Chlamydia polymorphic membrane protein (Chlamydia_PMP) repeat				
+fig|6666666.1036479.peg.2456	no STRING match		1	0.75	4	fig|6666666.1036479.peg.1741	Medium	Hypothetical protein.	2	0.881056672334671	Chlam_PMP;Chlam_PMP	Chlamydia polymorphic membrane protein (Chlamydia_PMP) repeat		DUF4421	Domain of unknown function (DUF4421)	
+fig|6666666.1036479.peg.2456	no STRING match		1	0.75	5	fig|6666666.1036479.peg.1719	Medium		0	0.8759986579418182	Chlam_PMP;Chlam_PMP	Chlamydia polymorphic membrane protein (Chlamydia_PMP) repeat				

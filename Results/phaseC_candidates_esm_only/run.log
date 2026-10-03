@@ -1,0 +1,80 @@
+nodes=3257 connected=1607 isolated=1650 X dim=1280
+seed 0: val=0.726 full-ranking AUC=0.706 base=0.0122 P@0.1%=0.304 P@1%=0.097
+seed 1: val=0.724 full-ranking AUC=0.690 base=0.0113 P@0.1%=0.184 P@1%=0.074
+seed 2: val=0.699 full-ranking AUC=0.686 base=0.0110 P@0.1%=0.208 P@1%=0.079
+seed 3: val=0.729 full-ranking AUC=0.738 base=0.0124 P@0.1%=0.121 P@1%=0.125
+seed 4: val=0.746 full-ranking AUC=0.744 base=0.0119 P@0.1%=0.039 P@1%=0.061
+seed 5: val=0.702 full-ranking AUC=0.709 base=0.0125 P@0.1%=0.362 P@1%=0.103
+seed 6: val=0.744 full-ranking AUC=0.705 base=0.0132 P@0.1%=0.222 P@1%=0.128
+seed 7: val=0.726 full-ranking AUC=0.662 base=0.0133 P@0.1%=0.087 P@1%=0.075
+seed 8: val=0.702 full-ranking AUC=0.659 base=0.0124 P@0.1%=0.058 P@1%=0.043
+seed 9: val=0.752 full-ranking AUC=0.712 base=0.0118 P@0.1%=0.159 P@1%=0.092
+                                  mean       std
+val_auc                         0.7250    0.0189
+n_pairs                    206885.0000    0.0000
+n_pos                        2523.2000  154.3379
+base_rate                       0.0122    0.0007
+full_ranking_auc                0.7010    0.0280
+per_protein_precision_at5       0.0616    0.0203
+per_protein_random_at5          0.0124    0.0007
+precision_top0.0005             0.2165    0.1578
+enrichment_top0.0005           17.8908   13.0175
+precision_top0.001              0.1744    0.1046
+enrichment_top0.001            14.3661    8.5384
+precision_top0.002              0.1403    0.0664
+enrichment_top0.002            11.5201    5.3516
+precision_top0.005              0.1115    0.0413
+enrichment_top0.005             9.1183    3.1826
+precision_top0.01               0.0877    0.0270
+enrichment_top0.01              7.1735    2.0605
+precision_top0.02               0.0670    0.0187
+enrichment_top0.02              5.4762    1.3937
+precision_top0.05               0.0475    0.0123
+enrichment_top0.05              3.8835    0.9200
+precision_top0.1                0.0378    0.0078
+enrichment_top0.1               3.0941    0.5811
+isolated-connected: 2,651,550 candidate pairs; top score 0.951, score at rank 2000 0.883
+isolated-isolated: 1,360,425 candidate pairs; top score 0.947, score at rank 2000 0.866
+capped lists (<= 5 pairs per protein): 5823 / 3611 pairs from the top 5000
+                            set          tier_pair  observed  expected  obs_over_exp  binom_p_bh
+20           isolated-connected  Very Low–Very Low       500  634.7910        0.7877      0.0000
+21           isolated-connected       Very Low–Low       200  553.6430        0.3612      0.0000
+22           isolated-connected    Very Low–Medium       197  283.7005        0.6944      0.0000
+23           isolated-connected      Very Low–High        66  160.5582        0.4111      0.0000
+24           isolated-connected            Low–Low        85  108.8450        0.7809      0.0199
+25           isolated-connected         Low–Medium       307  116.0008        2.6465      0.0000
+26           isolated-connected           Low–High       105   67.1094        1.5646      0.0000
+27           isolated-connected      Medium–Medium       348   30.4441       11.4308      0.0000
+28           isolated-connected        Medium–High       182   34.9335        5.2099      0.0000
+29           isolated-connected          High–High        10    9.9745        1.0026      0.8743
+30            isolated-isolated  Very Low–Very Low       483  792.7537        0.6093      0.0000
+31            isolated-isolated       Very Low–Low       113  475.0413        0.2379      0.0000
+32            isolated-isolated    Very Low–Medium       172  284.1083        0.6054      0.0000
+33            isolated-isolated      Very Low–High        84  174.1309        0.4824      0.0000
+34            isolated-isolated            Low–Low        44   70.8676        0.6209      0.0007
+35            isolated-isolated         Low–Medium       228   85.0411        2.6811      0.0000
+36            isolated-isolated           Low–High       108   52.1219        2.0721      0.0000
+37            isolated-isolated      Medium–Medium       366   25.2936       14.4701      0.0000
+38            isolated-isolated        Medium–High       331   31.1726       10.6183      0.0000
+39            isolated-isolated          High–High        71    9.4691        7.4981      0.0000
+80  isolated-connected (capped)  Very Low–Very Low       447  634.7910        0.7042      0.0000
+81  isolated-connected (capped)       Very Low–Low       315  553.6430        0.5690      0.0000
+82  isolated-connected (capped)    Very Low–Medium       278  283.7005        0.9799      0.7486
+83  isolated-connected (capped)      Very Low–High       119  160.5582        0.7412      0.0006
+84  isolated-connected (capped)            Low–Low       102  108.8450        0.9371      0.6155
+85  isolated-connected (capped)         Low–Medium       229  116.0008        1.9741      0.0000
+86  isolated-connected (capped)           Low–High       124   67.1094        1.8477      0.0000
+87  isolated-connected (capped)      Medium–Medium       212   30.4441        6.9636      0.0000
+88  isolated-connected (capped)        Medium–High       138   34.9335        3.9504      0.0000
+89  isolated-connected (capped)          High–High        36    9.9745        3.6092      0.0000
+90   isolated-isolated (capped)  Very Low–Very Low       650  792.7537        0.8199      0.0000
+91   isolated-isolated (capped)       Very Low–Low       395  475.0413        0.8315      0.0000
+92   isolated-isolated (capped)    Very Low–Medium       240  284.1083        0.8447      0.0048
+93   isolated-isolated (capped)      Very Low–High       117  174.1309        0.6719      0.0000
+94   isolated-isolated (capped)            Low–Low        74   70.8676        1.0442      0.6721
+95   isolated-isolated (capped)         Low–Medium       118   85.0411        1.3876      0.0006
+96   isolated-isolated (capped)           Low–High       106   52.1219        2.0337      0.0000
+97   isolated-isolated (capped)      Medium–Medium       146   25.2936        5.7722      0.0000
+98   isolated-isolated (capped)        Medium–High       108   31.1726        3.4646      0.0000
+99   isolated-isolated (capped)          High–High        46    9.4691        4.8579      0.0000
+Saved outputs to /Users/harunpirim/orca/USDA_Protein/Results/phaseC_candidates_esm_only

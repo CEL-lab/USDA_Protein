@@ -1,0 +1,15 @@
+\begin{tabular}{llcc}
+\toprule
+Feature set & Encoder & ESM-2 35M & ESM-2 650M \\
+\midrule
+ESM-2 & GraphSAGE & 0.710\,$\pm$\,0.026 & 0.716\,$\pm$\,0.027 \\
+ESM-2 & MLP & 0.727\,$\pm$\,0.023 & 0.724\,$\pm$\,0.023 \\
+Biomni+ESM-2 & GraphSAGE & 0.709\,$\pm$\,0.018 & 0.718\,$\pm$\,0.031 \\
+Biomni+ESM-2 & MLP & 0.733\,$\pm$\,0.020 & 0.742\,$\pm$\,0.017 \\
+ESM-2+Node2Vec & GraphSAGE & 0.705\,$\pm$\,0.037 & 0.730\,$\pm$\,0.027 \\
+ESM-2+Node2Vec & MLP & 0.720\,$\pm$\,0.026 & 0.729\,$\pm$\,0.023 \\
+Biomni+ESM-2+Node2Vec & GraphSAGE & 0.710\,$\pm$\,0.022 & 0.714\,$\pm$\,0.044 \\
+Biomni+ESM-2+Node2Vec & MLP & 0.721\,$\pm$\,0.029 & 0.725\,$\pm$\,0.021 \\
+ESM-2 cosine similarity & -- & 0.610\,$\pm$\,0.008 & 0.635\,$\pm$\,0.006 \\
+\bottomrule
+\end{tabular}
